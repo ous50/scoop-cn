@@ -11,8 +11,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://repo.anaconda.com/miniconda/Miniconda3-py39_25.9.1-1-Windows-x86_64.exe#/setup.exe",
-            "hash": "d1e4fffc154e53b85ca35d11453807e3264074c31f8d5a93f20adaf5ef04ffc8"
+            "url": "https://repo.anaconda.com/miniconda/Miniconda3-py312_25.9.1-1-Windows-x86_64.exe#/setup.exe",
+            "hash": "f6041971c28bf802734ea1ae9aa2cbb6c58fd8fbb4a5a49f8d7ea54e37d6760c"
         }
     },
     "installer": {
@@ -55,12 +55,12 @@
     "persist": "bin\\envs",
     "checkver": {
         "url": "https://repo.anaconda.com/miniconda/",
-        "regex": "Miniconda3-py39_([\\d.]+-?[\\d]?)-Windows"
+        "regex": "Miniconda3-py312_([\\d.]+-?[\\d]?)-Windows"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://repo.anaconda.com/miniconda/Miniconda3-py39_$version-Windows-x86_64.exe#/setup.exe"
+                "url": "https://repo.anaconda.com/miniconda/Miniconda3-py312_$version-Windows-x86_64.exe#/setup.exe"
             }
         },
         "hash": {
