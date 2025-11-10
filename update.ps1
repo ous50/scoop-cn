@@ -17,6 +17,7 @@ Copy-Item -Path .\scoop-nirsoft\bucket\*      -Destination .\bucket  -Recurse -F
 Copy-Item -Path .\scoop-nerd-fonts\bucket\*   -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-games\bucket\*        -Destination .\bucket  -Recurse -Force
 Copy-Item -Path .\scoop-sysinternals\bucket\* -Destination .\bucket  -Recurse -Force
+Copy-Item -Path .\ous50\bucket\*       -Destination .\bucket -Recurse -Force
 Copy-Item -Path .\Main\scripts\*              -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Extras\scripts\*            -Destination .\scripts -Recurse -Force
 Copy-Item -Path .\Versions\scripts\*          -Destination .\scripts -Recurse -Force
