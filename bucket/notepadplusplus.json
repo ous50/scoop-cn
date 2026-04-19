@@ -6,15 +6,15 @@
     "notes": "Add Notepad++ as a context menu option by running: reg import \"$dir\\install-context.reg\"",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.x64.zip",
             "hash": "020c4d697bd0bb24eb332cf9098e62d0c3328b6d6ae65862c4a745e9a7d010a3"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.zip",
             "hash": "2f0e085e90737365b4f76442eee70a3332a9d8b526a1faa734d0f4a8b403ad68"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.3/npp.8.9.3.portable.arm64.zip",
             "hash": "8d3d587dfce6823ee2c8455caf83c98bbca4c4fdf6a1f29454ccd27b0277f130"
         }
     },
@@ -71,13 +71,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.portable.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.portable.x64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.portable.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.portable.arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.portable.arm64.zip"
             }
         },
         "hash": {
@@ -85,3 +85,4 @@
         }
     }
 }
+

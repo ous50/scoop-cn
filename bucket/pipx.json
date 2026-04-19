@@ -6,7 +6,7 @@
     "suggest": {
         "Python": "python"
     },
-    "url": "https://ghfast.top/https://github.com/pypa/pipx/releases/download/1.11.1/pipx.pyz",
+    "url": "https://gh-proxy.org/https://github.com/pypa/pipx/releases/download/1.11.1/pipx.pyz",
     "hash": "60c947d2449af642c17079a2119ef87e426ad83967b8bb223bb27c802fc29ccd",
     "pre_install": [
         "$cmd = $null",
@@ -24,6 +24,7 @@
         "github": "https://github.com/pypa/pipx"
     },
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
+        "url": "https://gh-proxy.org/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
     }
 }
+

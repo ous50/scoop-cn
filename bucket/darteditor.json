@@ -18,3 +18,4 @@
     "bin": "DartEditor.exe",
     "env_add_path": "dart-sdk\\bin"
 }
+

@@ -8,17 +8,17 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/GitoxideLabs/gitoxide/releases/download/v0.52.0/gitoxide-max-v0.52.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/GitoxideLabs/gitoxide/releases/download/v0.52.0/gitoxide-max-v0.52.0-i686-pc-windows-msvc.zip",
             "hash": "78530f9eca1d0b52222cdd8a8fecb47da9544e5d5419be2bc00faeead7cb35ba",
             "extract_dir": "gitoxide-max-v0.52.0-i686-pc-windows-msvc"
         },
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/GitoxideLabs/gitoxide/releases/download/v0.52.0/gitoxide-max-v0.52.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/GitoxideLabs/gitoxide/releases/download/v0.52.0/gitoxide-max-v0.52.0-x86_64-pc-windows-msvc.zip",
             "hash": "50e9e64a1160755f308dd5f093f2575af31333a96ed52c589db8db2e6d6c3872",
             "extract_dir": "gitoxide-max-v0.52.0-x86_64-pc-windows-msvc"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/GitoxideLabs/gitoxide/releases/download/v0.52.0/gitoxide-max-v0.52.0-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/GitoxideLabs/gitoxide/releases/download/v0.52.0/gitoxide-max-v0.52.0-aarch64-pc-windows-msvc.zip",
             "hash": "97790b886c3232c5047661fcd923d085edab6459946f8612527a7621e367dcdd",
             "extract_dir": "gitoxide-max-v0.52.0-aarch64-pc-windows-msvc"
         }
@@ -31,15 +31,15 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/GitoxideLabs/gitoxide/releases/download/v$version/gitoxide-max-v$version-i686-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/GitoxideLabs/gitoxide/releases/download/v$version/gitoxide-max-v$version-i686-pc-windows-msvc.zip",
                 "extract_dir": "gitoxide-max-v$version-i686-pc-windows-msvc"
             },
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/GitoxideLabs/gitoxide/releases/download/v$version/gitoxide-max-v$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/GitoxideLabs/gitoxide/releases/download/v$version/gitoxide-max-v$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "gitoxide-max-v$version-x86_64-pc-windows-msvc"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/GitoxideLabs/gitoxide/releases/download/v$version/gitoxide-max-v$version-aarch64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/GitoxideLabs/gitoxide/releases/download/v$version/gitoxide-max-v$version-aarch64-pc-windows-msvc.zip",
                 "extract_dir": "gitoxide-max-v$version-aarch64-pc-windows-msvc"
             }
         },
@@ -48,3 +48,4 @@
         }
     }
 }
+

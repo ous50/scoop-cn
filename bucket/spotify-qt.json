@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/kraxarn/spotify-qt/releases/download/v4.0.3/spotify-qt-v4.0.3-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kraxarn/spotify-qt/releases/download/v4.0.3/spotify-qt-v4.0.3-win64.zip",
             "hash": "2e569f648f8aa194dd3857fc7b21e743f8619abbecb35cd4da13928e8341f8c0"
         }
     },
@@ -24,8 +24,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/kraxarn/spotify-qt/releases/download/v$matchHead/spotify-qt-v$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/kraxarn/spotify-qt/releases/download/v$matchHead/spotify-qt-v$version-win64.zip"
             }
         }
     }
 }
+

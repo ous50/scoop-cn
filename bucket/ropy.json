@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/StudentWeis/ropy/releases/download/0.4.5/ropy-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/StudentWeis/ropy/releases/download/0.4.5/ropy-x86_64-pc-windows-msvc.zip",
             "hash": "802c6c96edbfa07247acb402c49fd7ae2637d8121ea82427bcf1e52abbb00342"
         }
     },
@@ -19,11 +19,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/StudentWeis/ropy/releases/download/$version/ropy-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/StudentWeis/ropy/releases/download/$version/ropy-x86_64-pc-windows-msvc.zip",
                 "hash": {
-                    "url": "https://ghfast.top/https://github.com/StudentWeis/ropy/releases/download/$version/ropy-x86_64-pc-windows-msvc.zip.sha256"
+                    "url": "https://gh-proxy.org/https://github.com/StudentWeis/ropy/releases/download/$version/ropy-x86_64-pc-windows-msvc.zip.sha256"
                 }
             }
         }
     }
 }
+

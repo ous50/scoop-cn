@@ -12,7 +12,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-windows-amd64.exe#/wox.exe",
+            "url": "https://gh-proxy.org/https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-windows-amd64.exe#/wox.exe",
             "hash": "36af1e9f53d155a13375a7dc0fffaf094b3f5ef327a31d9c6eaacc3f0843be84"
         }
     },
@@ -31,8 +31,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Wox-launcher/Wox/releases/download/v$version/wox-windows-amd64.exe#/wox.exe"
+                "url": "https://gh-proxy.org/https://github.com/Wox-launcher/Wox/releases/download/v$version/wox-windows-amd64.exe#/wox.exe"
             }
         }
     }
 }
+

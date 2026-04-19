@@ -3,14 +3,15 @@
     "description": "Inno Setup Unpacker (Unicode)",
     "homepage": "https://www.rathlev-home.de/tools/prog-e.html#unpack",
     "license": "GPL-3.0-only",
-    "url": "https://ghfast.top/https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/bin/innounp-2.zip",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/bin/innounp-2.zip",
     "hash": "7218a4c6ec5ef1e7eb0ab828f9788fa9be658119385c23cad865aa07ccd6084c",
     "bin": "innounp.exe",
     "checkver": {
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/docs/innounp.htm",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/docs/innounp.htm",
         "regex": "(?s)What's new/History.*?<b>(\\d+(?:\\.\\d+){2})</b>"
     },
     "autoupdate": {
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/bin/innounp-2.zip"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jrathlev/InnoUnpacker-Windows-GUI/refs/heads/master/innounp-2/bin/innounp-2.zip"
     }
 }
+

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-or-later,Unlicense,LGPL-2.1-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/axcore/tartube/releases/download/v2.5.197/tartube-2.5.197-64bit-mswin-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/axcore/tartube/releases/download/v2.5.197/tartube-2.5.197-64bit-mswin-portable.zip",
             "hash": "0b4b721d337b3238ace37e142177532ca2a7f43cd30268b830e5db1659e91671",
             "shortcuts": [
                 [
@@ -26,8 +26,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/axcore/tartube/releases/download/v$version/tartube-$version-64bit-mswin-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/axcore/tartube/releases/download/v$version/tartube-$version-64bit-mswin-portable.zip"
             }
         }
     }
 }
+

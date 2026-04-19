@@ -8,3 +8,4 @@
     "pre_install": "\"java -Xmx512M -jar \\\"$dir\\jkrypto.jar\\\"\" | out-file -encoding oem \"$dir\\jkrypto.ps1\"",
     "bin": "jkrypto.ps1"
 }
+

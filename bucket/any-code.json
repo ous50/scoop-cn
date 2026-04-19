@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/anyme123/Any-code/releases/download/v5.28.5/Any_Code_5.28.5_x64-portable.exe#/Any-Code.exe",
+            "url": "https://gh-proxy.org/https://github.com/anyme123/Any-code/releases/download/v5.28.5/Any_Code_5.28.5_x64-portable.exe#/Any-Code.exe",
             "hash": "327169f4238660a1967d08997e644b738d7a7aa852caa25c9ab6c250747b3f53"
         }
     },
@@ -19,8 +19,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/anyme123/Any-code/releases/download/v$version/Any_Code_$version_x64-portable.exe#/Any-Code.exe"
+                "url": "https://gh-proxy.org/https://github.com/anyme123/Any-code/releases/download/v$version/Any_Code_$version_x64-portable.exe#/Any-Code.exe"
             }
         }
     }
 }
+

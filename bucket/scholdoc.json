@@ -9,3 +9,4 @@
     "bin": "scholdoc.exe",
     "checkver": "<strong>Current stable version:<\\/strong> ([\\d.]+)"
 }
+

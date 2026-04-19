@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/magefile/mage/releases/download/v1.17.1/mage_1.17.1_Windows-64bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/magefile/mage/releases/download/v1.17.1/mage_1.17.1_Windows-64bit.zip",
             "hash": "c02ee66d08f10fb6921e2b27a62fb9c3105160ef4569e73c4a8a219a24df93aa"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/magefile/mage/releases/download/v$version/mage_$version_Windows-64bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/magefile/mage/releases/download/v$version/mage_$version_Windows-64bit.zip"
             }
         },
         "hash": {
@@ -24,3 +24,4 @@
         }
     }
 }
+

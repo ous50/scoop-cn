@@ -11,3 +11,4 @@
     "pre_install": "Get-ChildItem \"$dir\\*.exe\" | Rename-Item -NewName 'gameboosthd.exe'",
     "bin": "gameboosthd.exe"
 }
+

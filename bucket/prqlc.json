@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/PRQL/prql/releases/download/0.13.11/prqlc-0.13.11-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/PRQL/prql/releases/download/0.13.11/prqlc-0.13.11-x86_64-pc-windows-msvc.zip",
             "hash": "740a2e542e8f62cf2d63657d60e67c7212b7279c53b83978c315acbba87d9bd4"
         }
     },
@@ -16,8 +16,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/PRQL/prql/releases/download/$version/prqlc-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/PRQL/prql/releases/download/$version/prqlc-$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }
 }
+

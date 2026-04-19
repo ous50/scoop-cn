@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/4gray/iptvnator/releases/download/v0.19.0/iptvnator-0.19.0-windows-x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/4gray/iptvnator/releases/download/v0.19.0/iptvnator-0.19.0-windows-x64-setup.exe#/dl.7z",
             "hash": "ffeb0db4f996612fa6b8512d5360786630373de739157f503fcf80fffed10771",
             "installer": {
                 "script": [
@@ -25,8 +25,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/4gray/iptvnator/releases/download/v$version/iptvnator-$version-windows-x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/4gray/iptvnator/releases/download/v$version/iptvnator-$version-windows-x64-setup.exe#/dl.7z"
             }
         }
     }
 }
+

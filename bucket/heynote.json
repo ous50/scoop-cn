@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/heyman/heynote/releases/download/v2.8.2/Heynote_2.8.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/heyman/heynote/releases/download/v2.8.2/Heynote_2.8.2.exe#/dl.7z",
             "hash": "sha512:f897703ad646e049151f35229d4a7e1295b5dc5274b1916b42a24835a5103c50509c17e6b9585f2497697b7459b3a1d83e5ebfd0205ea7b0a8b49bd5a6f32539"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/heyman/heynote/releases/download/v$version/Heynote_$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/heyman/heynote/releases/download/v$version/Heynote_$version.exe#/dl.7z"
             }
         },
         "hash": {
@@ -34,3 +34,4 @@
         }
     }
 }
+

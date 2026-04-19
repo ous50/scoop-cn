@@ -1,5 +1,5 @@
 {
-    "version": "0.0.40-19218",
+    "version": "0.0.40-19227",
     "description": "Open-source Sony PlayStation 3 emulator",
     "homepage": "https://rpcs3.net/",
     "license": {
@@ -17,12 +17,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-2d6ca912fe7745a2f5a26cb9a0f1f5c13590afda/rpcs3-v0.0.40-19218-2d6ca912_win64_msvc.7z",
-            "hash": "551289b359001b14f883b4382d76c2765f55d0177e2cd97c6748e24c0cc4842a"
+            "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-06a6880c6c21f28ed7eddf03883a74d3ff993399/rpcs3-v0.0.40-19227-06a6880c_win64_msvc.7z",
+            "hash": "ddc221e1509ed504008c6466a4d41c25b46d84958f27f19824d811e07d7fdeb7"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/build-2d6ca912fe7745a2f5a26cb9a0f1f5c13590afda/rpcs3-v0.0.40-19218-2d6ca912_win64_aarch64_clang.7z",
-            "hash": "d34bb570e62116b31803ccdd5c294a24b54518eb8709e383eb6f29bc86d118b8"
+            "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/build-06a6880c6c21f28ed7eddf03883a74d3ff993399/rpcs3-v0.0.40-19227-06a6880c_win64_aarch64_clang.7z",
+            "hash": "674ca1127570b92c8737dc76052b53b5db01d1a1b21f4f93a9f320fbb688b421"
         }
     },
     "pre_install": [
@@ -65,17 +65,18 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_msvc.7z",
+                "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_msvc.7z",
                 "hash": {
-                    "url": "https://ghfast.top/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_msvc.7z.sha256"
+                    "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_msvc.7z.sha256"
                 }
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_aarch64_clang.7z",
+                "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_aarch64_clang.7z",
                 "hash": {
-                    "url": "https://ghfast.top/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_aarch64_clang.7z.sha256"
+                    "url": "https://gh-proxy.org/https://github.com/RPCS3/rpcs3-binaries-win-arm64/releases/download/$matchBuild/rpcs3-v$version-$matchCommit_win64_aarch64_clang.7z.sha256"
                 }
             }
         }
     }
 }
+

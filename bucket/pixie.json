@@ -8,3 +8,4 @@
     "bin": "pixie.exe",
     "checkver": "</b>\\s+([\\d.]+)"
 }
+

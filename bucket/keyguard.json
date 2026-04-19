@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/AChep/keyguard-app/releases/download/r20260415/Keyguard-2.8.1.msi",
+            "url": "https://gh-proxy.org/https://github.com/AChep/keyguard-app/releases/download/r20260415/Keyguard-2.8.1.msi",
             "hash": "55311c6aa2538f76a25b5e0a6ba0313978a2a2ece0471a85fb1c026e6dd788e3"
         }
     },
@@ -27,8 +27,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/AChep/keyguard-app/releases/download/r$preReleaseVersion/Keyguard-$matchHead.msi"
+                "url": "https://gh-proxy.org/https://github.com/AChep/keyguard-app/releases/download/r$preReleaseVersion/Keyguard-$matchHead.msi"
             }
         }
     }
 }
+

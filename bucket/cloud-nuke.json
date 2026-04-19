@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.49.0/cloud-nuke_windows_amd64.exe#/cloud-nuke.exe",
+            "url": "https://gh-proxy.org/https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.49.0/cloud-nuke_windows_amd64.exe#/cloud-nuke.exe",
             "hash": "40daa75b2df03599a6bd18f0690a24b0bead97cba6dba43262fbd44229a61c60"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.49.0/cloud-nuke_windows_386.exe#/cloud-nuke.exe",
+            "url": "https://gh-proxy.org/https://github.com/gruntwork-io/cloud-nuke/releases/download/v0.49.0/cloud-nuke_windows_386.exe#/cloud-nuke.exe",
             "hash": "80fcf1c3bd66c31e26b408063d0d14866e36cbae6543183f6de7d28b469eaa3b"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/gruntwork-io/cloud-nuke/releases/download/v$version/cloud-nuke_windows_amd64.exe#/cloud-nuke.exe"
+                "url": "https://gh-proxy.org/https://github.com/gruntwork-io/cloud-nuke/releases/download/v$version/cloud-nuke_windows_amd64.exe#/cloud-nuke.exe"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/gruntwork-io/cloud-nuke/releases/download/v$version/cloud-nuke_windows_386.exe#/cloud-nuke.exe"
+                "url": "https://gh-proxy.org/https://github.com/gruntwork-io/cloud-nuke/releases/download/v$version/cloud-nuke_windows_386.exe#/cloud-nuke.exe"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

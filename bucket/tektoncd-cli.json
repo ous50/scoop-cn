@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/tektoncd/cli/releases/download/v0.44.1/tkn_0.44.1_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tektoncd/cli/releases/download/v0.44.1/tkn_0.44.1_Windows_x86_64.zip",
             "hash": "56dcebd33e5068a89457f4ac9807197a386602b140577b94a9c3ba2e15e83ce1"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/tektoncd/cli/releases/download/v0.44.1/tkn_0.44.1_Windows_aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tektoncd/cli/releases/download/v0.44.1/tkn_0.44.1_Windows_aarch64.zip",
             "hash": "6217232b40e29662cf77a3390e6de19b09a8c71a6e9e2a6f4566b70442c086cc"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/tektoncd/cli/releases/download/v$version/tkn_$version_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tektoncd/cli/releases/download/v$version/tkn_$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/tektoncd/cli/releases/download/v$version/tkn_$version_Windows_aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tektoncd/cli/releases/download/v$version/tkn_$version_Windows_aarch64.zip"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

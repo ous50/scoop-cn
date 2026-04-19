@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-Setup-9.0.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/lutzroeder/netron/releases/download/v9.0.2/Netron-Setup-9.0.2.exe#/dl.7z",
             "hash": "sha512:2e7776abf4436ff809766792601f07d469298f661eafb992b602676e7af812a2263660a6b796625c6068bff3382866bf330c4bebf3bd173ca31d34a45186aed0",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/lutzroeder/netron/releases/download/v$version/Netron-Setup-$version.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/lutzroeder/netron/releases/download/v$version/Netron-Setup-$version.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "sha512:\\s+$base64"
@@ -35,3 +35,4 @@
         }
     }
 }
+

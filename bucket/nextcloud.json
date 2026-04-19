@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/nextcloud-releases/desktop/releases/download/v33.0.2/Nextcloud-33.0.2-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/nextcloud-releases/desktop/releases/download/v33.0.2/Nextcloud-33.0.2-x64.msi",
             "hash": "01b249b87d440afababab42607927a281ee8c6871fb803659fd786a9e4360b69"
         }
     },
@@ -33,8 +33,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/nextcloud-releases/desktop/releases/download/v$version/Nextcloud-$version-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/nextcloud-releases/desktop/releases/download/v$version/Nextcloud-$version-x64.msi"
             }
         }
     }
 }
+

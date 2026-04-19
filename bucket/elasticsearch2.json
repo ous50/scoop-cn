@@ -40,3 +40,4 @@
         "(gc \"$dir\\config\\elasticsearch.yml\") | % { $_ -replace '# path.data: /path/to/data', \"path.data: $persist_dir\\data\" } | % { $_ -replace '# path.logs: /path/to/logs', \"path.logs: $persist_dir\\logs\" } | Set-Content \"$dir\\config\\elasticsearch.yml\""
     ]
 }
+

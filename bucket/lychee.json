@@ -5,7 +5,7 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/lycheeverse/lychee/releases/download/lychee-v0.23.0/lychee-x86_64-windows.exe#/lychee.exe",
+            "url": "https://gh-proxy.org/https://github.com/lycheeverse/lychee/releases/download/lychee-v0.23.0/lychee-x86_64-windows.exe#/lychee.exe",
             "hash": "0fda7ff0a60c0250939fc25361c2d4e6e7853c31c996733fdd5a1dd760bcb824"
         }
     },
@@ -17,8 +17,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/lycheeverse/lychee/releases/download/lychee-v$version/lychee-x86_64-windows.exe#/lychee.exe"
+                "url": "https://gh-proxy.org/https://github.com/lycheeverse/lychee/releases/download/lychee-v$version/lychee-x86_64-windows.exe#/lychee.exe"
             }
         }
     }
 }
+

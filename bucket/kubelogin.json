@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/int128/kubelogin/releases/download/v1.36.1/kubelogin_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/int128/kubelogin/releases/download/v1.36.1/kubelogin_windows_amd64.zip",
             "hash": "0e48b4cc6c0cf6c96e8308f54473ddbcafce037549dce989e3eeecec428bfa32"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/int128/kubelogin/releases/download/v$version/kubelogin_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/int128/kubelogin/releases/download/v$version/kubelogin_windows_amd64.zip"
             }
         },
         "hash": {
@@ -28,3 +28,4 @@
         }
     }
 }
+

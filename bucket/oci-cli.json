@@ -5,7 +5,7 @@
     "license": "UPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/oracle/oci-cli/releases/download/v3.79.0/oci-cli-3.79.0-Windows-Server-Installer.msi",
+            "url": "https://gh-proxy.org/https://github.com/oracle/oci-cli/releases/download/v3.79.0/oci-cli-3.79.0-Windows-Server-Installer.msi",
             "hash": "220a78caac2c8b7972111612b4a602e0b8ddfc24080d9ac15a52e305bc73aa92"
         }
     },
@@ -14,8 +14,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/oracle/oci-cli/releases/download/v$version/oci-cli-$version-Windows-Server-Installer.msi"
+                "url": "https://gh-proxy.org/https://github.com/oracle/oci-cli/releases/download/v$version/oci-cli-$version-Windows-Server-Installer.msi"
             }
         }
     }
 }
+

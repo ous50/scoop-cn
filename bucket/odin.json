@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/odin-lang/Odin/releases/download/dev-2026-04/odin-windows-amd64-dev-2026-04.zip",
+            "url": "https://gh-proxy.org/https://github.com/odin-lang/Odin/releases/download/dev-2026-04/odin-windows-amd64-dev-2026-04.zip",
             "hash": "a7497ea0dc412ec7202cd7933d17b051edb8f5ac34b9f6af88cf7285e7199b8c"
         }
     },
@@ -26,8 +26,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/odin-lang/Odin/releases/download/dev-$version/odin-windows-amd64-dev-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/odin-lang/Odin/releases/download/dev-$version/odin-windows-amd64-dev-$version.zip"
             }
         }
     }
 }
+

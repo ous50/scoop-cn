@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/nelson-lang/nelson/releases/download/v1.16.0/Nelson-1.16.0.5575-x86-64.exe",
+            "url": "https://gh-proxy.org/https://github.com/nelson-lang/nelson/releases/download/v1.16.0/Nelson-1.16.0.5575-x86-64.exe",
             "hash": "539e5dc2e357543733a1371ccaf3b2ca1d03b57fddc94ae9e66c7890850e02cc"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/nelson-lang/nelson/releases/download/v1.16.0/Nelson-1.16.0.5575-ARM64.exe",
+            "url": "https://gh-proxy.org/https://github.com/nelson-lang/nelson/releases/download/v1.16.0/Nelson-1.16.0.5575-ARM64.exe",
             "hash": "ee1042346a3c1ac06003313b83e794180509067c19bec6681e71486fd19d539f"
         }
     },
@@ -40,11 +40,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/nelson-lang/nelson/releases/download/$matchTag/Nelson-$version-x86-64.exe"
+                "url": "https://gh-proxy.org/https://github.com/nelson-lang/nelson/releases/download/$matchTag/Nelson-$version-x86-64.exe"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/nelson-lang/nelson/releases/download/$matchTag/Nelson-$version-ARM64.exe"
+                "url": "https://gh-proxy.org/https://github.com/nelson-lang/nelson/releases/download/$matchTag/Nelson-$version-ARM64.exe"
             }
         }
     }
 }
+

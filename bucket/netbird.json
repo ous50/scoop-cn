@@ -5,11 +5,11 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/netbirdio/netbird/releases/download/v0.68.3/netbird_installer_0.68.3_windows_amd64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/netbirdio/netbird/releases/download/v0.68.3/netbird_installer_0.68.3_windows_amd64.exe#/dl.7z",
             "hash": "8be915a12034b9c0fdb3f6a29e44bfbf9a5e9a11fd60c3f56ca394190487153f"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/netbirdio/netbird/releases/download/v0.68.3/netbird_installer_0.68.3_windows_arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/netbirdio/netbird/releases/download/v0.68.3/netbird_installer_0.68.3_windows_arm64.exe#/dl.7z",
             "hash": "62a5da6836d00271833983715034d944a736583b78758b466b35f37a494186ad"
         }
     },
@@ -27,11 +27,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_installer_$version_windows_amd64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_installer_$version_windows_amd64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_installer_$version_windows_arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_installer_$version_windows_arm64.exe#/dl.7z"
             }
         }
     }
 }
+

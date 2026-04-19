@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/nukeop/nuclear/releases/download/player%401.34.0/Nuclear_1.34.0_x64-setup.exe#/dl.7z",
             "hash": "5da12df63118f3f2730be57f6f723d2211fd5baa41e37d7cf972ec61d571c54b"
         }
     },
@@ -23,8 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/nukeop/nuclear/releases/download/player%40$version/Nuclear_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/nukeop/nuclear/releases/download/player%40$version/Nuclear_$version_x64-setup.exe#/dl.7z"
             }
         }
     }
 }
+

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26+35/OpenJDK26U-jre_x64_windows_hotspot_26_35.zip",
+            "url": "https://gh-proxy.org/https://github.com/adoptium/temurin26-binaries/releases/download/jdk-26+35/OpenJDK26U-jre_x64_windows_hotspot_26_35.zip",
             "hash": "5b776c83068703c4f6b52545673161981a74262d9751aba7eaa87b38a19beb8d"
         }
     },
@@ -38,3 +38,4 @@
         "extract_dir": "$matchTag-jre"
     }
 }
+

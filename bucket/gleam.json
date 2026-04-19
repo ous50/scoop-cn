@@ -6,7 +6,7 @@
     "depends": "scoop-cn/erlang",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/gleam-lang/gleam/releases/download/v1.15.4/gleam-v1.15.4-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/gleam-lang/gleam/releases/download/v1.15.4/gleam-v1.15.4-x86_64-pc-windows-msvc.zip",
             "hash": "10d39e079780f1040606e51d4da837b90df449c168216e2141b6ae2f867fd7c3"
         }
     },
@@ -17,8 +17,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/gleam-lang/gleam/releases/download/v$version/gleam-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/gleam-lang/gleam/releases/download/v$version/gleam-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }
 }
+

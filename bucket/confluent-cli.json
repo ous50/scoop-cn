@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/confluentinc/cli/releases/download/v4.58.0/confluent_4.58.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/confluentinc/cli/releases/download/v4.58.0/confluent_4.58.0_windows_amd64.zip",
             "hash": "c5e7bd0d011325ba7466900be68a9103b452854362b75696872e6241bd74d3e4"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/confluentinc/cli/releases/download/v$version/confluent_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/confluentinc/cli/releases/download/v$version/confluent_$version_windows_amd64.zip"
             }
         },
         "hash": {
@@ -30,3 +30,4 @@
         }
     }
 }
+

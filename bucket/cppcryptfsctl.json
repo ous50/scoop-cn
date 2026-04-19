@@ -9,8 +9,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfsctl.exe",
-                "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfs.exe"
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfsctl.exe",
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfs.exe"
             ],
             "hash": [
                 "f47de68f211d14f411a2a395633caff882bb3b9b77ce4464e596c595968c0656",
@@ -19,8 +19,8 @@
         },
         "32bit": {
             "url": [
-                "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfsctl32.exe#/cppcryptfsctl.exe",
-                "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfs32.exe#/cppcryptfs.exe"
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfsctl32.exe#/cppcryptfsctl.exe",
+                "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.9/cppcryptfs32.exe#/cppcryptfs.exe"
             ],
             "hash": [
                 "a4ea64b789aae14c5406bb05a551c23469accf9fc7866d837e51568c899414cf",
@@ -37,16 +37,17 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl.exe",
-                    "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs.exe"
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl.exe",
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs.exe"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl32.exe#/cppcryptfsctl.exe",
-                    "https://ghfast.top/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs32.exe#/cppcryptfs.exe"
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfsctl32.exe#/cppcryptfsctl.exe",
+                    "https://gh-proxy.org/https://github.com/bailey27/cppcryptfs/releases/download/v$version/cppcryptfs32.exe#/cppcryptfs.exe"
                 ]
             }
         }
     }
 }
+

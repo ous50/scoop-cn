@@ -20,10 +20,11 @@
     ],
     "persist": "electrum_data",
     "checkver": {
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/spesmilo/electrum-web/master/index.html",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/spesmilo/electrum-web/master/index.html",
         "regex": "Latest release: Electrum-([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://download.electrum.org/$version/electrum-$version-portable.exe#/electrum.exe"
     }
 }
+

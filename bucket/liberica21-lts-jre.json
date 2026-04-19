@@ -5,15 +5,15 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/21.0.10%2B10/bellsoft-jre21.0.10%2B10-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.10%2B10/bellsoft-jre21.0.10%2B10-windows-amd64.zip",
             "hash": "sha1:8591b63d3567bab96967aa9f31cde55e34899483"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/21.0.10%2B10/bellsoft-jre21.0.10%2B10-windows-i586.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.10%2B10/bellsoft-jre21.0.10%2B10-windows-i586.zip",
             "hash": "sha1:389a12c4304ee024e159aa0fe3369091923326d8"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/21.0.10%2B10/bellsoft-jre21.0.10%2B10-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.10%2B10/bellsoft-jre21.0.10%2B10-windows-aarch64.zip",
             "hash": "sha1:90fbff56e27de288b722108e70a4e529f6f9f344"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-i586.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-i586.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-aarch64.zip"
             }
         },
         "hash": {
@@ -47,3 +47,4 @@
         "extract_dir": "jre-$matchMajor"
     }
 }
+

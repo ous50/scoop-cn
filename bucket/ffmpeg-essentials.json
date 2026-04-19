@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/GyanD/codexffmpeg/releases/download/8.1/ffmpeg-8.1-essentials_build.7z",
+            "url": "https://gh-proxy.org/https://github.com/GyanD/codexffmpeg/releases/download/8.1/ffmpeg-8.1-essentials_build.7z",
             "hash": "9b299a21fc1ca36ac22e4911f8958404c228e4059583c4651743122a8d0a7e56",
             "extract_dir": "ffmpeg-8.1-essentials_build"
         }
@@ -22,9 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/GyanD/codexffmpeg/releases/download/$version/ffmpeg-$version-essentials_build.7z",
+                "url": "https://gh-proxy.org/https://github.com/GyanD/codexffmpeg/releases/download/$version/ffmpeg-$version-essentials_build.7z",
                 "extract_dir": "ffmpeg-$version-essentials_build"
             }
         }
     }
 }
+

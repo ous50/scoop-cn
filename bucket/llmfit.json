@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/AlexsJones/llmfit/releases/download/v0.9.10/llmfit-v0.9.10-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlexsJones/llmfit/releases/download/v0.9.10/llmfit-v0.9.10-x86_64-pc-windows-msvc.zip",
             "hash": "055caa85bbd22d93af3c102d38096294a6425f9e253a8f6017fa9fdc1318889b",
             "extract_dir": "llmfit-v0.9.10-x86_64-pc-windows-msvc"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/AlexsJones/llmfit/releases/download/v0.9.10/llmfit-v0.9.10-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlexsJones/llmfit/releases/download/v0.9.10/llmfit-v0.9.10-aarch64-pc-windows-msvc.zip",
             "hash": "e8255bacf1f700630cd8a74f1ca8cd5f05ea830756523727228b80f573490070",
             "extract_dir": "llmfit-v0.9.10-aarch64-pc-windows-msvc"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/AlexsJones/llmfit/releases/download/v$version/llmfit-v$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/AlexsJones/llmfit/releases/download/v$version/llmfit-v$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "llmfit-v$version-x86_64-pc-windows-msvc"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/AlexsJones/llmfit/releases/download/v$version/llmfit-v$version-aarch64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/AlexsJones/llmfit/releases/download/v$version/llmfit-v$version-aarch64-pc-windows-msvc.zip",
                 "extract_dir": "llmfit-v$version-aarch64-pc-windows-msvc"
             }
         },
@@ -33,3 +33,4 @@
         }
     }
 }
+

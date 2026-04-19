@@ -6,3 +6,4 @@
     "url": "https://oneget.org/oneget.zip",
     "post_install": "Import-Module \"$dir\\OneGet.psd1\""
 }
+

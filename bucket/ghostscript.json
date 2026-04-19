@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/gs10070w64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/gs10070w64.exe#/dl.7z",
             "hash": "sha512:ccee91cc0a7ae7b9413e7d3b4354a49530eae2ebb8e968d8af9115aaa02f6cea2efb10a86d6fc43597b50a18d0ba4c7bfa49a551ea485cab5f8ca26009be3f8b",
             "bin": [
                 "bin\\gswin64.exe",
@@ -20,7 +20,7 @@
             ]
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/gs10070w32.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10070/gs10070w32.exe#/dl.7z",
             "hash": "sha512:8472a405b7ffad52a470e44003c8fcb43b36cced1d385048b6849f6f6b6f802e0a645ebb353fcb908d19cf75c0c4de31de5189c48c101ba030f2fd1ba31f0d64",
             "bin": [
                 "bin\\gswin32.exe",
@@ -58,10 +58,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw32.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw32.exe#/dl.7z"
             }
         },
         "hash": {
@@ -69,3 +69,4 @@
         }
     }
 }
+

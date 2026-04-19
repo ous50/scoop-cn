@@ -11,15 +11,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.04.10.234907/yt-dlp.exe",
+            "url": "https://gh-proxy.org/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.04.10.234907/yt-dlp.exe",
             "hash": "sha512:8c6f67700eed5bf514ec995623b6193f4bd9486328ab69ad9e52e040fee482c29c0cd5f29d300322c12be0b84fa9a2d4052ea8152fbfda0cd5b96b7ec01f23bd"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.04.10.234907/yt-dlp_x86.exe#/yt-dlp.exe",
+            "url": "https://gh-proxy.org/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.04.10.234907/yt-dlp_x86.exe#/yt-dlp.exe",
             "hash": "sha512:f0e58c9b93a026aecb4706f5bc85c86ca5bff6ffd6d046d89adfddcf6f3566e741c595adc3ece8dfdf63db36b8f378cff8a266dc8fbe20d6973b702424bf9a4b"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.04.10.234907/yt-dlp_arm64.exe#/yt-dlp.exe",
+            "url": "https://gh-proxy.org/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/2026.04.10.234907/yt-dlp_arm64.exe#/yt-dlp.exe",
             "hash": "sha512:555504da8350780b4eadfa4a85600a19b9c9ce31067a044d35e2796ec2c0d259721e2daa4105af6a78dfdaeee37caedcaae5a2adf82fc6c032c388ea253fa4cb"
         }
     },
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/$version/yt-dlp.exe"
+                "url": "https://gh-proxy.org/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/$version/yt-dlp.exe"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/$version/yt-dlp_x86.exe#/yt-dlp.exe"
+                "url": "https://gh-proxy.org/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/$version/yt-dlp_x86.exe#/yt-dlp.exe"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/$version/yt-dlp_arm64.exe#/yt-dlp.exe"
+                "url": "https://gh-proxy.org/https://github.com/yt-dlp/yt-dlp-master-builds/releases/download/$version/yt-dlp_arm64.exe#/yt-dlp.exe"
             }
         },
         "hash": {
@@ -48,3 +48,4 @@
         }
     }
 }
+

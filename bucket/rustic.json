@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/rustic-rs/rustic/releases/download/v0.11.2/rustic-v0.11.2-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/rustic-rs/rustic/releases/download/v0.11.2/rustic-v0.11.2-x86_64-pc-windows-msvc.tar.gz",
             "hash": "6bf1052f5ac2b48f7124273526ce87784a970ebbe2463b0bfa3dae0a5f3613ff"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/rustic-rs/rustic/releases/download/v$version/rustic-v$version-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/rustic-rs/rustic/releases/download/v$version/rustic-v$version-x86_64-pc-windows-msvc.tar.gz"
             }
         },
         "hash": {
@@ -31,3 +31,4 @@
         }
     }
 }
+

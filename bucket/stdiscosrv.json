@@ -5,12 +5,12 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/syncthing/discosrv/releases/download/v2.0.16/stdiscosrv-windows-amd64-v2.0.16.zip",
+            "url": "https://gh-proxy.org/https://github.com/syncthing/discosrv/releases/download/v2.0.16/stdiscosrv-windows-amd64-v2.0.16.zip",
             "hash": "f43f4bb9d4e6548af321f90b7aff38bc1c399811ac8f7e8168280a9c0fbb28aa",
             "extract_dir": "stdiscosrv-windows-amd64-v2.0.16"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/syncthing/discosrv/releases/download/v2.0.16/stdiscosrv-windows-386-v2.0.16.zip",
+            "url": "https://gh-proxy.org/https://github.com/syncthing/discosrv/releases/download/v2.0.16/stdiscosrv-windows-386-v2.0.16.zip",
             "hash": "b59d6450ce172469d9f390c316b6311e7f425fe521b8c54232a91f57003328c9",
             "extract_dir": "stdiscosrv-windows-386-v2.0.16"
         }
@@ -42,13 +42,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-amd64-v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-amd64-v$version.zip",
                 "extract_dir": "stdiscosrv-windows-amd64-v$version"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-386-v$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/syncthing/discosrv/releases/download/v$version/stdiscosrv-windows-386-v$version.zip",
                 "extract_dir": "stdiscosrv-windows-386-v$version"
             }
         }
     }
 }
+

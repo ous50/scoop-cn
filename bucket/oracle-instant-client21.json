@@ -47,3 +47,4 @@
         "extract_dir": "instantclient_$majorVersion_$minorVersion"
     }
 }
+

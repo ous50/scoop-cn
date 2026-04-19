@@ -5,15 +5,15 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/orhun/git-cliff/releases/download/v2.12.0/git-cliff-2.12.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/orhun/git-cliff/releases/download/v2.12.0/git-cliff-2.12.0-i686-pc-windows-msvc.zip",
             "hash": "2aeef6cf51283d6e9e6f0413bb0527d09d9f475dd9372ff7bd0f7c8b0192381a"
         },
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/orhun/git-cliff/releases/download/v2.12.0/git-cliff-2.12.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/orhun/git-cliff/releases/download/v2.12.0/git-cliff-2.12.0-x86_64-pc-windows-msvc.zip",
             "hash": "f2b8c692d9488c3313d7786e2099976151c10fd8f76580b12d045bb9683a8379"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/orhun/git-cliff/releases/download/v2.12.0/git-cliff-2.12.0-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/orhun/git-cliff/releases/download/v2.12.0/git-cliff-2.12.0-aarch64-pc-windows-msvc.zip",
             "hash": "faa97e8a741a853eea0e826207211c59727a7f90218c26c56bb6c8c4038ac058"
         }
     },
@@ -25,15 +25,16 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-i686-pc-windows-msvc.zip"
             },
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/orhun/git-cliff/releases/download/v$version/git-cliff-$version-aarch64-pc-windows-msvc.zip"
             }
         },
         "extract_dir": "git-cliff-$version"
     }
 }
+

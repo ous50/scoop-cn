@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/artem78/AutoScreenshot/releases/download/v1.16.2/AutoScreenshot_v1.16.2_Windows_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/artem78/AutoScreenshot/releases/download/v1.16.2/AutoScreenshot_v1.16.2_Windows_portable.zip",
             "hash": "83ebaa47471819f3f72ec969b0de976067bfd7042eb91797ecf904bc9883d602",
             "extract_dir": "AutoScreenshot_v1.16.2"
         }
@@ -25,9 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/artem78/AutoScreenshot/releases/download/v$version/AutoScreenshot_v$version_Windows_portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/artem78/AutoScreenshot/releases/download/v$version/AutoScreenshot_v$version_Windows_portable.zip",
                 "extract_dir": "AutoScreenshot_v$version"
             }
         }
     }
 }
+

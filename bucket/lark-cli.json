@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/larksuite/cli/releases/download/v1.0.14/lark-cli-1.0.14-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/larksuite/cli/releases/download/v1.0.14/lark-cli-1.0.14-windows-amd64.zip",
             "hash": "9220b505464d45711f017ea1de84e15d8025d25b46cbf31364509e90ffbf2641"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/larksuite/cli/releases/download/v1.0.14/lark-cli-1.0.14-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/larksuite/cli/releases/download/v1.0.14/lark-cli-1.0.14-windows-arm64.zip",
             "hash": "4cc7295af6ec57991e739549c5162e240f8df44701d3d50f2e5937608a131f26"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/larksuite/cli/releases/download/v$version/lark-cli-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/larksuite/cli/releases/download/v$version/lark-cli-$version-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/larksuite/cli/releases/download/v$version/lark-cli-$version-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/larksuite/cli/releases/download/v$version/lark-cli-$version-windows-arm64.zip"
             }
         },
         "hash": {
@@ -34,3 +34,4 @@
         }
     }
 }
+

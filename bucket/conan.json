@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/conan-io/conan/releases/download/2.27.1/conan-2.27.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/conan-io/conan/releases/download/2.27.1/conan-2.27.1-windows-x86_64.zip",
             "hash": "951b7b6d149940aba05a97c257fd47b9c17fedbf5a096a459f530c8253a5dde6"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/conan-io/conan/releases/download/2.27.1/conan-2.27.1-windows-i686.zip",
+            "url": "https://gh-proxy.org/https://github.com/conan-io/conan/releases/download/2.27.1/conan-2.27.1-windows-i686.zip",
             "hash": "7caca830cc22a322799514c5451c72a3f795616e8885e5067f57e8612952c330"
         }
     },
@@ -20,11 +20,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-i686.zip"
+                "url": "https://gh-proxy.org/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-i686.zip"
             }
         }
     }
 }
+

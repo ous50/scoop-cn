@@ -9,13 +9,14 @@
             "scoop-cn/openjdk"
         ]
     },
-    "url": "https://ghfast.top/https://github.com/google/google-java-format/releases/download/v1.35.0/google-java-format-1.35.0-all-deps.jar#/google-java-format.jar",
+    "url": "https://gh-proxy.org/https://github.com/google/google-java-format/releases/download/v1.35.0/google-java-format-1.35.0-all-deps.jar#/google-java-format.jar",
     "hash": "bfb7f9ead6cd328389bc2da53860443bc0e805dfd08cc889bfdf43b26cb2a6e8",
     "bin": "google-java-format.jar",
     "checkver": {
         "github": "https://github.com/google/google-java-format"
     },
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/google/google-java-format/releases/download/v$version/google-java-format-$version-all-deps.jar#/google-java-format.jar"
+        "url": "https://gh-proxy.org/https://github.com/google/google-java-format/releases/download/v$version/google-java-format-$version-all-deps.jar#/google-java-format.jar"
     }
 }
+

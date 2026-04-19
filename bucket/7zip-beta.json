@@ -5,11 +5,11 @@
     "license": "LGPL-2.1-or-later,BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.msi",
             "hash": "c388d0444871ca11b21237001af158cfddad7e137851795e5b65cee69b518495"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/ip7z/7zip/releases/download/26.00/7z2600.msi",
+            "url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.00/7z2600.msi",
             "hash": "53b4f99a2471678020a326fd1d5c888616f5d6c84b00d5db7da30357755c74c3"
         }
     },
@@ -43,3 +43,4 @@
         }
     }
 }
+

@@ -14,11 +14,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/filips123/PWAsForFirefox/releases/download/v2.18.2/firefoxpwa-2.18.2-x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/filips123/PWAsForFirefox/releases/download/v2.18.2/firefoxpwa-2.18.2-x86_64.msi",
             "hash": "ec17c701a7ac1513febb1d501d4477e1222a05568851e41ef969e2af8729adfd"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/filips123/PWAsForFirefox/releases/download/v2.18.2/firefoxpwa-2.18.2-x86.msi",
+            "url": "https://gh-proxy.org/https://github.com/filips123/PWAsForFirefox/releases/download/v2.18.2/firefoxpwa-2.18.2-x86.msi",
             "hash": "6536680ee1e9849e27378dab71b3dc070c7eb2195e2b27f01a6344de4d604156"
         }
     },
@@ -43,11 +43,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/filips123/PWAsForFirefox/releases/download/v$version/firefoxpwa-$version-x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/filips123/PWAsForFirefox/releases/download/v$version/firefoxpwa-$version-x86_64.msi"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/filips123/PWAsForFirefox/releases/download/v$version/firefoxpwa-$version-x86.msi"
+                "url": "https://gh-proxy.org/https://github.com/filips123/PWAsForFirefox/releases/download/v$version/firefoxpwa-$version-x86.msi"
             }
         }
     }
 }
+

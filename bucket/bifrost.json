@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/zacharee/SamloaderKotlin/releases/download/2.1.0/bifrost-2.1.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/zacharee/SamloaderKotlin/releases/download/2.1.0/bifrost-2.1.0-windows-amd64.zip",
             "hash": "484c47f8f918cd8e5cf7f5daf622dcc876887d65403d02ba0057273472dadec7"
         }
     },
@@ -25,8 +25,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/zacharee/SamloaderKotlin/releases/download/$version/bifrost-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/zacharee/SamloaderKotlin/releases/download/$version/bifrost-$version-windows-amd64.zip"
             }
         }
     }
 }
+

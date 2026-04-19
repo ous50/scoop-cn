@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/alecthomas/chroma/releases/download/v2.23.1/chroma-2.23.1-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v2.23.1/chroma-2.23.1-windows-amd64.tar.gz",
             "hash": "7ea1b550012182a70ccc3b51b499802f5f103431ca27049932b7a33ae6362270"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/alecthomas/chroma/releases/download/v2.23.1/chroma-2.23.1-windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v2.23.1/chroma-2.23.1-windows-386.tar.gz",
             "hash": "697d4012bdc41a26f32705ed79d6506205f41dfcfff71bfb9625403f8f68c6a2"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-386.tar.gz"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

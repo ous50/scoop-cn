@@ -5,7 +5,7 @@
     "license": "LGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Ultimaker/Cura/releases/download/5.12.1/Ultimaker-Cura-5.12.1-win64-X64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Ultimaker/Cura/releases/download/5.12.1/Ultimaker-Cura-5.12.1-win64-X64.exe#/dl.7z",
             "hash": "3a8d3b34d3fc7aafd495630a0ad07cfc19badb50a2a99c22597d4adb971c78da"
         }
     },
@@ -23,8 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Ultimaker/Cura/releases/download/$version/Ultimaker-Cura-$version-win64-X64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Ultimaker/Cura/releases/download/$version/Ultimaker-Cura-$version-win64-X64.exe#/dl.7z"
             }
         }
     }
 }
+

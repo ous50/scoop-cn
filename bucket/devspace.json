@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/devspace-sh/devspace/releases/download/v6.3.20/devspace-windows-amd64.exe#/devspace.exe",
+            "url": "https://gh-proxy.org/https://github.com/devspace-sh/devspace/releases/download/v6.3.20/devspace-windows-amd64.exe#/devspace.exe",
             "hash": "71a21718f63245edcdb278995f179cf2d3ee52c263ddf3162180a07fcd4d5853"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/devspace-sh/devspace/releases/download/v6.3.20/devspace-windows-386.exe#/devspace.exe",
+            "url": "https://gh-proxy.org/https://github.com/devspace-sh/devspace/releases/download/v6.3.20/devspace-windows-386.exe#/devspace.exe",
             "hash": "c89f6d870520714b0ca8ed51fe1404ba603757b930d96c5c43446b0bb9049e22"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/devspace-sh/devspace/releases/download/v$version/devspace-windows-amd64.exe#/devspace.exe"
+                "url": "https://gh-proxy.org/https://github.com/devspace-sh/devspace/releases/download/v$version/devspace-windows-amd64.exe#/devspace.exe"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/devspace-sh/devspace/releases/download/v$version/devspace-windows-386.exe#/devspace.exe"
+                "url": "https://gh-proxy.org/https://github.com/devspace-sh/devspace/releases/download/v$version/devspace-windows-386.exe#/devspace.exe"
             }
         },
         "hash": {
@@ -31,3 +31,4 @@
         }
     }
 }
+

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/erlang/otp/releases/download/OTP-28.4.2/otp_win64_28.4.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/erlang/otp/releases/download/OTP-28.4.2/otp_win64_28.4.2.exe#/dl.7z",
             "hash": "9c9320f5077f196d796d8af1b35629d646c02189e7bb5f020d80a8e677d46990"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/erlang/otp/releases/download/OTP-28.4.2/otp_win32_28.4.2.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/erlang/otp/releases/download/OTP-28.4.2/otp_win32_28.4.2.exe#/dl.7z",
             "hash": "197b9fa9eeb89a3302aca3d3162610f7d103cb65685fb566b1ac2788304ba18c"
         }
     },
@@ -43,11 +43,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win64_$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win64_$version.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win32_$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win32_$version.exe#/dl.7z"
             }
         }
     }
 }
+

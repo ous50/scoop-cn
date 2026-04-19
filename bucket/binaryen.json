@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/WebAssembly/binaryen/releases/download/version_129/binaryen-version_129-x86_64-windows.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/WebAssembly/binaryen/releases/download/version_129/binaryen-version_129-x86_64-windows.tar.gz",
             "hash": "1405d2f51377859ccf5fcd2c59c0a8c5756373e691ca0eeb5219f646b743e3aa"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/WebAssembly/binaryen/releases/download/version_$version/binaryen-version_$version-x86_64-windows.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/WebAssembly/binaryen/releases/download/version_$version/binaryen-version_$version-x86_64-windows.tar.gz",
                 "hash": {
                     "url": "$url.sha256"
                 }
@@ -39,3 +39,4 @@
         "extract_dir": "binaryen-version_$version"
     }
 }
+

@@ -41,8 +41,9 @@
             }
         },
         "hash": {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/microsoft/winget-pkgs/HEAD/manifests/f/FilesCommunity/Files/$version/FilesCommunity.Files.installer.yaml",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/microsoft/winget-pkgs/HEAD/manifests/f/FilesCommunity/Files/$version/FilesCommunity.Files.installer.yaml",
             "regex": "(?s)$basename.+?$sha256"
         }
     }
 }
+

@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/graphif/project-graph/releases/download/v2.12.0/Project.Graph_2.12.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v2.12.0/Project.Graph_2.12.0_x64-setup.exe#/dl.7z",
             "hash": "44afb063bd3c26ec3fe6375c720a1e0b69afff282fa1ad98a6a2f36975b73db7"
         }
     },
@@ -28,8 +28,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/graphif/project-graph/releases/download/v$version/Project.Graph_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v$version/Project.Graph_$version_x64-setup.exe#/dl.7z"
             }
         }
     }
 }
+

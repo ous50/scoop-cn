@@ -11,9 +11,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghfast.top/https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_9.7.2.exe#/KCC.exe",
-                "https://ghfast.top/https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_c2e_9.7.2.exe#/kcc-c2e.exe",
-                "https://ghfast.top/https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_c2p_9.7.2.exe#/kcc-c2p.exe"
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_9.7.2.exe#/KCC.exe",
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_c2e_9.7.2.exe#/kcc-c2e.exe",
+                "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v9.7.2/KCC_c2p_9.7.2.exe#/kcc-c2p.exe"
             ],
             "hash": [
                 "c4bca95428e128fcf754a69a9398c7ac23c611fbff6278caa57d9bfb6e1eedd3",
@@ -37,11 +37,12 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghfast.top/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_$version.exe#/KCC.exe",
-                    "https://ghfast.top/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_c2e_$version.exe#/kcc-c2e.exe",
-                    "https://ghfast.top/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_c2p_$version.exe#/kcc-c2p.exe"
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_$version.exe#/KCC.exe",
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_c2e_$version.exe#/kcc-c2e.exe",
+                    "https://gh-proxy.org/https://github.com/ciromattia/kcc/releases/download/v$version/KCC_c2p_$version.exe#/kcc-c2p.exe"
                 ]
             }
         }
     }
 }
+

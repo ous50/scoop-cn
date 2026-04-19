@@ -6,7 +6,7 @@
     "depends": "scoop-cn/less",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/bensadeh/tailspin/releases/download/6.0.0/tailspin-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/bensadeh/tailspin/releases/download/6.0.0/tailspin-x86_64-pc-windows-msvc.zip",
             "hash": "4a20a89e471471fdcf1afea6ad821aeb3cdab89a49da84445e1d3ff7895e67c6"
         }
     },
@@ -15,8 +15,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/bensadeh/tailspin/releases/download/$version/tailspin-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/bensadeh/tailspin/releases/download/$version/tailspin-x86_64-pc-windows-msvc.zip"
             }
         }
     }
 }
+

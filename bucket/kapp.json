@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.1/kapp-windows-amd64.exe#/kapp.exe",
+            "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/carvel-kapp/releases/download/v0.65.1/kapp-windows-amd64.exe#/kapp.exe",
             "hash": "fc40792f6c363b98ecf4d08fd95ce79ececc1076629eb3f1b5a2413b22a6ace2"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/vmware-tanzu/carvel-kapp/releases/download/v$version/kapp-windows-amd64.exe#/kapp.exe"
+                "url": "https://gh-proxy.org/https://github.com/vmware-tanzu/carvel-kapp/releases/download/v$version/kapp-windows-amd64.exe#/kapp.exe"
             }
         },
         "hash": {
@@ -25,3 +25,4 @@
         }
     }
 }
+

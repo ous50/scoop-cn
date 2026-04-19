@@ -5,7 +5,7 @@
     "license": "UPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/oracle/weblogic-remote-console/releases/download/v2.4.19/WebLogic-Remote-Console-2.4.19-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/oracle/weblogic-remote-console/releases/download/v2.4.19/WebLogic-Remote-Console-2.4.19-win.zip",
             "hash": "3df7fc3d4b91fd47b22b505b5dc558676f83b7bdf1fe843a9b94394d6689119e"
         }
     },
@@ -21,8 +21,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/oracle/weblogic-remote-console/releases/download/v$version/WebLogic-Remote-Console-$version-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/oracle/weblogic-remote-console/releases/download/v$version/WebLogic-Remote-Console-$version-win.zip"
             }
         }
     }
 }
+

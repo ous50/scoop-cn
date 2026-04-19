@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/spicetify/cli/releases/download/v2.43.1/spicetify-2.43.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/spicetify/cli/releases/download/v2.43.1/spicetify-2.43.1-windows-x64.zip",
             "hash": "c9b5e677d5b3046d14da09a3f713bd7b864b67b0c4c4b7ea2ab53c261e63b491"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/spicetify/cli/releases/download/v2.43.1/spicetify-2.43.1-windows-x32.zip",
+            "url": "https://gh-proxy.org/https://github.com/spicetify/cli/releases/download/v2.43.1/spicetify-2.43.1-windows-x32.zip",
             "hash": "01bfd58ed97d97412e7c9e493b8c637d1b980593515b00fe09580f9592107f50"
         }
     },
@@ -24,11 +24,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/spicetify/cli/releases/download/v$version/spicetify-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/spicetify/cli/releases/download/v$version/spicetify-$version-windows-x64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/spicetify/cli/releases/download/v$version/spicetify-$version-windows-x32.zip"
+                "url": "https://gh-proxy.org/https://github.com/spicetify/cli/releases/download/v$version/spicetify-$version-windows-x32.zip"
             }
         }
     }
 }
+

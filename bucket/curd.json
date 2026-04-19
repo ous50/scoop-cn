@@ -6,7 +6,7 @@
     "depends": "scoop-cn/mpv",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Wraient/curd/releases/download/v1.3.3/curd-windows-x86_64.exe#/curd.exe",
+            "url": "https://gh-proxy.org/https://github.com/Wraient/curd/releases/download/v1.3.3/curd-windows-x86_64.exe#/curd.exe",
             "hash": "3812fc0af5341b61525d8e112e012bd19c61eff687404668943d536c1219a26c"
         }
     },
@@ -15,8 +15,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Wraient/curd/releases/download/v$version/curd-windows-x86_64.exe#/curd.exe"
+                "url": "https://gh-proxy.org/https://github.com/Wraient/curd/releases/download/v$version/curd-windows-x86_64.exe#/curd.exe"
             }
         }
     }
 }
+

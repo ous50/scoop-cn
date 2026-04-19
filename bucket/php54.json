@@ -37,3 +37,4 @@
         "PHP_INI_SCAN_DIR": "$dir\\cli;$dir\\cli\\conf.d;"
     }
 }
+

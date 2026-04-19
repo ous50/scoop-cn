@@ -9,3 +9,4 @@
     "bin": "bin\\pdftk.exe",
     "checkver": "pdftk_server-([\\d.]+)-win-setup\\.exe"
 }
+

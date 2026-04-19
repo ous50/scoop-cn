@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/WebAssembly/wabt/releases/download/1.0.40/wabt-1.0.40-windows-x64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/WebAssembly/wabt/releases/download/1.0.40/wabt-1.0.40-windows-x64.tar.gz",
             "hash": "2dac5a5705996b54f27754f2eb5dfbbc7fc7fd63c3b103a9a9eb1133c842daa5"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/WebAssembly/wabt/releases/download/$version/wabt-$version-windows-x64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/WebAssembly/wabt/releases/download/$version/wabt-$version-windows-x64.tar.gz"
             }
         },
         "hash": {
@@ -37,3 +37,4 @@
         "extract_dir": "wabt-$version\\bin"
     }
 }
+

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/kubeshark/kubeshark/releases/download/v53.2.2/kubeshark.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubeshark/kubeshark/releases/download/v53.2.2/kubeshark.exe",
             "hash": "ca1b415cf49174b31f77b9c2410a51133c452776d617b9ab98b7078711b749f7"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/kubeshark/kubeshark/releases/download/v$version/kubeshark.exe",
+                "url": "https://gh-proxy.org/https://github.com/kubeshark/kubeshark/releases/download/v$version/kubeshark.exe",
                 "hash": {
                     "url": "$baseurl/kubeshark_windows_amd64.sha256",
                     "regex": "$sha256"
@@ -25,3 +25,4 @@
         }
     }
 }
+

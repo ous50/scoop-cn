@@ -8,3 +8,4 @@
     "bin": "sendmail.exe",
     "persist": "sendmail.ini"
 }
+

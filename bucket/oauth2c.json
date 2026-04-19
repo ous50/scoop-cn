@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/cloudentity/oauth2c/releases/download/v1.19.0/oauth2c_1.19.0_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cloudentity/oauth2c/releases/download/v1.19.0/oauth2c_1.19.0_Windows_x86_64.tar.gz",
             "hash": "a9cd69fb920901f918106c780f2dac03445f1522051015eff14835334cda3225"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/cloudentity/oauth2c/releases/download/v1.19.0/oauth2c_1.19.0_Windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/cloudentity/oauth2c/releases/download/v1.19.0/oauth2c_1.19.0_Windows_arm64.tar.gz",
             "hash": "f2f8fd0af10f5ec5530f3083a0280a4d96be8ebef235c5a1bb2e603af3001f93"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/cloudentity/oauth2c/releases/download/v$version/oauth2c_$version_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cloudentity/oauth2c/releases/download/v$version/oauth2c_$version_Windows_x86_64.tar.gz"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/cloudentity/oauth2c/releases/download/v$version/oauth2c_$version_Windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/cloudentity/oauth2c/releases/download/v$version/oauth2c_$version_Windows_arm64.tar.gz"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

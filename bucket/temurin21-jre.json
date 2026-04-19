@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10+7/OpenJDK21U-jre_x64_windows_hotspot_21.0.10_7.zip",
+            "url": "https://gh-proxy.org/https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.10+7/OpenJDK21U-jre_x64_windows_hotspot_21.0.10_7.zip",
             "hash": "a6ac6789e51a2c245f41430c42e72b39ec706a449812fc5e4cbfc55ceed1e5ae"
         }
     },
@@ -38,3 +38,4 @@
         "extract_dir": "$matchTag-jre"
     }
 }
+

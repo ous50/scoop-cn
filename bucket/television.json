@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/alexpasmantier/television/releases/download/0.15.6/tv-0.15.6-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/alexpasmantier/television/releases/download/0.15.6/tv-0.15.6-x86_64-pc-windows-msvc.zip",
             "hash": "2827d67df9dd196c6277b3cbe45dac45d41e56b50356ae66e08b595825feb912"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/alexpasmantier/television/releases/download/$version/tv-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/alexpasmantier/television/releases/download/$version/tv-$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {
@@ -22,3 +22,4 @@
         }
     }
 }
+

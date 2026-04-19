@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/26%2B37/bellsoft-jdk26%2B37-windows-amd64-lite.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/26%2B37/bellsoft-jdk26%2B37-windows-amd64-lite.zip",
             "hash": "sha1:147e5fb2cae8c3def71be9d71fb83ce6994b031f"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/26%2B37/bellsoft-jdk26%2B37-windows-aarch64-lite.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/26%2B37/bellsoft-jdk26%2B37-windows-aarch64-lite.zip",
             "hash": "sha1:04485abd912cb8866bf693adb4f8a2e003eb18b8"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-amd64-lite.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-amd64-lite.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-aarch64-lite.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-aarch64-lite.zip"
             }
         },
         "hash": {
@@ -41,3 +41,4 @@
         "extract_dir": "jdk-$matchMajor-lite"
     }
 }
+

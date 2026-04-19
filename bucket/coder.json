@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/coder/coder/releases/download/v2.31.9/coder_2.31.9_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/coder/coder/releases/download/v2.31.9/coder_2.31.9_windows_amd64.zip",
             "hash": "429ec23a4865039e330ed6d1245d56534232ddeb0d2467bc8e44428f11257b5d"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/coder/coder/releases/download/v$version/coder_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/coder/coder/releases/download/v$version/coder_$version_windows_amd64.zip"
             }
         },
         "hash": {
@@ -28,3 +28,4 @@
         }
     }
 }
+

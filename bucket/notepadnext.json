@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/dail8859/NotepadNext/releases/download/v0.13/NotepadNext-v0.13-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dail8859/NotepadNext/releases/download/v0.13/NotepadNext-v0.13-win64.zip",
             "hash": "3aedacb3f06f8434b8d5c0041819ad1dc381c1378a001723ee46f8a9367b74e3"
         }
     },
@@ -19,8 +19,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/dail8859/NotepadNext/releases/download/v$version/NotepadNext-v$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dail8859/NotepadNext/releases/download/v$version/NotepadNext-v$version-win64.zip"
             }
         }
     }
 }
+

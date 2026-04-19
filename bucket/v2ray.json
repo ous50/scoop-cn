@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-64.zip",
+            "url": "https://gh-proxy.org/https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-64.zip",
             "hash": "903fb6e914317c737686a64684cb3846bfa55feee408f7600201bdc4024588c4"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-32.zip",
+            "url": "https://gh-proxy.org/https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-32.zip",
             "hash": "7a0f2f72e52bfd3c3c95935ed9059a42fed6e96c6f66d68aba1d91232700fb95"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-arm64-v8a.zip",
+            "url": "https://gh-proxy.org/https://github.com/v2fly/v2ray-core/releases/download/v5.48.0/v2ray-windows-arm64-v8a.zip",
             "hash": "95e32d309ee502c2bb2c4d2d74a8c14f9efa1d35b40892c64b8de5ba77869b5e"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/v2fly/v2ray-core/releases/download/v$version/v2ray-windows-64.zip"
+                "url": "https://gh-proxy.org/https://github.com/v2fly/v2ray-core/releases/download/v$version/v2ray-windows-64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/v2fly/v2ray-core/releases/download/v$version/v2ray-windows-32.zip"
+                "url": "https://gh-proxy.org/https://github.com/v2fly/v2ray-core/releases/download/v$version/v2ray-windows-32.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/v2fly/v2ray-core/releases/download/v$version/v2ray-windows-arm64-v8a.zip"
+                "url": "https://gh-proxy.org/https://github.com/v2fly/v2ray-core/releases/download/v$version/v2ray-windows-arm64-v8a.zip"
             }
         },
         "hash": {
@@ -40,3 +40,4 @@
         }
     }
 }
+

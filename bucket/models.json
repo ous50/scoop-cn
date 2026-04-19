@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/arimxyer/models/releases/download/v0.11.4/models-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/arimxyer/models/releases/download/v0.11.4/models-x86_64-pc-windows-msvc.zip",
             "hash": "4d73977549d82eb1de473ca27f5db29997bb42ab7fb2f4c1c9740d0b05cfc2b4"
         }
     },
@@ -14,8 +14,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/arimxyer/models/releases/download/v$version/models-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/arimxyer/models/releases/download/v$version/models-x86_64-pc-windows-msvc.zip"
             }
         }
     }
 }
+

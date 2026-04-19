@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/ramboxapp/download/releases/download/v2.6.2/Rambox-2.6.2-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ramboxapp/download/releases/download/v2.6.2/Rambox-2.6.2-win-x64.exe#/dl.7z",
             "hash": "sha512:aaba5612fca09d53163e1c0ef0aaa60165073a5c53ca6edf61e8abb2100e0972df52003e3ff731faaaa0011be5e7f7929949b664b2e956700fdddb5ac61ab99e"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/ramboxapp/download/releases/download/v$version/Rambox-$version-win-x64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/ramboxapp/download/releases/download/v$version/Rambox-$version-win-x64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "sha512:\\s+$base64"
@@ -37,3 +37,4 @@
         }
     }
 }
+

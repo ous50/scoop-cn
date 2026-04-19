@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/ekristen/aws-nuke/releases/download/v3.64.1/aws-nuke-v3.64.1-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ekristen/aws-nuke/releases/download/v3.64.1/aws-nuke-v3.64.1-windows-amd64.zip",
             "hash": "6049bf7a9ae3972e430dd2ff628522dcc7755aefe4ee5464c3c2ff351402fa40"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/ekristen/aws-nuke/releases/download/v$version/aws-nuke-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ekristen/aws-nuke/releases/download/v$version/aws-nuke-v$version-windows-amd64.zip"
             }
         },
         "hash": {
@@ -24,3 +24,4 @@
         }
     }
 }
+

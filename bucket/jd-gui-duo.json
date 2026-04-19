@@ -3,7 +3,7 @@
     "description": "A Java Decompiler based on JD-CORE v0 and v1, supporting 3rd party decompilers",
     "homepage": "https://github.com/nbauma109/jd-gui-duo",
     "license": "GPL-3.0-only",
-    "url": "https://ghfast.top/https://github.com/nbauma109/jd-gui-duo/releases/download/2.0.109/jd-gui-duo-windows-2.0.109.tar.xz",
+    "url": "https://gh-proxy.org/https://github.com/nbauma109/jd-gui-duo/releases/download/2.0.109/jd-gui-duo-windows-2.0.109.tar.xz",
     "hash": "f0b5d1211303d7f9f8ecb1bd9881ddb84a838194287790a2d0f51db700333983",
     "pre_install": "Move-Item \"$dir\\jd-gui-duo-$version.exe\" \"$dir\\jd-gui-duo.exe\"",
     "bin": "jd-gui-duo.bat",
@@ -15,6 +15,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/nbauma109/jd-gui-duo/releases/download/$version/jd-gui-duo-windows-$version.tar.xz"
+        "url": "https://gh-proxy.org/https://github.com/nbauma109/jd-gui-duo/releases/download/$version/jd-gui-duo-windows-$version.tar.xz"
     }
 }
+

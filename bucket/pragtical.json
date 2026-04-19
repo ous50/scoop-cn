@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/pragtical/pragtical/releases/download/v3.8.5/pragtical-v3.8.5-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pragtical/pragtical/releases/download/v3.8.5/pragtical-v3.8.5-windows-x86_64.zip",
             "hash": "1e16d842a5469024f7884e0c3128f72f483582ee682849329705ec76c38d7bea"
         }
     },
@@ -23,8 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/pragtical/pragtical/releases/download/v$version/pragtical-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pragtical/pragtical/releases/download/v$version/pragtical-v$version-windows-x86_64.zip"
             }
         }
     }
 }
+

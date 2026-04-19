@@ -6,7 +6,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Hibbiki/chromium-win64/releases/download/v147.0.7727.102-r1596535/chrome.7z",
+            "url": "https://gh-proxy.org/https://github.com/Hibbiki/chromium-win64/releases/download/v147.0.7727.102-r1596535/chrome.7z",
             "hash": "sha1:d246aa8d3d0769434d1579f18f2b082ed4e58f53"
         }
     },
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Hibbiki/chromium-win64/releases/download/v$version/chrome.7z",
+                "url": "https://gh-proxy.org/https://github.com/Hibbiki/chromium-win64/releases/download/v$version/chrome.7z",
                 "hash": {
                     "url": "https://github.com/Hibbiki/chromium-win64/releases/tag/v$version",
                     "regex": "$sha1 \\.\\./out/x64/chrome.7z"
@@ -52,3 +52,4 @@
         }
     }
 }
+

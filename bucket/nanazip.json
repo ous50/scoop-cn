@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/M2Team/NanaZip/releases/download/6.0.1691.0/NanaZip_6.0.1691.0.msixbundle#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/6.0.1691.0/NanaZip_6.0.1691.0.msixbundle#/dl.7z",
             "hash": "d4f5da367283c0dffcf952c52899a2296204656bc18283fa5dec46d1a9f41345"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/M2Team/NanaZip/releases/download/6.0.1691.0/NanaZip_6.0.1691.0.msixbundle#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/6.0.1691.0/NanaZip_6.0.1691.0.msixbundle#/dl.7z",
             "hash": "d4f5da367283c0dffcf952c52899a2296204656bc18283fa5dec46d1a9f41345"
         }
     },
@@ -35,10 +35,11 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/M2Team/NanaZip/releases/download/$version/NanaZip_$version.msixbundle#/dl.7z",
+        "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/$version/NanaZip_$version.msixbundle#/dl.7z",
         "hash": {
             "url": "https://github.com/M2Team/NanaZip/releases/tag/$version",
             "regex": "(?s)$basename.*?$sha256"
         }
     }
 }
+

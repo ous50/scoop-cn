@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.12.4/go-size-analyzer_1.12.4_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.12.4/go-size-analyzer_1.12.4_windows_amd64.zip",
             "hash": "173d7958ab675b471d473369da1dcf9778379fd0ba0f04d31c40afb092d91672"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.12.4/go-size-analyzer_1.12.4_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.12.4/go-size-analyzer_1.12.4_windows_arm64.zip",
             "hash": "9bccd9653e17c8a24219809c0b74bb419cea7c8c241c7cf6fbc9e019e8cb0b65"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_$version_windows_arm64.zip"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

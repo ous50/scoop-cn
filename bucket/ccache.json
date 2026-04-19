@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/ccache/ccache/releases/download/v4.12.3/ccache-4.12.3-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ccache/ccache/releases/download/v4.12.3/ccache-4.12.3-windows-x86_64.zip",
             "hash": "859141059ac950e1e8cd042c66f842f26b9e3a62a1669a69fe6ba180cb58bbdf",
             "extract_dir": "ccache-4.12.3-windows-x86_64"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/ccache/ccache/releases/download/v4.12.3/ccache-4.12.3-windows-i686.zip",
+            "url": "https://gh-proxy.org/https://github.com/ccache/ccache/releases/download/v4.12.3/ccache-4.12.3-windows-i686.zip",
             "hash": "ed9624055ccf06854cefcc521611ce5944ed41f5ddda558995868a37b5174396",
             "extract_dir": "ccache-4.12.3-windows-i686"
         }
@@ -22,13 +22,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-x86_64.zip",
                 "extract_dir": "ccache-$version-windows-x86_64"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-i686.zip",
+                "url": "https://gh-proxy.org/https://github.com/ccache/ccache/releases/download/v$version/ccache-$version-windows-i686.zip",
                 "extract_dir": "ccache-$version-windows-i686"
             }
         }
     }
 }
+

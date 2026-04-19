@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/status-im/status-desktop/releases/download/2.37.0/StatusIm-Desktop-2.37.0-7a514a-x86_64.7z",
+            "url": "https://gh-proxy.org/https://github.com/status-im/status-desktop/releases/download/2.37.0/StatusIm-Desktop-2.37.0-7a514a-x86_64.7z",
             "hash": "f01f44da683cd6770a07dca05b358d938626d53b8de5d9f438ed8980a4f801a8"
         }
     },
@@ -27,8 +27,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/status-im/status-desktop/releases/download/$matchVer/StatusIm-Desktop-$version-x86_64.7z"
+                "url": "https://gh-proxy.org/https://github.com/status-im/status-desktop/releases/download/$matchVer/StatusIm-Desktop-$version-x86_64.7z"
             }
         }
     }
 }
+

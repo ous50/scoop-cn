@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/cinnyapp/cinny-desktop/releases/download/v4.11.2/Cinny_desktop-x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/cinnyapp/cinny-desktop/releases/download/v4.11.2/Cinny_desktop-x86_64.msi",
             "hash": "96f915bbe1b118a86324be2d8538670791b3a7af969b1409b963698127cfc358"
         }
     },
@@ -27,8 +27,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/cinnyapp/cinny-desktop/releases/download/v$version/Cinny_desktop-x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/cinnyapp/cinny-desktop/releases/download/v$version/Cinny_desktop-x86_64.msi"
             }
         }
     }
 }
+

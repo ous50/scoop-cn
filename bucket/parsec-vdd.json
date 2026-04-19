@@ -3,7 +3,7 @@
     "description": "Standalone Parsec Virtual Display",
     "homepage": "https://github.com/nomi-san/parsec-vdd",
     "license": "MIT",
-    "url": "https://ghfast.top/https://github.com/nomi-san/parsec-vdd/releases/download/v0.45.1/ParsecVDisplay-v0.45-portable.zip",
+    "url": "https://gh-proxy.org/https://github.com/nomi-san/parsec-vdd/releases/download/v0.45.1/ParsecVDisplay-v0.45-portable.zip",
     "hash": "9792e4121d85ed3e4c40c2d8ba36ec8657e13227a8357d719d923e801238ccdd",
     "shortcuts": [
         [
@@ -12,7 +12,7 @@
         ]
     ],
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/nomi-san/parsec-vdd/releases/download/v$version/ParsecVDisplay-v$majorVersion.$minorVersion-portable.zip"
+        "url": "https://gh-proxy.org/https://github.com/nomi-san/parsec-vdd/releases/download/v$version/ParsecVDisplay-v$majorVersion.$minorVersion-portable.zip"
     },
     "checkver": "github",
     "notes": [
@@ -22,3 +22,4 @@
         "Note that the driver installer is a GUI application, so you will need to run it from a terminal with a graphical environment."
     ]
 }
+

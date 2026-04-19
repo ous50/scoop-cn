@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.14/NextAI.Translator_0.6.14_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/nextai-translator/nextai-translator/releases/download/v0.6.14/NextAI.Translator_0.6.14_x64-setup.exe#/dl.7z",
             "hash": "69f235d62379428562a258c169fed34ccc38ed1eb477e4ffc7bbdcea3c98ebb2"
         }
     },
@@ -25,8 +25,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/nextai-translator/nextai-translator/releases/download/v$version/NextAI.Translator_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/nextai-translator/nextai-translator/releases/download/v$version/NextAI.Translator_$version_x64-setup.exe#/dl.7z"
             }
         }
     }
 }
+

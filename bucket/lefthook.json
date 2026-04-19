@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/evilmartians/lefthook/releases/download/v2.1.6/lefthook_2.1.6_Windows_x86_64.gz",
+            "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.6/lefthook_2.1.6_Windows_x86_64.gz",
             "hash": "6704b01a72414affcc921740a7d6c621fe60c3082b291c9730900a2c6a352516"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/evilmartians/lefthook/releases/download/v2.1.6/lefthook_2.1.6_Windows_i386.gz",
+            "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.6/lefthook_2.1.6_Windows_i386.gz",
             "hash": "d54ef3229084b94d401f177af0dd636ae889dc53d766058d6942aa322591360f"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/evilmartians/lefthook/releases/download/v2.1.6/lefthook_2.1.6_Windows_arm64.gz",
+            "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.6/lefthook_2.1.6_Windows_arm64.gz",
             "hash": "1924f7538a8f86ed88ed4627d4da4e7b20ddd2fd47104bd6699cc11e9fed9e98"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
+                "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
+                "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
+                "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
             }
         },
         "hash": {
@@ -36,3 +36,4 @@
         }
     }
 }
+

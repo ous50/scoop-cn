@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/arduino/arduino-cli/releases/download/v1.4.1/arduino-cli_1.4.1_Windows_64bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v1.4.1/arduino-cli_1.4.1_Windows_64bit.zip",
             "hash": "44f506a29d134cb294898d5f729aea85e5498f5d81ff5fc63c549087c45a20a3"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/arduino/arduino-cli/releases/download/v1.4.1/arduino-cli_1.4.1_Windows_32bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v1.4.1/arduino-cli_1.4.1_Windows_32bit.zip",
             "hash": "e6558c8b7fd6b3e6141c0dab01cd9d39e635872059b1dbd89bbfc9913c29c824"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_64bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_64bit.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_32bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_32bit.zip"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/desktop/desktop/releases/download/release-3.5.9-beta1/GitHubDesktop-3.5.9-beta1-x64-full.nupkg",
+            "url": "https://gh-proxy.org/https://github.com/desktop/desktop/releases/download/release-3.5.9-beta1/GitHubDesktop-3.5.9-beta1-x64-full.nupkg",
             "hash": "96f64f579d039392859d43310e759950b02bfdd33dc709f1d94562c76fed634a"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/desktop/desktop/releases/download/release-3.5.9-beta1/GitHubDesktop-3.5.9-beta1-arm64-full.nupkg",
+            "url": "https://gh-proxy.org/https://github.com/desktop/desktop/releases/download/release-3.5.9-beta1/GitHubDesktop-3.5.9-beta1-arm64-full.nupkg",
             "hash": "08e5124e9aaaec1d200557fa688bc6ab04d468c43316874545d5ca96256d257f"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
+                "url": "https://gh-proxy.org/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-arm64-full.nupkg"
+                "url": "https://gh-proxy.org/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-arm64-full.nupkg"
             }
         },
         "hash": {
@@ -39,3 +39,4 @@
         }
     }
 }
+

@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://ghfast.top/https://github.com/micronaut-projects/micronaut-starter/releases/download/v4.10.12/micronaut-cli-4.10.12.zip",
+    "url": "https://gh-proxy.org/https://github.com/micronaut-projects/micronaut-starter/releases/download/v4.10.12/micronaut-cli-4.10.12.zip",
     "hash": "dd4f0f71faaab2e93ed1a86fb1ff4dbb9333f799bc0b1e22b852478be71c8c64",
     "extract_dir": "micronaut-cli-4.10.12",
     "bin": "bin\\mn.bat",
@@ -17,7 +17,8 @@
         "github": "https://github.com/micronaut-projects/micronaut-starter"
     },
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/micronaut-projects/micronaut-starter/releases/download/v$version/micronaut-cli-$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/micronaut-projects/micronaut-starter/releases/download/v$version/micronaut-cli-$version.zip",
         "extract_dir": "micronaut-cli-$version"
     }
 }
+

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Devolutions/UniGetUI/releases/download/v2026.1.6/UniGetUI.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v2026.1.6/UniGetUI.x64.zip",
             "hash": "8895810bc0221ea9a40ed48cfd476fa0ccc4ad6e8f62610f513cfd25b4964358"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/Devolutions/UniGetUI/releases/download/v2026.1.6/UniGetUI.arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v2026.1.6/UniGetUI.arm64.zip",
             "hash": "6f6b92a6064c183da6a3d36f237f202f0513a0c601746959c37e4535fed4057e"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.x64.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Devolutions/UniGetUI/releases/download/v$version/UniGetUI.arm64.zip"
             }
         },
         "hash": {
@@ -41,3 +41,4 @@
         }
     }
 }
+

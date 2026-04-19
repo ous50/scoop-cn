@@ -12,7 +12,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/amd989/Symlinker/releases/download/v3.0.0/symlinker-3.0.0-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/amd989/Symlinker/releases/download/v3.0.0/symlinker-3.0.0-portable.zip",
             "hash": "2f2ee7a9b28a3b2ba8e69aa922d606849c06af8ababa6caa25898da39343ccd3"
         }
     },
@@ -28,8 +28,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/amd989/Symlinker/releases/download/v$version/symlinker-$version-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/amd989/Symlinker/releases/download/v$version/symlinker-$version-portable.zip"
             }
         }
     }
 }
+

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/jark006/JarkViewer/releases/download/v1.33/JarkViewer.exe",
+            "url": "https://gh-proxy.org/https://github.com/jark006/JarkViewer/releases/download/v1.33/JarkViewer.exe",
             "hash": "6d27a72f4859e64491e440e1563e91bbb67deee9c5e25921008d6760721c70af"
         }
     },
@@ -23,8 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/jark006/JarkViewer/releases/download/v$version/JarkViewer.exe"
+                "url": "https://gh-proxy.org/https://github.com/jark006/JarkViewer/releases/download/v$version/JarkViewer.exe"
             }
         }
     }
 }
+

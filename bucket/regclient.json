@@ -9,9 +9,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghfast.top/https://github.com/regclient/regclient/releases/download/v0.11.3/regctl-windows-amd64.exe#/regctl.exe",
-                "https://ghfast.top/https://github.com/regclient/regclient/releases/download/v0.11.3/regbot-windows-amd64.exe#/regbot.exe",
-                "https://ghfast.top/https://github.com/regclient/regclient/releases/download/v0.11.3/regsync-windows-amd64.exe#/regsync.exe"
+                "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.3/regctl-windows-amd64.exe#/regctl.exe",
+                "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.3/regbot-windows-amd64.exe#/regbot.exe",
+                "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v0.11.3/regsync-windows-amd64.exe#/regsync.exe"
             ],
             "hash": [
                 "6b5dbf3f920d5ec1b2379592a25680e56dafd86795b73f7f52a3543848dc8e6a",
@@ -32,11 +32,12 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghfast.top/https://github.com/regclient/regclient/releases/download/v$version/regctl-windows-amd64.exe#/regctl.exe",
-                    "https://ghfast.top/https://github.com/regclient/regclient/releases/download/v$version/regbot-windows-amd64.exe#/regbot.exe",
-                    "https://ghfast.top/https://github.com/regclient/regclient/releases/download/v$version/regsync-windows-amd64.exe#/regsync.exe"
+                    "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regctl-windows-amd64.exe#/regctl.exe",
+                    "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regbot-windows-amd64.exe#/regbot.exe",
+                    "https://gh-proxy.org/https://github.com/regclient/regclient/releases/download/v$version/regsync-windows-amd64.exe#/regsync.exe"
                 ]
             }
         }
     }
 }
+

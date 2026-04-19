@@ -5,15 +5,15 @@
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/0.11.7/uv-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/0.11.7/uv-x86_64-pc-windows-msvc.zip",
             "hash": "fe0c7815acf4fc45f8a5eff58ed3cf7ae2e15c3cf1dceadbd10c816ec1690cc1"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/0.11.7/uv-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/0.11.7/uv-i686-pc-windows-msvc.zip",
             "hash": "04652b46b1be90a753e686b839e109a79af3d032ba96d3616c162dffdbe89e5c"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/0.11.7/uv-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/0.11.7/uv-aarch64-pc-windows-msvc.zip",
             "hash": "1387e1c94e15196351196b79fce4c1e6f4b30f19cdaaf9ff85fbd6b046018aa2"
         }
     },
@@ -28,13 +28,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/$version/uv-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/$version/uv-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/astral-sh/uv/releases/download/$version/uv-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/astral-sh/uv/releases/download/$version/uv-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {
@@ -42,3 +42,4 @@
         }
     }
 }
+

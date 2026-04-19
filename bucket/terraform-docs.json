@@ -5,7 +5,7 @@
     "license": "MIT License ",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/terraform-docs/terraform-docs/releases/download/v0.22.0/terraform-docs-v0.22.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/terraform-docs/terraform-docs/releases/download/v0.22.0/terraform-docs-v0.22.0-windows-amd64.zip",
             "hash": "23f6539f10ef5c34f73a7ccfeb7474ea82bc3e591e46e59c994b10f54be83025"
         }
     },
@@ -14,11 +14,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/terraform-docs/terraform-docs/releases/download/v$version/terraform-docs-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/terraform-docs/terraform-docs/releases/download/v$version/terraform-docs-v$version-windows-amd64.zip"
             }
         },
         "hash": {
-            "url": "https://ghfast.top/https://github.com/terraform-docs/terraform-docs/releases/download/v$version/terraform-docs-v$version.sha256sum"
+            "url": "https://gh-proxy.org/https://github.com/terraform-docs/terraform-docs/releases/download/v$version/terraform-docs-v$version.sha256sum"
         }
     }
 }
+

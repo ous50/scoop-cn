@@ -5,11 +5,11 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Unpacked.1.2.1.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Unpacked.1.2.1.x64.zip",
             "hash": "fb3ff9357396088b3a3810146d670706a107aa7405f337ba5dbe1b8e2dc8e6d6"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Unpacked.1.2.1.x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v1.2.1/Fluent.Reader.Unpacked.1.2.1.x86.zip",
             "hash": "bad62e2360461a95cfecdade329314cb0da2567c86f0f9f8790c26fc03f18c87"
         }
     },
@@ -26,11 +26,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/yang991178/fluent-reader/releases/download/v$version/Fluent.Reader.Unpacked.$matchHead.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v$version/Fluent.Reader.Unpacked.$matchHead.x64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/yang991178/fluent-reader/releases/download/v$version/Fluent.Reader.Unpacked.$matchHead.x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/yang991178/fluent-reader/releases/download/v$version/Fluent.Reader.Unpacked.$matchHead.x86.zip"
             }
         }
     }
 }
+

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-amd64.exe#/hysteria.exe",
+            "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-amd64.exe#/hysteria.exe",
             "hash": "fc4b251276f69c3e6c69bf978946068052c9305070ad65589e64d6724af3bc4e"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-386.exe#/hysteria.exe",
+            "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-386.exe#/hysteria.exe",
             "hash": "d038dfb11221c4803b6adeb0a18704d4256c947bc91df98ca573620409e7b249"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-arm64.exe#/hysteria.exe",
+            "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v2.8.1/hysteria-windows-arm64.exe#/hysteria.exe",
             "hash": "e98f0033622e87358bb8afb58070d987b098ea430a13c7fc7181b50297ba8cab"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-amd64.exe#/hysteria.exe"
+                "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-amd64.exe#/hysteria.exe"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-386.exe#/hysteria.exe"
+                "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-386.exe#/hysteria.exe"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-arm64.exe#/hysteria.exe"
+                "url": "https://gh-proxy.org/https://github.com/apernet/hysteria/releases/download/app/v$version/hysteria-windows-arm64.exe#/hysteria.exe"
             }
         },
         "hash": {
@@ -39,3 +39,4 @@
         }
     }
 }
+

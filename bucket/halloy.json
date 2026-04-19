@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/squidowl/halloy/releases/download/2026.5/halloy-installer.msi",
+            "url": "https://gh-proxy.org/https://github.com/squidowl/halloy/releases/download/2026.5/halloy-installer.msi",
             "hash": "218a15f53557d45b493e2bef6c2138cdc5a26cd429fc6ee8812065f062419bb8"
         }
     },
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.msi"
+                "url": "https://gh-proxy.org/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.msi"
             }
         },
         "hash": {
@@ -54,3 +54,4 @@
         }
     }
 }
+

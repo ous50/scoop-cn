@@ -16,3 +16,4 @@
     },
     "notes": "Run \"stunnel -install\" in the directory where a configured stunnel.conf is located (eg C:\\ProgramData\\scoop\\persist\\stunnel\\config) to create a native Windows service"
 }
+

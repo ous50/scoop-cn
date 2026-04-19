@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only|BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/mapeditor/tiled/releases/download/v1.12.1/Tiled-1.12.1_Windows-10+_x86_64.msi",
+            "url": "https://gh-proxy.org/https://github.com/mapeditor/tiled/releases/download/v1.12.1/Tiled-1.12.1_Windows-10+_x86_64.msi",
             "hash": "6617fb91fbf09b079d835d1c1ecdbae4b227163ba9495bf28e3ef89f96a10f20"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/mapeditor/tiled/releases/download/v1.12.1/Tiled-1.12.1_Windows-7-8_x86.msi",
+            "url": "https://gh-proxy.org/https://github.com/mapeditor/tiled/releases/download/v1.12.1/Tiled-1.12.1_Windows-7-8_x86.msi",
             "hash": "5f3db96902dd911371aa3eab3cdb342f397859c2def99d413b5cdd617a299887"
         }
     },
@@ -27,11 +27,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/mapeditor/tiled/releases/download/v$version/Tiled-$version_Windows-10+_x86_64.msi"
+                "url": "https://gh-proxy.org/https://github.com/mapeditor/tiled/releases/download/v$version/Tiled-$version_Windows-10+_x86_64.msi"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/mapeditor/tiled/releases/download/v$version/Tiled-$version_Windows-7-8_x86.msi"
+                "url": "https://gh-proxy.org/https://github.com/mapeditor/tiled/releases/download/v$version/Tiled-$version_Windows-7-8_x86.msi"
             }
         }
     }
 }
+

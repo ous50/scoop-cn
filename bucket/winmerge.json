@@ -5,15 +5,15 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v2.16.54.2/winmerge-2.16.54.2-x64-exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/WinMerge/winmerge/releases/download/v2.16.54.2/winmerge-2.16.54.2-x64-exe.zip",
             "hash": "3832f9db8d4d2210c3a049a8c30aed16ea152a329ae0c1b0dbf9308adbc9fc5e"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v2.16.54.2/winmerge-2.16.54.2-exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/WinMerge/winmerge/releases/download/v2.16.54.2/winmerge-2.16.54.2-exe.zip",
             "hash": "9463237ed5c8e4a4443f48c3a58e51ac09dc6b068f432478164f3beca9f3c847"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v2.16.54.2/winmerge-2.16.54.2-ARM64-exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/WinMerge/winmerge/releases/download/v2.16.54.2/winmerge-2.16.54.2-ARM64-exe.zip",
             "hash": "a3a61d7cd60a7e6bf41e10a5405542e758c17724a912ca3330171e58ceb23c84"
         }
     },
@@ -29,13 +29,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-x64-exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-x64-exe.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-exe.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-ARM64-exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/WinMerge/winmerge/releases/download/v$version/winmerge-$version-ARM64-exe.zip"
             }
         },
         "hash": {
@@ -44,3 +44,4 @@
         }
     }
 }
+

@@ -45,3 +45,4 @@
         "(gc \"$dir\\config\\elasticsearch.yml\") | % { $_ -replace '#path.plugins: /path/to/plugins', \"path.plugins: $persist_dir\\plugins\" } | Set-Content \"$dir\\config\\elasticsearch.yml\""
     ]
 }
+

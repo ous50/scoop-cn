@@ -12,11 +12,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Windscribe/Desktop-App/releases/download/v2.21.7/Windscribe_2.21.7_amd64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Windscribe/Desktop-App/releases/download/v2.21.7/Windscribe_2.21.7_amd64.exe",
             "hash": "f42e3110682d957af701bea6ea79b4eb2a9097dcd41acac9fd0e39ca1276c3ba"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/Windscribe/Desktop-App/releases/download/v2.21.7/Windscribe_2.21.7_arm64.exe",
+            "url": "https://gh-proxy.org/https://github.com/Windscribe/Desktop-App/releases/download/v2.21.7/Windscribe_2.21.7_arm64.exe",
             "hash": "96f543a84122c093f2bce47e7c7392da9ccc75fb3d36024e71603bf33785b864"
         }
     },
@@ -42,10 +42,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Windscribe/Desktop-App/releases/download/v$version/Windscribe_$version_amd64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Windscribe/Desktop-App/releases/download/v$version/Windscribe_$version_amd64.exe"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/Windscribe/Desktop-App/releases/download/v$version/Windscribe_$version_arm64.exe"
+                "url": "https://gh-proxy.org/https://github.com/Windscribe/Desktop-App/releases/download/v$version/Windscribe_$version_arm64.exe"
             }
         },
         "hash": {
@@ -54,3 +54,4 @@
         }
     }
 }
+

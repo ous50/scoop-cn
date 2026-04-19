@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/bazelbuild/bazelisk/releases/download/v1.28.1/bazelisk-windows-amd64.exe#/bazelisk.exe",
+            "url": "https://gh-proxy.org/https://github.com/bazelbuild/bazelisk/releases/download/v1.28.1/bazelisk-windows-amd64.exe#/bazelisk.exe",
             "hash": "b9d65a1f7c2d7af885a96a4fd5aa36b40fb41816d30944390569eef908bdc954"
         }
     },
@@ -14,8 +14,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/bazelbuild/bazelisk/releases/download/v$version/bazelisk-windows-amd64.exe#/bazelisk.exe"
+                "url": "https://gh-proxy.org/https://github.com/bazelbuild/bazelisk/releases/download/v$version/bazelisk-windows-amd64.exe#/bazelisk.exe"
             }
         }
     }
 }
+

@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "hash": "9f4ead82f5f1937584f55016309fdc7b0fa67e575ce94fa0e2efbcc8028716b0",
-            "url": "https://ghfast.top/https://github.com/libvips/build-win64-mxe/releases/download/v8.18.1/vips-dev-w64-all-8.18.1.zip"
+            "url": "https://gh-proxy.org/https://github.com/libvips/build-win64-mxe/releases/download/v8.18.1/vips-dev-w64-all-8.18.1.zip"
         },
         "32bit": {
             "hash": "752446892b0908188c0732fff5002437902466fe56a4bd12d9169bb3a03bc772",
-            "url": "https://ghfast.top/https://github.com/libvips/build-win64-mxe/releases/download/v8.18.1/vips-dev-w32-all-8.18.1.zip"
+            "url": "https://gh-proxy.org/https://github.com/libvips/build-win64-mxe/releases/download/v8.18.1/vips-dev-w32-all-8.18.1.zip"
         }
     },
     "extract_dir": "vips-dev-8.18",
@@ -21,12 +21,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/libvips/build-win64-mxe/releases/download/v$version/vips-dev-w64-all-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/libvips/build-win64-mxe/releases/download/v$version/vips-dev-w64-all-$version.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/libvips/build-win64-mxe/releases/download/v$version/vips-dev-w32-all-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/libvips/build-win64-mxe/releases/download/v$version/vips-dev-w32-all-$version.zip"
             }
         },
         "extract_dir": "vips-dev-$majorVersion.$minorVersion"
     }
 }
+

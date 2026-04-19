@@ -6,12 +6,12 @@
     "notes": [
         "Yuescript Lua Module download links:",
         "64bit",
-        "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x64-lua51-dll.7z",
-        "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x64-lua53-dll.7z",
+        "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x64-lua51-dll.7z",
+        "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x64-lua53-dll.7z",
         "",
         "32bit",
-        "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x86-lua51-dll.7z",
-        "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x86-lua53-dll.7z"
+        "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x86-lua51-dll.7z",
+        "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x86-lua53-dll.7z"
     ],
     "suggest": {
         "Lua": [
@@ -22,11 +22,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x64.7z",
             "hash": "4bdb7f53178a9c634faae9625d0852dee1d32c4906c36ec5ab355d39cdb4ea74"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x86.7z",
+            "url": "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v0.33.10/yue-windows-x86.7z",
             "hash": "f37ccc6b8744d6dac664d3a6ddb6ba20c6dd66cb25c26de821deef98c8b1d31b"
         }
     },
@@ -38,20 +38,21 @@
         "notes": [
             "Yuescript Lua Module download links:",
             "64bit",
-            "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x64-lua51-dll.7z",
-            "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x64-lua53-dll.7z",
+            "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x64-lua51-dll.7z",
+            "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x64-lua53-dll.7z",
             "",
             "32bit",
-            "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x86-lua51-dll.7z",
-            "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x86-lua53-dll.7z"
+            "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x86-lua51-dll.7z",
+            "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x86-lua53-dll.7z"
         ],
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x64.7z"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x86.7z"
+                "url": "https://gh-proxy.org/https://github.com/pigpigyyy/Yuescript/releases/download/v$version/yue-windows-x86.7z"
             }
         }
     }
 }
+

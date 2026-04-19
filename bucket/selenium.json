@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://ghfast.top/https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.43.0/selenium-server-4.43.0.jar#/selenium.jar",
+    "url": "https://gh-proxy.org/https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.43.0/selenium-server-4.43.0.jar#/selenium.jar",
     "hash": "93cbc72c238ef778be40cdd2a4eac676816243e71651766f3862d052c85c30e0",
     "bin": "selenium.jar",
     "checkver": {
@@ -14,6 +14,7 @@
         "regex": "selenium-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/SeleniumHQ/selenium/releases/download/selenium-$version/selenium-server-$version.jar#/selenium.jar"
+        "url": "https://gh-proxy.org/https://github.com/SeleniumHQ/selenium/releases/download/selenium-$version/selenium-server-$version.jar#/selenium.jar"
     }
 }
+

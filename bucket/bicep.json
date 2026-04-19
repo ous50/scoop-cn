@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/Azure/bicep/releases/download/v0.42.1/bicep-win-arm64.exe#/bicep.exe",
+            "url": "https://gh-proxy.org/https://github.com/Azure/bicep/releases/download/v0.42.1/bicep-win-arm64.exe#/bicep.exe",
             "hash": "24ec825fa09663f38a553ea0d0f2bc5c5ade753e1ae006459b1e5e5309c1989c"
         },
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Azure/bicep/releases/download/v0.42.1/bicep-win-x64.exe#/bicep.exe",
+            "url": "https://gh-proxy.org/https://github.com/Azure/bicep/releases/download/v0.42.1/bicep-win-x64.exe#/bicep.exe",
             "hash": "dde63bab0d12da761cb75708d53d024a59c5f91a13a883d3e06c4ba951ee50f9"
         }
     },
@@ -18,11 +18,12 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/Azure/bicep/releases/download/v$version/bicep-win-arm64.exe#/bicep.exe"
+                "url": "https://gh-proxy.org/https://github.com/Azure/bicep/releases/download/v$version/bicep-win-arm64.exe#/bicep.exe"
             },
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Azure/bicep/releases/download/v$version/bicep-win-x64.exe#/bicep.exe"
+                "url": "https://gh-proxy.org/https://github.com/Azure/bicep/releases/download/v$version/bicep-win-x64.exe#/bicep.exe"
             }
         }
     }
 }
+

@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/AmusementClub/Aegisub/releases/download/nightly-20220806/aegisub-win64-cmake-GHA.zip",
+            "url": "https://gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/nightly-20220806/aegisub-win64-cmake-GHA.zip",
             "hash": "f5b7991b3d36f821a9bd042d2ad32991dd6989e6bdb5e180073dfc4dd67ecc98"
         }
     },
@@ -27,8 +27,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/AmusementClub/Aegisub/releases/download/$version/aegisub-win64-cmake-GHA.zip"
+                "url": "https://gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/$version/aegisub-win64-cmake-GHA.zip"
             }
         }
     }
 }
+

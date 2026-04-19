@@ -6,7 +6,7 @@
     "suggest": {
         ".NET Desktop Runtime 8.0": "scoop-cn/windowsdesktop-runtime-8.0"
     },
-    "url": "https://ghfast.top/https://github.com/ElPumpo/TinyNvidiaUpdateChecker/releases/download/v1.24.2/TinyNvidiaUpdateChecker.exe",
+    "url": "https://gh-proxy.org/https://github.com/ElPumpo/TinyNvidiaUpdateChecker/releases/download/v1.24.2/TinyNvidiaUpdateChecker.exe",
     "hash": "b284c71a2cdb7ac42415443228cd46ea656ae2d734882a2c057b114f9c81620a",
     "bin": "TinyNvidiaUpdateChecker.exe",
     "shortcuts": [
@@ -17,6 +17,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/ElPumpo/TinyNvidiaUpdateChecker/releases/download/v$version/TinyNvidiaUpdateChecker.exe"
+        "url": "https://gh-proxy.org/https://github.com/ElPumpo/TinyNvidiaUpdateChecker/releases/download/v$version/TinyNvidiaUpdateChecker.exe"
     }
 }
+

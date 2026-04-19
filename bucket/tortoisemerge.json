@@ -13,3 +13,4 @@
     "bin": "tortoisemerge.exe",
     "post_install": "try { $null = gcm git -ea stop; git config --global mergetool.tortoisemerge.path $(scoop which tortoisemerge) } catch { }"
 }
+

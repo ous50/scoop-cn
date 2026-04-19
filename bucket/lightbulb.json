@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/Tyrrrz/LightBulb/releases/download/2.7/LightBulb.win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Tyrrrz/LightBulb/releases/download/2.7/LightBulb.win-x64.zip",
             "hash": "60889e7b50754f438f9a819ba9e322fca4c254fd94c870446c2ea7bf259fcf5c"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/Tyrrrz/LightBulb/releases/download/2.7/LightBulb.win-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/Tyrrrz/LightBulb/releases/download/2.7/LightBulb.win-x86.zip",
             "hash": "018cb9f3bd932ef0695ddea5b1133252dc26d6f372bb349b74acdb6282f81bf4"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/Tyrrrz/LightBulb/releases/download/2.7/LightBulb.win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Tyrrrz/LightBulb/releases/download/2.7/LightBulb.win-arm64.zip",
             "hash": "5b319ac85a1233515ea05c409ee0036d992fdaf306cf715059579eaf4fc7de30"
         }
     },
@@ -38,14 +38,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb.win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb.win-x64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb.win-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb.win-x86.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb.win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Tyrrrz/LightBulb/releases/download/$version/LightBulb.win-arm64.zip"
             }
         }
     }
 }
+

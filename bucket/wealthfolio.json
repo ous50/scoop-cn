@@ -5,7 +5,7 @@
     "license": "LGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/afadil/wealthfolio/releases/download/v3.2.1/Wealthfolio_3.2.1_x64-setup.exe/#dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/afadil/wealthfolio/releases/download/v3.2.1/Wealthfolio_3.2.1_x64-setup.exe/#dl.7z",
             "hash": "79a6e86293cdd53517eddba979870a28bae1f716cee293bbcfcad33309c05cdb"
         }
     },
@@ -22,8 +22,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/afadil/wealthfolio/releases/download/v$version/Wealthfolio_$version_x64-setup.exe/#dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/afadil/wealthfolio/releases/download/v$version/Wealthfolio_$version_x64-setup.exe/#dl.7z"
             }
         }
     }
 }
+

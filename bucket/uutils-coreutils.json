@@ -11,17 +11,17 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/uutils/coreutils/releases/download/0.8.0/coreutils-0.8.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/uutils/coreutils/releases/download/0.8.0/coreutils-0.8.0-x86_64-pc-windows-msvc.zip",
             "hash": "db464cf2a6ecbfd42c85f46ed2d749be574df4df47feca1f08988fd760f324f3",
             "extract_dir": "coreutils-0.8.0-x86_64-pc-windows-msvc"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/uutils/coreutils/releases/download/0.8.0/coreutils-0.8.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/uutils/coreutils/releases/download/0.8.0/coreutils-0.8.0-i686-pc-windows-msvc.zip",
             "hash": "2ffe88b9d81fab6a1625a5f02737c8ab164741447403b92cb84377ac37e1bb39",
             "extract_dir": "coreutils-0.8.0-i686-pc-windows-msvc"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/uutils/coreutils/releases/download/0.8.0/coreutils-0.8.0-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/uutils/coreutils/releases/download/0.8.0/coreutils-0.8.0-aarch64-pc-windows-msvc.zip",
             "hash": "1dfa62f18b64c70b664936b06fb1be20f0f6afa9ff041dd95dda629e987435a9",
             "extract_dir": "coreutils-0.8.0-aarch64-pc-windows-msvc"
         }
@@ -43,17 +43,18 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/uutils/coreutils/releases/download/$version/coreutils-$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/uutils/coreutils/releases/download/$version/coreutils-$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "coreutils-$version-x86_64-pc-windows-msvc"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/uutils/coreutils/releases/download/$version/coreutils-$version-i686-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/uutils/coreutils/releases/download/$version/coreutils-$version-i686-pc-windows-msvc.zip",
                 "extract_dir": "coreutils-$version-i686-pc-windows-msvc"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/uutils/coreutils/releases/download/$version/coreutils-$version-aarch64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/uutils/coreutils/releases/download/$version/coreutils-$version-aarch64-pc-windows-msvc.zip",
                 "extract_dir": "coreutils-$version-aarch64-pc-windows-msvc"
             }
         }
     }
 }
+

@@ -5,7 +5,7 @@
     "license": "Freeware",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/aloneguid/bt/releases/download/5.6.3/bt-5.6.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/aloneguid/bt/releases/download/5.6.3/bt-5.6.3.zip",
             "hash": "62a5743b9ca3988bb737433248657e7c969f4759df25f4612cd277909eccef09"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/aloneguid/bt/releases/download/$version/bt-$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/aloneguid/bt/releases/download/$version/bt-$version.zip",
                 "hash": {
                     "url": "$url.sha256.txt"
                 }
@@ -40,3 +40,4 @@
         }
     }
 }
+

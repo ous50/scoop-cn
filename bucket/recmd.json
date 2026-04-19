@@ -8,10 +8,11 @@
     "extract_dir": "RECmd",
     "bin": "RECmd.exe",
     "checkver": {
-        "url": "https://ghfast.top/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
         "regex": "RECmd \\| \\[([\\d.]+)\\]"
     },
     "autoupdate": {
         "url": "https://download.ericzimmermanstools.com/net9/RECmd.zip"
     }
 }
+

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/rtk-ai/rtk/releases/download/v0.37.1/rtk-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/rtk-ai/rtk/releases/download/v0.37.1/rtk-x86_64-pc-windows-msvc.zip",
             "hash": "3b9f207e8ea360d744649760788cbcf7d6ce62d8ccb8677aa3c8d1513a9d2cc2"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/rtk-ai/rtk/releases/download/v$version/rtk-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/rtk-ai/rtk/releases/download/v$version/rtk-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {
@@ -27,3 +27,4 @@
         }
     }
 }
+

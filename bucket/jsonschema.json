@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/sourcemeta/jsonschema/releases/download/v14.20.2/jsonschema-14.20.2-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sourcemeta/jsonschema/releases/download/v14.20.2/jsonschema-14.20.2-windows-x86_64.zip",
             "hash": "985225837ae531962485490b3c1eddb42f84f29bc9f9fd549190fe89d9e4e236",
             "extract_dir": "jsonschema-14.20.2-windows-x86_64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/sourcemeta/jsonschema/releases/download/v$version/jsonschema-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/sourcemeta/jsonschema/releases/download/v$version/jsonschema-$version-windows-x86_64.zip",
                 "extract_dir": "jsonschema-$version-windows-x86_64"
             }
         },
@@ -27,3 +27,4 @@
         }
     }
 }
+

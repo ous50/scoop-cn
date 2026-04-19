@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-x64.exe#/dl.7z",
             "hash": "2f836d7335f75fae91bbfad02b94e65ba5074021e70a5e4c994bae42fcd24fcb",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -13,7 +13,7 @@
             ]
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/super-productivity/super-productivity/releases/download/v18.2.1/superProductivity-arm64.exe#/dl.7z",
             "hash": "a84efdaea43694c6456d3d449c86edd6ab6b36f8ca4856e2506e1acbd8420744",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -33,11 +33,12 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/super-productivity/super-productivity/releases/download/v$version/superProductivity-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/super-productivity/super-productivity/releases/download/v$version/superProductivity-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/super-productivity/super-productivity/releases/download/v$version/superProductivity-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/super-productivity/super-productivity/releases/download/v$version/superProductivity-arm64.exe#/dl.7z"
             }
         }
     }
 }
+

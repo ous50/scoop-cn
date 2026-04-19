@@ -4,8 +4,8 @@
     "homepage": "https://github.com/libsdl-org/SDL_image",
     "license": "Zlib",
     "url": [
-        "https://ghfast.top/https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.10/SDL2_image-devel-2.8.10-VC.zip",
-        "https://ghfast.top/https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.10/SDL2_image-2.8.10.zip"
+        "https://gh-proxy.org/https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.10/SDL2_image-devel-2.8.10-VC.zip",
+        "https://gh-proxy.org/https://github.com/libsdl-org/SDL_image/releases/download/release-2.8.10/SDL2_image-2.8.10.zip"
     ],
     "hash": [
         "ab3be25ff7ac3ae5de9eedb4383b09a3635c99711012eb1b2a4be0ecf5635b33",
@@ -120,8 +120,9 @@
     },
     "autoupdate": {
         "url": [
-            "https://ghfast.top/https://github.com/libsdl-org/SDL_image/releases/download/release-$version/SDL2_image-devel-$version-VC.zip",
-            "https://ghfast.top/https://github.com/libsdl-org/SDL_image/releases/download/release-$version/SDL2_image-$version.zip"
+            "https://gh-proxy.org/https://github.com/libsdl-org/SDL_image/releases/download/release-$version/SDL2_image-devel-$version-VC.zip",
+            "https://gh-proxy.org/https://github.com/libsdl-org/SDL_image/releases/download/release-$version/SDL2_image-$version.zip"
         ]
     }
 }
+

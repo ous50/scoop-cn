@@ -6,15 +6,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/godotengine/godot/releases/download/4.6.2-stable/Godot_v4.6.2-stable_win64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/4.6.2-stable/Godot_v4.6.2-stable_win64.exe.zip",
             "hash": "sha512:01c3bc0ede0f8771e810832fb92ce52a3a4352af7b7ac32a81a8edf05bb30760f56a6ab7e17cebc80b81c4f609a95c24c2fdbbe6929ac4e0285cb8f654b56d78"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/godotengine/godot/releases/download/4.6.2-stable/Godot_v4.6.2-stable_win32.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/4.6.2-stable/Godot_v4.6.2-stable_win32.exe.zip",
             "hash": "sha512:c2b0be4e6ed571341c108121e2cb4a85bc668b069c92a5587ce6862075646ff27989ca9ea1bd2cd5907e7173472336ce60a825f345b1a433dba64eeab67fc6c1"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/godotengine/godot/releases/download/4.6.2-stable/Godot_v4.6.2-stable_windows_arm64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/4.6.2-stable/Godot_v4.6.2-stable_windows_arm64.exe.zip",
             "hash": "sha512:70aae9dd9c91ab66c41f4002cafd6bc7a480bd47b00c3459c14d325dbcbde16c670906d6a953ea3dd2b81f1c23b7c1d4948324f3ffc50c1b70fe92bed4d3c732"
         }
     },
@@ -49,13 +49,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win64.exe.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win32.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win32.exe.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_windows_arm64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_windows_arm64.exe.zip"
             }
         },
         "hash": {
@@ -63,3 +63,4 @@
         }
     }
 }
+

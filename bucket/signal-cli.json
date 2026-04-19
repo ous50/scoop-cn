@@ -6,13 +6,14 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://ghfast.top/https://github.com/AsamK/signal-cli/releases/download/v0.14.2/signal-cli-0.14.2.tar.gz",
+    "url": "https://gh-proxy.org/https://github.com/AsamK/signal-cli/releases/download/v0.14.2/signal-cli-0.14.2.tar.gz",
     "hash": "ae2bbc6fc6689a8ab23d57e637d7e9cdbb4342937bdb1b54d4cf6b5640df1e0d",
     "extract_dir": "signal-cli-0.14.2",
     "bin": "bin\\signal-cli.bat",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://ghfast.top/https://github.com/AsamK/signal-cli/releases/download/v$version/signal-cli-$version.tar.gz",
+        "url": "https://gh-proxy.org/https://github.com/AsamK/signal-cli/releases/download/v$version/signal-cli-$version.tar.gz",
         "extract_dir": "signal-cli-$version"
     }
 }
+

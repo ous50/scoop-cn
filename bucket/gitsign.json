@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/sigstore/gitsign/releases/download/v0.14.0/gitsign_0.14.0_windows_amd64.exe#/gitsign.exe",
+            "url": "https://gh-proxy.org/https://github.com/sigstore/gitsign/releases/download/v0.14.0/gitsign_0.14.0_windows_amd64.exe#/gitsign.exe",
             "hash": "393a6c68509e9071e1747146e94b2417ad0257399a2fa10186ff0ae114e73603"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/sigstore/gitsign/releases/download/v0.14.0/gitsign_0.14.0_windows_arm64.exe#/gitsign.exe",
+            "url": "https://gh-proxy.org/https://github.com/sigstore/gitsign/releases/download/v0.14.0/gitsign_0.14.0_windows_arm64.exe#/gitsign.exe",
             "hash": "d349324e75174483ace8c93262e54f128897b98ccf5008d512486be0aac29481"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/sigstore/gitsign/releases/download/v$version/gitsign_$version_windows_amd64.exe#/gitsign.exe"
+                "url": "https://gh-proxy.org/https://github.com/sigstore/gitsign/releases/download/v$version/gitsign_$version_windows_amd64.exe#/gitsign.exe"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/sigstore/gitsign/releases/download/v$version/gitsign_$version_windows_arm64.exe#/gitsign.exe"
+                "url": "https://gh-proxy.org/https://github.com/sigstore/gitsign/releases/download/v$version/gitsign_$version_windows_arm64.exe#/gitsign.exe"
             }
         },
         "hash": {
@@ -30,3 +30,4 @@
         }
     }
 }
+

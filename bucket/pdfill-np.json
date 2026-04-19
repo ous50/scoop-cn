@@ -14,3 +14,4 @@
         "script": "Start-Process -Wait msiexec \"/x `\"$dir\\setup.msi_`\" /qn\" -Verb RunAs"
     }
 }
+

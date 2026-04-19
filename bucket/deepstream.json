@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/deepstreamIO/deepstream.io/releases/download/v10.0.2/deepstream.io-windows-10.0.2.zip",
+            "url": "https://gh-proxy.org/https://github.com/deepstreamIO/deepstream.io/releases/download/v10.0.2/deepstream.io-windows-10.0.2.zip",
             "hash": "2d4dd553daa5ab6c740e8866e0fe0c92bf6e2071fae979b4f92e5d2e00afe65e"
         }
     },
@@ -20,8 +20,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/deepstreamIO/deepstream.io/releases/download/v$version/deepstream.io-windows-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/deepstreamIO/deepstream.io/releases/download/v$version/deepstream.io-windows-$version.zip"
             }
         }
     }
 }
+

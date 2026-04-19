@@ -9,8 +9,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghfast.top/https://github.com/oven-sh/bun/releases/download/bun-v1.3.12/bun-windows-x64.zip",
-                "https://ghfast.top/https://github.com/oven-sh/bun/releases/download/bun-v1.3.12/bun-windows-x64-baseline.zip"
+                "https://gh-proxy.org/https://github.com/oven-sh/bun/releases/download/bun-v1.3.12/bun-windows-x64.zip",
+                "https://gh-proxy.org/https://github.com/oven-sh/bun/releases/download/bun-v1.3.12/bun-windows-x64-baseline.zip"
             ],
             "hash": [
                 "841ff9c5dffcaa3a2620d1e3f87ee500f32a4ca830b001cade7a3479609d4a89",
@@ -18,7 +18,7 @@
             ]
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/oven-sh/bun/releases/download/bun-v1.3.12/bun-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/oven-sh/bun/releases/download/bun-v1.3.12/bun-windows-aarch64.zip",
             "hash": "6cac24eab41e8d7e6b39b4dd3b4bca5ea0d11a1f43f94126bdff6e849f9f7f51"
         }
     },
@@ -79,12 +79,12 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghfast.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64.zip",
-                    "https://ghfast.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64-baseline.zip"
+                    "https://gh-proxy.org/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64.zip",
+                    "https://gh-proxy.org/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64-baseline.zip"
                 ]
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-aarch64.zip"
             }
         },
         "hash": {
@@ -92,3 +92,4 @@
         }
     }
 }
+

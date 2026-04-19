@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/ra3xdh/qucs_s/releases/download/26.1.0/Qucs-S-26.1.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ra3xdh/qucs_s/releases/download/26.1.0/Qucs-S-26.1.0-win64.zip",
             "hash": "c879dc77ddc80f6944ed0434ab6151721a748068ef23195196a6461ba21a24c9"
         }
     },
@@ -25,8 +25,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/ra3xdh/qucs_s/releases/download/$version/Qucs-S-$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/ra3xdh/qucs_s/releases/download/$version/Qucs-S-$version-win64.zip"
             }
         }
     }
 }
+

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/afonsojramos/discrakt/releases/download/v3.4.4/discrakt_win64.exe#/discrakt.exe",
+            "url": "https://gh-proxy.org/https://github.com/afonsojramos/discrakt/releases/download/v3.4.4/discrakt_win64.exe#/discrakt.exe",
             "hash": "b178843776cc7f3f61ff7e3a6b380fcf7729cc9b43e2341b3dac371831fd4f43"
         }
     },
@@ -23,8 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/afonsojramos/discrakt/releases/download/v$version/discrakt_win64.exe#/discrakt.exe"
+                "url": "https://gh-proxy.org/https://github.com/afonsojramos/discrakt/releases/download/v$version/discrakt_win64.exe#/discrakt.exe"
             }
         }
     }
 }
+

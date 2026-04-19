@@ -5,7 +5,7 @@
     "license": "Apache-2.0,GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/osquery/osquery/releases/download/5.22.1/osquery-5.22.1.msi",
+            "url": "https://gh-proxy.org/https://github.com/osquery/osquery/releases/download/5.22.1/osquery-5.22.1.msi",
             "hash": "91238c6f7543979e59d88886d61e8e7a222f6595f89b24bfac385d31433f7a02"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/osquery/osquery/releases/download/$version/osquery-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/osquery/osquery/releases/download/$version/osquery-$version.msi"
             }
         }
     },
@@ -30,3 +30,4 @@
         "https://osquery.readthedocs.io/en/stable/installation/install-windows"
     ]
 }
+

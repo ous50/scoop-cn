@@ -6,10 +6,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/sam-astro/Z-Sharp/releases/download/v2.1.3/ZS_Win_Base_Raw.zip",
+            "url": "https://gh-proxy.org/https://github.com/sam-astro/Z-Sharp/releases/download/v2.1.3/ZS_Win_Base_Raw.zip",
             "hash": "92255CC953AE2A152EC355B29C35032ABFC53B43EE43EFCF83106D1036501DBD"
         }
     },
     "extract_dir": "ZS_Win_Base_Raw",
     "bin": "ZSharp.exe"
 }
+

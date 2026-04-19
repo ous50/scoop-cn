@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/headlamp-k8s/headlamp/releases/download/v0.41.0/Headlamp-0.41.0-win-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/headlamp-k8s/headlamp/releases/download/v0.41.0/Headlamp-0.41.0-win-x64.exe#/dl.7z",
             "hash": "40f4a68fb6d201ee9efc3b18602e6e2c429772bb9780459f7f7569f2f8b45f73",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/headlamp-k8s/headlamp/releases/download/v$version/Headlamp-$version-win-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/headlamp-k8s/headlamp/releases/download/v$version/Headlamp-$version-win-x64.exe#/dl.7z"
             }
         },
         "hash": {
@@ -34,3 +34,4 @@
         }
     }
 }
+

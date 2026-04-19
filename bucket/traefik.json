@@ -6,15 +6,15 @@
     "notes": "Run with a configuration file 'traefik -c <yourconfig.toml>' or 'traefik --help' for all options.",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/traefik/traefik/releases/download/v3.6.13/traefik_v3.6.13_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/traefik/traefik/releases/download/v3.6.13/traefik_v3.6.13_windows_amd64.zip",
             "hash": "6153e73f411c624022711320f75e57a8178277dbd51ab27cefad984ee523f06f"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/traefik/traefik/releases/download/v3.6.13/traefik_v3.6.13_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/traefik/traefik/releases/download/v3.6.13/traefik_v3.6.13_windows_386.zip",
             "hash": "9807fb2a7a3f5ad39306c0edba9cd137e7b666b9688229db17841d2366854a04"
         },
         "arm64": {
-            "url": "https://ghfast.top/https://github.com/traefik/traefik/releases/download/v3.6.13/traefik_v3.6.13_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/traefik/traefik/releases/download/v3.6.13/traefik_v3.6.13_windows_arm64.zip",
             "hash": "72c9b0c90723eecc49e3349aa450d41c4daf6d3abe6cd7c84f84542e2b610dab"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/traefik/traefik/releases/download/v$version/traefik_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/traefik/traefik/releases/download/v$version/traefik_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/traefik/traefik/releases/download/v$version/traefik_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/traefik/traefik/releases/download/v$version/traefik_v$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://ghfast.top/https://github.com/traefik/traefik/releases/download/v$version/traefik_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/traefik/traefik/releases/download/v$version/traefik_v$version_windows_arm64.zip"
             }
         },
         "hash": {
@@ -39,3 +39,4 @@
         }
     }
 }
+

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/txn2/kubefwd/releases/download/v1.25.13/kubefwd_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/txn2/kubefwd/releases/download/v1.25.13/kubefwd_Windows_x86_64.zip",
             "hash": "90ef3fa2f50e90e05d52109ce41291650fca76e79c6bccfb15e68fba51b737b7"
         },
         "32bit": {
-            "url": "https://ghfast.top/https://github.com/txn2/kubefwd/releases/download/v1.25.13/kubefwd_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/txn2/kubefwd/releases/download/v1.25.13/kubefwd_Windows_i386.zip",
             "hash": "121668b59b45e57b46714a9e0439ae0a0dcd155f63c9605d792ba6e2b4016306"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/txn2/kubefwd/releases/download/v$version/kubefwd_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/txn2/kubefwd/releases/download/v$version/kubefwd_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://ghfast.top/https://github.com/txn2/kubefwd/releases/download/v$version/kubefwd_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/txn2/kubefwd/releases/download/v$version/kubefwd_Windows_i386.zip"
             }
         },
         "hash": {
@@ -29,3 +29,4 @@
         }
     }
 }
+

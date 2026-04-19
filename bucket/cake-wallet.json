@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/cake-tech/cake_wallet/releases/download/v5.9.0/Cake_Wallet_v5.9.0_Windows.exe",
+            "url": "https://gh-proxy.org/https://github.com/cake-tech/cake_wallet/releases/download/v5.9.0/Cake_Wallet_v5.9.0_Windows.exe",
             "hash": "ff8dc181cd13fdfc841b214efd482b80e8699e63a897182b12b964711a71038c"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/cake-tech/cake_wallet/releases/download/v$version/Cake_Wallet_v$version_Windows.exe"
+                "url": "https://gh-proxy.org/https://github.com/cake-tech/cake_wallet/releases/download/v$version/Cake_Wallet_v$version_Windows.exe"
             }
         },
         "hash": {
@@ -36,3 +36,4 @@
         }
     }
 }
+

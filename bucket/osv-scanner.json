@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/google/osv-scanner/releases/download/v2.3.5/osv-scanner_windows_amd64.exe#/osv-scanner.exe",
+            "url": "https://gh-proxy.org/https://github.com/google/osv-scanner/releases/download/v2.3.5/osv-scanner_windows_amd64.exe#/osv-scanner.exe",
             "hash": "b165d33c08bda663119a459f5187e096d2525f888503495f5f34925741e981a2"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/google/osv-scanner/releases/download/v$version/osv-scanner_windows_amd64.exe#/osv-scanner.exe"
+                "url": "https://gh-proxy.org/https://github.com/google/osv-scanner/releases/download/v$version/osv-scanner_windows_amd64.exe#/osv-scanner.exe"
             }
         },
         "hash": {
@@ -22,3 +22,4 @@
         }
     }
 }
+

@@ -87,3 +87,4 @@
         "To stop and/or delete the Service run 'sc stop MySQL' and 'sc delete MySQL'."
     ]
 }
+

@@ -50,3 +50,4 @@
         "extract_dir": "kafka_2.12-$version"
     }
 }
+

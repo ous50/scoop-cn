@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/danmar/cppcheck/releases/download/2.20.0/cppcheck-2.20.0-x64-Setup.msi",
+            "url": "https://gh-proxy.org/https://github.com/danmar/cppcheck/releases/download/2.20.0/cppcheck-2.20.0-x64-Setup.msi",
             "hash": "bb1132bca1bca857a6ce3f04605698f002196070a947cae7015eeddc3c00f449"
         }
     },
@@ -23,8 +23,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/danmar/cppcheck/releases/download/$version/cppcheck-$version-x64-Setup.msi"
+                "url": "https://gh-proxy.org/https://github.com/danmar/cppcheck/releases/download/$version/cppcheck-$version-x64-Setup.msi"
             }
         }
     }
 }
+

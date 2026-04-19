@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghfast.top/https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.6.1/Folo-1.6.1-windows-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/RSSNext/Folo/releases/download/desktop%2Fv1.6.1/Folo-1.6.1-windows-x64.exe#/dl.7z",
             "hash": "sha512:613ef78cf56be5e2a7c35464553b14623cd9faec9ecb7cb8f2aff98dd32beb0581c4fa47509bdbecb7a947b552d9b8a04afee55a378e73c4fee93d2405dcae3f"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghfast.top/https://github.com/RSSNext/Folo/releases/download/desktop%2Fv$version/Folo-$version-windows-x64.exe#/dl.7z",
+                "url": "https://gh-proxy.org/https://github.com/RSSNext/Folo/releases/download/desktop%2Fv$version/Folo-$version-windows-x64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
                     "regex": "(?sm)x64.exe.*?sha512:\\s+$base64"
@@ -47,3 +47,4 @@
         }
     }
 }
+
