@@ -1,20 +1,20 @@
 {
-    "version": "0.16",
+    "version": "0.19",
     "description": "Command Line Tool for interacting with Azure Container Registry Images",
     "homepage": "https://github.com/Azure/acr-cli",
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.16/acr-cli_0.16_Windows_i386.zip",
-            "hash": "9737191cd8098c57b990121a66387be5100512c68520925ae7d1fcea2c97f3e1"
+            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.19/acr-cli_0.19_Windows_i386.zip",
+            "hash": "9030eedfe655d0a7c33a711702cb465fbc3e4e51c5896e0c9fb8521706d99100"
         },
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.16/acr-cli_0.16_Windows_x86_64.zip",
-            "hash": "3852de20f063073c966a8eb520c2c7e30e9d3d7f5a8d4ef81832033921fe4a79"
+            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.19/acr-cli_0.19_Windows_x86_64.zip",
+            "hash": "2a65bf3ee256935b086828bc5a52337bf949a72a1f0e71cbf62be8dbdd7dc705"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.16/acr-cli_0.16_Windows_arm64.zip",
-            "hash": "9ebce478ae9de453d81b6f91ef74ff009dfc36affc9fc4dd25e484f638e635ba"
+            "url": "https://gh-proxy.org/https://github.com/Azure/acr-cli/releases/download/v0.19/acr-cli_0.19_Windows_arm64.zip",
+            "hash": "220f020bcc39246a561b73e4e1f96b2d5b7043772974f4eb59e60eb602a362f5"
         }
     },
     "pre_install": "Rename-Item -Path $dir\\acr-cli.exe -NewName acr.exe",
