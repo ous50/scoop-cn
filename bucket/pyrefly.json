@@ -3,6 +3,9 @@
     "description": "A fast type checker and language server for Python.",
     "homepage": "https://pyrefly.org",
     "license": "MIT",
+    "suggest": {
+        "vcredist": "scoop-cn/vcredist2022"
+    },
     "architecture": {
         "64bit": {
             "url": "https://gh-proxy.org/https://github.com/facebook/pyrefly/releases/download/0.64.1/pyrefly-windows-x86_64.zip",
