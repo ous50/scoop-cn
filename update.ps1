@@ -39,7 +39,7 @@ Remove-Item -Path .\ous50 -Recurse -Force
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName -Raw
-    $gh_proxy_domain = 'https://gh-proxy.org'
+    $gh_proxy_domain = 'https://v6.gh-proxy.org'
 
     # GitHub Releases
     $content = $content -replace '(https?://github\.com/.+/releases/.*download)', ($gh_proxy_domain+'/$1')
