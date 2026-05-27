@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/rabbitmq/rabbitmqadmin-ng/releases/download/v2.31.0/rabbitmqadmin-2.31.0-x86_64-pc-windows-msvc.exe#/rabbitmqadmin.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/rabbitmq/rabbitmqadmin-ng/releases/download/v2.31.0/rabbitmqadmin-2.31.0-x86_64-pc-windows-msvc.exe#/rabbitmqadmin.exe",
             "hash": "cc73071f9f25e95330c86edfa204dd5272bf346bb909d55db06758bceda00749"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/rabbitmq/rabbitmqadmin-ng/releases/download/v$version/rabbitmqadmin-$version-x86_64-pc-windows-msvc.exe#/rabbitmqadmin.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/rabbitmq/rabbitmqadmin-ng/releases/download/v$version/rabbitmqadmin-$version-x86_64-pc-windows-msvc.exe#/rabbitmqadmin.exe"
             }
         }
     }

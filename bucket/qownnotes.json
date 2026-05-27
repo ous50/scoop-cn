@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/pbek/QOwnNotes/releases/download/v26.5.16/QOwnNotes.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/pbek/QOwnNotes/releases/download/v26.5.16/QOwnNotes.zip",
             "hash": "03a7c863a02ab904b1a8a734653c28d238c7555e603f32a16b529efcd2244b55"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
             }
         },
         "hash": {

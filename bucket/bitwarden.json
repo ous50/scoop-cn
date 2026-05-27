@@ -3,7 +3,7 @@
     "description": "Password management solutions for individuals, teams, and business organizations",
     "homepage": "https://bitwarden.com",
     "license": "GPL-3.0-or-later",
-    "url": "https://gh-proxy.org/https://github.com/bitwarden/clients/releases/download/desktop-v2026.4.0/Bitwarden-Portable-2026.4.0.exe",
+    "url": "https://v6.gh-proxy.org/https://github.com/bitwarden/clients/releases/download/desktop-v2026.4.0/Bitwarden-Portable-2026.4.0.exe",
     "hash": "d9aab4ebc4eb54d478de383e50f209b2d9b909d4f6066a1f62173c261cc26b71",
     "pre_install": [
         "Rename-Item \"$dir\\Bitwarden-Portable-$version.exe\" 'Bitwarden.exe'",
@@ -27,7 +27,7 @@
         "regex": "desktop-v([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.org/https://github.com/bitwarden/clients/releases/download/desktop-v$version/Bitwarden-Portable-$version.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/bitwarden/clients/releases/download/desktop-v$version/Bitwarden-Portable-$version.exe"
     }
 }
 

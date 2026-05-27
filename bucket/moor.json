@@ -5,14 +5,14 @@
     "license": "BSD-2-Clause-Views",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/walles/moor/releases/download/v2.13.2/moor-v2.13.2-windows-amd64.exe#/moor.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/walles/moor/releases/download/v2.13.2/moor-v2.13.2-windows-amd64.exe#/moor.exe",
             "hash": "fb91b219f00d2c52a59ea5d56b508bf6a3720c8d8225598e4da727ec27df777a"
         }
     },
     "bin": "moor.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.org/https://github.com/walles/moor/releases/download/v$version/moor-v$version-windows-amd64.exe#/moor.exe"
+        "url": "https://v6.gh-proxy.org/https://github.com/walles/moor/releases/download/v$version/moor-v$version-windows-amd64.exe#/moor.exe"
     }
 }
 

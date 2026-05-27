@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b9357/llama-b9357-bin-win-cpu-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b9357/llama-b9357-bin-win-cpu-x64.zip",
             "hash": "08f8c6487d0f93764827ee45645ce1e71618369e98f40401670985aa3c62a23f"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b9357/llama-b9357-bin-win-cpu-arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/b9357/llama-b9357-bin-win-cpu-arm64.zip",
             "hash": "e1355f85205b003b0e5b5c9f03a887e17d3415b31d8784715b482ab65ab54801"
         }
     },
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cpu-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cpu-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cpu-arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cpu-arm64.zip"
             }
         }
     }

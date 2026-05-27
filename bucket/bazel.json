@@ -10,7 +10,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/bazelbuild/bazel/releases/download/9.1.0/bazel-9.1.0-windows-x86_64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/bazelbuild/bazel/releases/download/9.1.0/bazel-9.1.0-windows-x86_64.zip",
             "hash": "3da113b315dff34d66f0e16273612b311236e566fef405b79b506fd59657f842"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/bazelbuild/bazel/releases/download/$version/bazel-$version-windows-x86_64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/bazelbuild/bazel/releases/download/$version/bazel-$version-windows-x86_64.zip"
             }
         },
         "hash": {

@@ -3,7 +3,7 @@
     "description": "A Graphical User Interface to manage Scoop apps.",
     "homepage": "https://github.com/windedge/Scooper",
     "license": "MIT",
-    "url": "https://gh-proxy.org/https://github.com/windedge/Scooper/releases/download/v1.2.2/Scooper-1.2.2.msi",
+    "url": "https://v6.gh-proxy.org/https://github.com/windedge/Scooper/releases/download/v1.2.2/Scooper-1.2.2.msi",
     "hash": "b6fb6a625cabb1d25f060b86e6aa54e147f89f6462ea05e3cf4a18149d2d94b7",
     "extract_dir": "Scooper",
     "shortcuts": [
@@ -14,7 +14,7 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.org/https://github.com/windedge/Scooper/releases/download/v$version/Scooper-$version.msi"
+        "url": "https://v6.gh-proxy.org/https://github.com/windedge/Scooper/releases/download/v$version/Scooper-$version.msi"
     }
 }
 

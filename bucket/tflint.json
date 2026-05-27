@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_windows_amd64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_windows_amd64.zip",
             "hash": "bef472fd62dcbdb616bbdf67800f1bcf8db64598529c09610154686555180edd"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_windows_386.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v0.62.1/tflint_windows_386.zip",
             "hash": "47a0ada2060a6bcda9c2f40419bd82795a2bd4e2855832298f14ad2b7a0fe536"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v$version/tflint_windows_amd64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v$version/tflint_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v$version/tflint_windows_386.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/terraform-linters/tflint/releases/download/v$version/tflint_windows_386.zip"
             }
         },
         "hash": {

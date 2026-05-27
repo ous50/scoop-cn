@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v15.6.1-May2026/Az-Cmdlets-15.6.1.40772-x64.msi",
+            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v15.6.1-May2026/Az-Cmdlets-15.6.1.40772-x64.msi",
             "hash": "dcd55932dee87ac15982952acbc4888eed1f15fc3fa6848dc55d14c97a08f86b"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v15.6.1-May2026/Az-Cmdlets-15.6.1.40772-x86.msi",
+            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v15.6.1-May2026/Az-Cmdlets-15.6.1.40772-x86.msi",
             "hash": "f39a76491c77c6cafc928b5eacee033d2f4a14f00e48d583e2f38207035edc02"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v$matchRelease/Az-Cmdlets-$version-x64.msi"
+                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v$matchRelease/Az-Cmdlets-$version-x64.msi"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v$matchRelease/Az-Cmdlets-$version-x86.msi"
+                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-powershell/releases/download/v$matchRelease/Az-Cmdlets-$version-x86.msi"
             }
         }
     }

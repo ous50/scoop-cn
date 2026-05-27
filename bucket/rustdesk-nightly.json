@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.4.6-x86_64.exe#/RustDesk.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.4.6-x86_64.exe#/RustDesk.exe",
             "hash": "c16cd4b9a4d34ae9029e8918c9dcacad4fd09ff80a61a77e3bcada08b647b534"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.4.6-x86-sciter.exe#/RustDesk.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.4.6-x86-sciter.exe#/RustDesk.exe",
             "hash": "cba05dcd5f443f6b27cf1c184621b899efe1aeca2719a2d8fed66398ed3d47da"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-$matchRelease-x86_64.exe#/RustDesk.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-$matchRelease-x86_64.exe#/RustDesk.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-$matchRelease-x86-sciter.exe#/RustDesk.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-$matchRelease-x86-sciter.exe#/RustDesk.exe"
             }
         }
     }

@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v2.1.1/syncthingtray-2.1.1-x86_64-w64-mingw32.exe.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v2.1.1/syncthingtray-2.1.1-x86_64-w64-mingw32.exe.zip",
             "hash": "ca52553554ce149769a5150abe0adddbf9bc94987e4da4290ba2725a2f1f8bfc"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v2.1.1/syncthingtray-qt5-2.1.1-i686-w64-mingw32.exe.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v2.1.1/syncthingtray-qt5-2.1.1-i686-w64-mingw32.exe.zip",
             "hash": "e9f4470dc18eea007c6c6550a5bf30cfec1d84073a10791873ec24f6917fe10a"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v2.1.1/syncthingtray-2.1.1-aarch64-w64-mingw32.exe.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v2.1.1/syncthingtray-2.1.1-aarch64-w64-mingw32.exe.zip",
             "hash": "e6d634eef9be40973e9b008dcde093f41da5cc53294d97560c9416345d7bb876"
         }
     },
@@ -46,13 +46,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingtray-$version-x86_64-w64-mingw32.exe.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingtray-$version-x86_64-w64-mingw32.exe.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingtray-qt5-$version-i686-w64-mingw32.exe.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingtray-qt5-$version-i686-w64-mingw32.exe.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingtray-$version-aarch64-w64-mingw32.exe.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingtray-$version-aarch64-w64-mingw32.exe.zip"
             }
         }
     }

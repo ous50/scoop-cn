@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v0.19.0/gogcli_0.19.0_windows_amd64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v0.19.0/gogcli_0.19.0_windows_amd64.zip",
             "hash": "e443d0027f9a5bdb7a3b9c556a6d0a6645f248f1b921811994a1cd25ce255253"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v0.19.0/gogcli_0.19.0_windows_arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v0.19.0/gogcli_0.19.0_windows_arm64.zip",
             "hash": "02733f6aa1de9511c18f60aa337df7bb0aba84d929c8a0a8bd5ef5d62a0d7b18"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v$version/gogcli_$version_windows_amd64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v$version/gogcli_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v$version/gogcli_$version_windows_arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/steipete/gogcli/releases/download/v$version/gogcli_$version_windows_arm64.zip"
             }
         },
         "hash": {

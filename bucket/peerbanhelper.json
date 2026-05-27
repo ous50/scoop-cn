@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.12/PeerBanHelper_Windows_9.3.12_Portable.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v9.3.12/PeerBanHelper_Windows_9.3.12_Portable.zip",
             "hash": "50e2f13cfb48b53e3b3f2f143d6213875ff319da0c2c80d28d31a502ee0b5cb5"
         }
     },
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Windows_$version_Portable.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/PBH-BTN/PeerBanHelper/releases/download/v$version/PeerBanHelper_Windows_$version_Portable.zip"
             }
         }
     }

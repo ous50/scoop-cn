@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v11.4.0/pnpm-win32-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v11.4.0/pnpm-win32-x64.zip",
             "hash": "84ce90e38bc0b1164173eb853a0fbffc7edcb050cb0d5c8ce4ca609f5c808e0a"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v11.4.0/pnpm-win32-arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v11.4.0/pnpm-win32-arm64.zip",
             "hash": "0e806a97ff47396fc86769f27c4ed1bdea4777ad40f0d7170a6247e859eb515a"
         }
     },
@@ -69,10 +69,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v$version/pnpm-win32-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v$version/pnpm-win32-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v$version/pnpm-win32-arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/pnpm/pnpm/releases/download/v$version/pnpm-win32-arm64.zip"
             }
         }
     }

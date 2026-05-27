@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/matthart1983/netwatch/releases/download/v0.22.0/netwatch-windows-x86_64.exe.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/matthart1983/netwatch/releases/download/v0.22.0/netwatch-windows-x86_64.exe.zip",
             "hash": "b70b2e927584f19dcafdbac28548c4a93b8876736603b1c9113d549c8aee7755",
             "bin": [
                 [
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/matthart1983/netwatch/releases/download/v$version/netwatch-windows-x86_64.exe.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/matthart1983/netwatch/releases/download/v$version/netwatch-windows-x86_64.exe.zip"
             }
         }
     }

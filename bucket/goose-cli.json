@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/block/goose/releases/download/v1.35.0/goose-x86_64-pc-windows-msvc.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/block/goose/releases/download/v1.35.0/goose-x86_64-pc-windows-msvc.zip",
             "hash": "398953652d14a057e237ecce1e6373b8a0dd9946ec629a35f8bee1f33501fabd"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/block/goose/releases/download/v$version/goose-x86_64-pc-windows-msvc.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/block/goose/releases/download/v$version/goose-x86_64-pc-windows-msvc.zip"
             }
         }
     }

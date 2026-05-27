@@ -5,12 +5,12 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.9.1/LunaTranslator_x64_win10.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.9.1/LunaTranslator_x64_win10.zip",
             "hash": "13a6173a3de7b3adb1999b08dadc6b19a38f37c7b83d4e02171d8a2427868cff",
             "extract_dir": "LunaTranslator_x64_win10"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.9.1/LunaTranslator_x86_win7.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v10.15.9.1/LunaTranslator_x86_win7.zip",
             "hash": "8d6f10657fa88be61a16e0ca67aab204099f0f4ce3d46f6da91b749ef038155e",
             "extract_dir": "LunaTranslator_x86_win7"
         }
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64_win10.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64_win10.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x86_win7.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x86_win7.zip"
             }
         }
     }

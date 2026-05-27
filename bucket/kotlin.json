@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v2.3.21/kotlin-compiler-2.3.21.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v2.3.21/kotlin-compiler-2.3.21.zip",
     "hash": "a8cfc1d62cd4d0de4d04f42575e40135bd620588c17d568a20eb9c7c259af14f",
     "extract_dir": "kotlinc",
     "bin": [
@@ -24,7 +24,7 @@
         "regex": ">([\\d.]+)</b"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v$version/kotlin-compiler-$version.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v$version/kotlin-compiler-$version.zip"
     }
 }
 

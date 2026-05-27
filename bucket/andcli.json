@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v2.6.2/andcli_v2.6.2_windows_amd64.exe#/andcli.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v2.6.2/andcli_v2.6.2_windows_amd64.exe#/andcli.exe",
             "hash": "a32318870cd6b81a3a7241a281a26cf0d7f93da083281989d9bcb070e898a80e"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v2.6.2/andcli_v2.6.2_windows_arm64.exe#/andcli.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v2.6.2/andcli_v2.6.2_windows_arm64.exe#/andcli.exe",
             "hash": "3df7e6b05244374af83b7ac42f4ea41c654055fa246155972cd661e6f0762f71"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v$version/andcli_v$version_windows_amd64.exe#/andcli.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v$version/andcli_v$version_windows_amd64.exe#/andcli.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v$version/andcli_v$version_windows_arm64.exe#/andcli.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/tjblackheart/andcli/releases/download/v$version/andcli_v$version_windows_arm64.exe#/andcli.exe"
             }
         }
     }

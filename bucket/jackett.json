@@ -6,7 +6,7 @@
         "identifier": "GPL-2.0-or-later",
         "url": "https://github.com/Jackett/Jackett/blob/HEAD/LICENSE"
     },
-    "url": "https://gh-proxy.org/https://github.com/Jackett/Jackett/releases/download/v0.24.1957/Jackett.Binaries.Windows.zip",
+    "url": "https://v6.gh-proxy.org/https://github.com/Jackett/Jackett/releases/download/v0.24.1957/Jackett.Binaries.Windows.zip",
     "hash": "a4f4c0378c8a64360bd6756e26f35a4f361de80c59f0ea8dd79fe791b834c81b",
     "extract_dir": "Jackett",
     "shortcuts": [
@@ -25,7 +25,7 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gh-proxy.org/https://github.com/Jackett/Jackett/releases/download/v$version/Jackett.Binaries.Windows.zip"
+        "url": "https://v6.gh-proxy.org/https://github.com/Jackett/Jackett/releases/download/v$version/Jackett.Binaries.Windows.zip"
     }
 }
 

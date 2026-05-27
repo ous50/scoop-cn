@@ -6,15 +6,15 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/4.11.0/Azure.Functions.Cli.win-x86.4.11.0.zip#/dl.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/4.11.0/Azure.Functions.Cli.win-x86.4.11.0.zip#/dl.7z",
             "hash": "7f93b8405b2a54292d89b22a8b9c6456fb1ff80c1eb1f141b0bc478aaf9fafd0"
         },
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/4.11.0/Azure.Functions.Cli.win-x64.4.11.0.zip#/dl.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/4.11.0/Azure.Functions.Cli.win-x64.4.11.0.zip#/dl.7z",
             "hash": "3776d36bf0cfe78b79d0a5b775861d8d318d470197741b8f6f07bf3f023e6af0"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/4.11.0/Azure.Functions.Cli.win-arm64.4.11.0.zip#/dl.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/4.11.0/Azure.Functions.Cli.win-arm64.4.11.0.zip#/dl.7z",
             "hash": "aa44216fa8d7570d8f6ef414cc624d2c1aaa85b917013c6836d44197e4cfa0e7"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/$version/Azure.Functions.Cli.win-x86.$version.zip#/dl.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/$version/Azure.Functions.Cli.win-x86.$version.zip#/dl.7z"
             },
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/$version/Azure.Functions.Cli.win-x64.$version.zip#/dl.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/$version/Azure.Functions.Cli.win-x64.$version.zip#/dl.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/$version/Azure.Functions.Cli.win-arm64.$version.zip#/dl.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-functions-core-tools/releases/download/$version/Azure.Functions.Cli.win-arm64.$version.zip#/dl.7z"
             }
         },
         "hash": {

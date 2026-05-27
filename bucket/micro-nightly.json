@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win64.zip",
             "hash": "1eed51f5facb04a3189487d7b3945c86c616eada9cbf90cdb159bade396772ef"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win32.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win32.zip",
             "hash": "eddda12967d5fd4579e76bcd819f1dd1ff1b7559b2f50dbcf9233b5360cc6892"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win-arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win-arm64.zip",
             "hash": "90f9eb69ea19259c777124246adaf86ad3fff6cd0ced5eb350de102d61aabcbf"
         }
     },
@@ -28,13 +28,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win32.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win32.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win-arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/micro-editor/micro/releases/download/nightly/micro-nightly-win-arm64.zip"
             }
         }
     }

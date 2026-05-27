@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/rvben/rumdl/releases/download/v0.2.2/rumdl-v0.2.2-x86_64-pc-windows-msvc.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/rvben/rumdl/releases/download/v0.2.2/rumdl-v0.2.2-x86_64-pc-windows-msvc.zip",
             "hash": "73f1453b59317cc3423c6c702e84a6f52d63c9e2dbd22b7035ac26d3b720cedf"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/rvben/rumdl/releases/download/v$version/rumdl-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/rvben/rumdl/releases/download/v$version/rumdl-v$version-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

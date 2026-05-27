@@ -8,8 +8,8 @@
         "64bit": {
             "url": [
                 "https://mirrors.nju.edu.cn/python/3.15.0/python-3.15.0b1-amd64.exe#/setup.exe",
-                "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/install-pep-514.reg",
-                "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/uninstall-pep-514.reg"
+                "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/install-pep-514.reg",
+                "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/uninstall-pep-514.reg"
             ],
             "hash": [
                 "de7f62783f765061c7e97ed7b30f780c3d15de5b3154e88b2f9cb92ce1df6957",
@@ -20,8 +20,8 @@
         "32bit": {
             "url": [
                 "https://mirrors.nju.edu.cn/python/3.15.0/python-3.15.0b1.exe#/setup.exe",
-                "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/install-pep-514.reg",
-                "https://gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/uninstall-pep-514.reg"
+                "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/install-pep-514.reg",
+                "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/python/uninstall-pep-514.reg"
             ],
             "hash": [
                 "c8ffe6ddfcd8f19e10dbe009d747724e702c7f79ecfabf9923f58fdd79d7b544",

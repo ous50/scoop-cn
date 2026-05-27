@@ -6,11 +6,11 @@
     "notes": "Please manually disable Zed's auto-update feature in the settings to prevent the updater from installing the program in unintended locations.",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v1.3.7/Zed-x86_64.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v1.3.7/Zed-x86_64.exe",
             "hash": "526a778d6cb0afc0e97bf42323c71eeb4fa488b5590ca2761e5db27f84f63e90"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v1.3.7/Zed-aarch64.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v1.3.7/Zed-aarch64.exe",
             "hash": "d2e673ea42a411f4c89e7e6127fdad9cc2682d52e5881df38926426d8330bb2b"
         }
     },
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v$version/Zed-x86_64.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v$version/Zed-x86_64.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v$version/Zed-aarch64.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/zed-industries/zed/releases/download/v$version/Zed-aarch64.exe"
             }
         }
     }

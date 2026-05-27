@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v1.42.0/stripe_1.42.0_windows_i386.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v1.42.0/stripe_1.42.0_windows_i386.zip",
             "hash": "0d33b8647838e47ab2d350580a56e59d3606d1b2317d7d5a7489fb5f9b4777d7"
         },
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v1.42.0/stripe_1.42.0_windows_x86_64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v1.42.0/stripe_1.42.0_windows_x86_64.zip",
             "hash": "5a9745b6a382ef7163a34634e4e445bddd7976b01afbb1134786d939766cbf3a"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v$version/stripe_$version_windows_i386.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v$version/stripe_$version_windows_i386.zip"
             },
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v$version/stripe_$version_windows_x86_64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/stripe/stripe-cli/releases/download/v$version/stripe_$version_windows_x86_64.zip"
             }
         },
         "hash": {

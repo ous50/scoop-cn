@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/danielgtaylor/restish/releases/download/v2.0.0/restish-2.0.0-windows-amd64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/danielgtaylor/restish/releases/download/v2.0.0/restish-2.0.0-windows-amd64.zip",
             "hash": "2b0aad96b87fd6af913a1b96b423dfeb7a80b7ff43eb83cab527eace5e985eda"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/danielgtaylor/restish/releases/download/v$version/restish-$version-windows-amd64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/danielgtaylor/restish/releases/download/v$version/restish-$version-windows-amd64.zip"
             }
         },
         "hash": {

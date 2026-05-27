@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v3.0.7/Project.Graph_3.0.7_x64-setup.exe#/dl.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v3.0.7/Project.Graph_3.0.7_x64-setup.exe#/dl.7z",
             "hash": "812dd880ef32f029b57d93859aaad42a719d71d1400dcf14ba9b483560aae5ef"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v$version/Project.Graph_$version_x64-setup.exe#/dl.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/graphif/project-graph/releases/download/v$version/Project.Graph_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

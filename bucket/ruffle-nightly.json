@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-2026-05-27/ruffle-nightly-2026_05_27-windows-x86_64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-2026-05-27/ruffle-nightly-2026_05_27-windows-x86_64.zip",
             "hash": "bb36d41ead28752625ec25a2c204394843bdebc9818d6f3806043304848632b6"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-2026-05-27/ruffle-nightly-2026_05_27-windows-x86_32.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-2026-05-27/ruffle-nightly-2026_05_27-windows-x86_32.zip",
             "hash": "dde4bd8b90a8283fd2894814d8a94ab775ee0884dbb72f5089450d9788f40f68"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-$version/ruffle-nightly-$underscoreVersion-windows-x86_64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-$version/ruffle-nightly-$underscoreVersion-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-$version/ruffle-nightly-$underscoreVersion-windows-x86_32.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/ruffle-rs/ruffle/releases/download/nightly-$version/ruffle-nightly-$underscoreVersion-windows-x86_32.zip"
             }
         }
     }

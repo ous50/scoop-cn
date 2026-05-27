@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v5.47.0/camunda-modeler-5.47.0-win-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v5.47.0/camunda-modeler-5.47.0-win-x64.zip",
             "hash": "601738a39712d96d68e1eb1f9f03f39e533ed6545c8d9c2798e865d07b42279d"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v5.47.0/camunda-modeler-5.47.0-win-ia32.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v5.47.0/camunda-modeler-5.47.0-win-ia32.zip",
             "hash": "3c88b23f15d7e982f24621824b4c42c02a865fd9a40099f0d7d6ed36f60d2b6d"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v$version/camunda-modeler-$version-win-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v$version/camunda-modeler-$version-win-x64.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v$version/camunda-modeler-$version-win-ia32.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/camunda/camunda-modeler/releases/download/v$version/camunda-modeler-$version-win-ia32.zip"
             }
         }
     }

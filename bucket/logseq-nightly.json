@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-2.0.1-alpha+nightly.20260526.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-2.0.1-alpha+nightly.20260526.zip",
             "hash": "4cdf76502dd1e01d9432823c8bdacb43751f9eeb1e4be91e95e26906d7d11af6"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-$matchVersion-alpha+nightly.$matchDate.zip",
+                "url": "https://v6.gh-proxy.org/https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-$matchVersion-alpha+nightly.$matchDate.zip",
                 "hash": {
                     "url": "$baseurl/SHA256SUMS.txt",
                     "regex": "$sha256\\s+Logseq-win-x64.*\\.zip"

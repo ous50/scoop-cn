@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.8/lefthook_2.1.8_Windows_x86_64.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.8/lefthook_2.1.8_Windows_x86_64.gz",
             "hash": "13cab0ebb26b89c66bbf53a658c4126bf34202a857412690bb61c14c530b1ecf"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.8/lefthook_2.1.8_Windows_i386.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.8/lefthook_2.1.8_Windows_i386.gz",
             "hash": "2b3b3031175dfc2815f4101ee7e2b36ad8407f2b5f3b7ac290e3a757ced415ae"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.8/lefthook_2.1.8_Windows_arm64.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v2.1.8/lefthook_2.1.8_Windows_arm64.gz",
             "hash": "7ace7c8dcd2408c8b4aca010bfe4757d815ded14ec4ea65c6497e373494753a2"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
             }
         },
         "hash": {

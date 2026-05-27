@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/emscripten-core/emsdk/archive/refs/tags/5.0.7.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/emscripten-core/emsdk/archive/refs/tags/5.0.7.zip",
             "hash": "6b4abc378babd5e60536514ebf099d5b0436d2d8d5266da9b8033f2ca8341552"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/emscripten-core/emsdk/archive/refs/tags/$version.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/emscripten-core/emsdk/archive/refs/tags/$version.zip"
             }
         },
         "extract_dir": "emsdk-$version"

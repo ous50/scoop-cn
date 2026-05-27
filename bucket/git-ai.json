@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v1.5.2/git-ai-windows-x64.exe#/git-ai.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v1.5.2/git-ai-windows-x64.exe#/git-ai.exe",
             "hash": "36ecec02557e1f7fb13d7f46fe4ea2e13b1242f3198a46ca6f186accf06606f8"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v1.5.2/git-ai-windows-arm64.exe#/git-ai.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v1.5.2/git-ai-windows-arm64.exe#/git-ai.exe",
             "hash": "6e3782c43b57133cc7684e311dfa0fb91bba323e5812beea761abce16fb258c7"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v$version/git-ai-windows-x64.exe#/git-ai.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v$version/git-ai-windows-x64.exe#/git-ai.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v$version/git-ai-windows-arm64.exe#/git-ai.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/git-ai-project/git-ai/releases/download/v$version/git-ai-windows-arm64.exe#/git-ai.exe"
             }
         },
         "hash": {

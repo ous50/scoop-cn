@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/asciinema/agg/releases/download/v1.8.1/agg-x86_64-pc-windows-msvc.exe#/agg.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/asciinema/agg/releases/download/v1.8.1/agg-x86_64-pc-windows-msvc.exe#/agg.exe",
             "hash": "31acc4629c9faab3a2465e5521ef8a2623076e99111f925c005c5673cd46ccc5"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/asciinema/agg/releases/download/v$version/agg-x86_64-pc-windows-msvc.exe#/agg.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/asciinema/agg/releases/download/v$version/agg-x86_64-pc-windows-msvc.exe#/agg.exe"
             }
         }
     }

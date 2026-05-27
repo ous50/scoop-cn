@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v1.5.0/arduino-cli_1.5.0_Windows_64bit.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v1.5.0/arduino-cli_1.5.0_Windows_64bit.zip",
             "hash": "c64062b6924bc302977e6d23a607f0aa6a1019e1418df7b093fa00e0b7381727"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v1.5.0/arduino-cli_1.5.0_Windows_32bit.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v1.5.0/arduino-cli_1.5.0_Windows_32bit.zip",
             "hash": "3d4cc2fc5f508a1a8ecda931d9ceb0f9d3c39bd550d81f39d38f6c856346a760"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_64bit.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_64bit.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_32bit.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/arduino/arduino-cli/releases/download/v$version/arduino-cli_$version_Windows_32bit.zip"
             }
         },
         "hash": {

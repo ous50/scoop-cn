@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.16/aws-iam-authenticator_0.7.16_windows_amd64.exe#/aws-iam-authenticator.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.16/aws-iam-authenticator_0.7.16_windows_amd64.exe#/aws-iam-authenticator.exe",
             "hash": "1fb1a49bbcc5ad3ee4da8796d03fe9cd90777c5be9e812a95c83ce165e35618f"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v$version/aws-iam-authenticator_$version_windows_amd64.exe#/aws-iam-authenticator.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v$version/aws-iam-authenticator_$version_windows_amd64.exe#/aws-iam-authenticator.exe"
             }
         },
         "hash": {

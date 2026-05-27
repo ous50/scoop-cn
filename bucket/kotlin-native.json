@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v2.3.21/kotlin-native-prebuilt-windows-x86_64-2.3.21.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v2.3.21/kotlin-native-prebuilt-windows-x86_64-2.3.21.zip",
             "hash": "f44419f64f3aea61137f01a95dad2c09dfdd007340b4a126e203e014c8ab29be",
             "extract_dir": "kotlin-native-prebuilt-windows-x86_64-2.3.21"
         }
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v$matchHead/kotlin-native-prebuilt-windows-x86_64-$version.zip",
+                "url": "https://v6.gh-proxy.org/https://github.com/JetBrains/kotlin/releases/download/v$matchHead/kotlin-native-prebuilt-windows-x86_64-$version.zip",
                 "extract_dir": "kotlin-native-prebuilt-windows-x86_64-$version"
             }
         },

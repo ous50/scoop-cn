@@ -15,7 +15,7 @@
     "depends": "scoop-cn/llvm",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/PerryTS/perry/releases/download/v0.5.1025/perry-windows-x86_64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/PerryTS/perry/releases/download/v0.5.1025/perry-windows-x86_64.zip",
             "hash": "5f42cddc96765623689794bbc2118153616c35e96dd67d96f9fbbfcf44bb2b9d"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/PerryTS/perry/releases/download/v$version/perry-windows-x86_64.zip",
+                "url": "https://v6.gh-proxy.org/https://github.com/PerryTS/perry/releases/download/v$version/perry-windows-x86_64.zip",
                 "hash": {
                     "url": "$url.sha256"
                 }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/OrcaSlicer/OrcaSlicer/releases/download/nightly-builds/OrcaSlicer_Windows_nightly_portable.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/OrcaSlicer/OrcaSlicer/releases/download/nightly-builds/OrcaSlicer_Windows_nightly_portable.zip",
             "hash": "709bbdf3f50490acc9ce7de74ccd5b4cb2d559628e30b02bed74ed8f29d78749"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/OrcaSlicer/OrcaSlicer/releases/download/nightly-builds/OrcaSlicer_Windows_nightly_portable.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/OrcaSlicer/OrcaSlicer/releases/download/nightly-builds/OrcaSlicer_Windows_nightly_portable.zip"
             }
         }
     }

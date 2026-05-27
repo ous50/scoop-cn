@@ -5,7 +5,7 @@
     "version": "1.22.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/knative/client/releases/download/knative-v1.22.0/kn-windows-amd64.exe#/kn.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/knative/client/releases/download/knative-v1.22.0/kn-windows-amd64.exe#/kn.exe",
             "hash": "a1bd8902bd8c61d469fb19d948211c4a794ecf6a7c1a5601a34cef5211b29c39"
         }
     },
@@ -17,9 +17,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/knative/client/releases/download/knative-v$version/kn-windows-amd64.exe#/kn.exe",
+                "url": "https://v6.gh-proxy.org/https://github.com/knative/client/releases/download/knative-v$version/kn-windows-amd64.exe#/kn.exe",
                 "hash": {
-                    "url": "https://gh-proxy.org/https://github.com/knative/client/releases/download/knative-v$version/checksums.txt"
+                    "url": "https://v6.gh-proxy.org/https://github.com/knative/client/releases/download/knative-v$version/checksums.txt"
                 }
             }
         }

@@ -3,7 +3,7 @@
     "description": "Get up and running with large language models locally.",
     "homepage": "https://ollama.com/",
     "license": "MIT",
-    "url": "https://gh-proxy.org/https://github.com/ollama/ollama/releases/download/v0.24.0/OllamaSetup.exe",
+    "url": "https://v6.gh-proxy.org/https://github.com/ollama/ollama/releases/download/v0.24.0/OllamaSetup.exe",
     "hash": "c445439b0101f0cc6a3419a4a198353472dbef22028843e4fc10203ef7352c75",
     "architecture": {
         "64bit": {
@@ -33,7 +33,7 @@
         "github": "https://github.com/ollama/ollama"
     },
     "autoupdate": {
-        "url": "https://gh-proxy.org/https://github.com/ollama/ollama/releases/download/v$version/OllamaSetup.exe",
+        "url": "https://v6.gh-proxy.org/https://github.com/ollama/ollama/releases/download/v$version/OllamaSetup.exe",
         "hash": {
             "url": "$baseurl/sha256sum.txt"
         }

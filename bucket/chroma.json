@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v2.25.0/chroma-2.25.0-windows-amd64.tar.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v2.25.0/chroma-2.25.0-windows-amd64.tar.gz",
             "hash": "23c8761ed0859f13755e74ed10dea9b9cc08be2836b0f6c44d4819952006c500"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v2.25.0/chroma-2.25.0-windows-386.tar.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v2.25.0/chroma-2.25.0-windows-386.tar.gz",
             "hash": "0c7a569e8dfcf2df1e21f4d7e20d8b52e9f87ce92b0fa51c6159e771a2fd149a"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-amd64.tar.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-386.tar.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/alecthomas/chroma/releases/download/v$version/chroma-$version-windows-386.tar.gz"
             }
         },
         "hash": {

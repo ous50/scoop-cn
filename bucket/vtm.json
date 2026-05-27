@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/directvt/vtm/releases/download/v2026.05.24/vtm_windows_x86_64.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/directvt/vtm/releases/download/v2026.05.24/vtm_windows_x86_64.7z",
             "hash": "4491e68439bc8ab9533ecdf0f6783309240d7d5e8d1869414fdfdf1220ffbd5f"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/directvt/vtm/releases/download/v2026.05.24/vtm_windows_x86.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/directvt/vtm/releases/download/v2026.05.24/vtm_windows_x86.7z",
             "hash": "2f0db13078ff228d70898351decb83b028cfb9f2c36c76b3056f0596555b1e88"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/directvt/vtm/releases/download/v2026.05.24/vtm_windows_arm64.7z",
+            "url": "https://v6.gh-proxy.org/https://github.com/directvt/vtm/releases/download/v2026.05.24/vtm_windows_arm64.7z",
             "hash": "6d6466c38ae6294eb91d9f12fe197d979d9c771c0c7676fc6522098808c58a87"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86_64.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86_64.7z"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_x86.7z"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_arm64.7z"
+                "url": "https://v6.gh-proxy.org/https://github.com/directvt/vtm/releases/download/v$version/vtm_windows_arm64.7z"
             }
         }
     }

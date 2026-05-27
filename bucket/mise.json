@@ -13,11 +13,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/jdx/mise/releases/download/v2026.5.15/mise-v2026.5.15-windows-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/jdx/mise/releases/download/v2026.5.15/mise-v2026.5.15-windows-x64.zip",
             "hash": "4956ca7aaaa837f186de830bf1f7f216984bf0b5234169d41b44cdf6ebe67ea5"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/jdx/mise/releases/download/v2026.5.15/mise-v2026.5.15-windows-arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/jdx/mise/releases/download/v2026.5.15/mise-v2026.5.15-windows-arm64.zip",
             "hash": "adfa3f398d3fca041272444b9e95086c330081db2520b6ebdde0f0d6d341beb5"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
             }
         },
         "hash": {

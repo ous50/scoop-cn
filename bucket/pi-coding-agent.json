@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/earendil-works/pi/releases/download/v0.75.5/pi-windows-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/earendil-works/pi/releases/download/v0.75.5/pi-windows-x64.zip",
             "hash": "775bec6cf05ed13cfb866cf13280c7878d018ccf9db11b44902c80589166cbb5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/earendil-works/pi/releases/download/v$version/pi-windows-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/earendil-works/pi/releases/download/v$version/pi-windows-x64.zip"
             }
         }
     }

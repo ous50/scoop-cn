@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v0.26.8/vacuum_0.26.8_windows_x86_64.tar.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v0.26.8/vacuum_0.26.8_windows_x86_64.tar.gz",
             "hash": "1762aac1041e1a69cb9a302664d661885637a69f5a0a03b338979ecb41ccd8ae"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v0.26.8/vacuum_0.26.8_windows_i386.tar.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v0.26.8/vacuum_0.26.8_windows_i386.tar.gz",
             "hash": "e1c3745ae1b49f73cbe9821123d4fed2e3baffe8c82a3c65d3fb37bd8fc5a7e6"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v0.26.8/vacuum_0.26.8_windows_arm64.tar.gz",
+            "url": "https://v6.gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v0.26.8/vacuum_0.26.8_windows_arm64.tar.gz",
             "hash": "8f2b55d085fa7b16efda615257af1bdcc87ff601b1141d16c4184a6f69bdccc8"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v$version/vacuum_$version_windows_x86_64.tar.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v$version/vacuum_$version_windows_x86_64.tar.gz"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v$version/vacuum_$version_windows_i386.tar.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v$version/vacuum_$version_windows_i386.tar.gz"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v$version/vacuum_$version_windows_arm64.tar.gz"
+                "url": "https://v6.gh-proxy.org/https://github.com/daveshanley/vacuum/releases/download/v$version/vacuum_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

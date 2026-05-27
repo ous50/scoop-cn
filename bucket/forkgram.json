@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v6.8.3/Telegram.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v6.8.3/Telegram.zip",
             "hash": "7ebcca70a145b7b369d1319aadab7c7659df2467ebcaffba8abd389f4a75fc24"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v6.8.3/Telegram_x86.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v6.8.3/Telegram_x86.zip",
             "hash": "a1a5fdf099d2e198b20848da728a57923a90529117dce02416a8c961adc150ac"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v$version/Telegram.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v$version/Telegram.zip"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v$version/Telegram_x86.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/forkgram/tdesktop/releases/download/v$version/Telegram_x86.zip"
             }
         }
     }

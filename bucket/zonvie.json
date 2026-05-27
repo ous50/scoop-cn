@@ -11,11 +11,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v0.3.21/zonvie-v0.3.21-windows-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v0.3.21/zonvie-v0.3.21-windows-x64.zip",
             "hash": "caea8be43da78818d9400cbfdba5877aec83865a75433783811e086da09efb77"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v0.3.21/zonvie-v0.3.21-windows-arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v0.3.21/zonvie-v0.3.21-windows-arm64.zip",
             "hash": "8b2e11ac5fe494482c73777d428ffdfc90e1d993389ddb7435e4a9f009a0cd4e"
         }
     },
@@ -30,10 +30,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v$version/zonvie-v$version-windows-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v$version/zonvie-v$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v$version/zonvie-v$version-windows-arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/akiyosi/zonvie/releases/download/v$version/zonvie-v$version-windows-arm64.zip"
             }
         }
     }

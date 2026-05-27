@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/aws/aws-sam-cli/releases/download/v1.161.0/AWS_SAM_CLI_64_PY3.msi#/dl.msi_",
+            "url": "https://v6.gh-proxy.org/https://github.com/aws/aws-sam-cli/releases/download/v1.161.0/AWS_SAM_CLI_64_PY3.msi#/dl.msi_",
             "hash": "32018ca659b39707c34dbbfe032dc67af96e65f7d2b66f2c5edbf56fd92c7ef0"
         }
     },
@@ -33,7 +33,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/aws/aws-sam-cli/releases/download/v$version/AWS_SAM_CLI_64_PY3.msi#/dl.msi_"
+                "url": "https://v6.gh-proxy.org/https://github.com/aws/aws-sam-cli/releases/download/v$version/AWS_SAM_CLI_64_PY3.msi#/dl.msi_"
             }
         },
         "hash": {

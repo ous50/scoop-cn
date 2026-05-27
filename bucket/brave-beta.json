@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.91.163/brave-v1.91.163-win32-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v1.91.163/brave-v1.91.163-win32-x64.zip",
             "hash": "53ceba42df756e742b25864f05d1da8beec3baa7da13fdfda8732846c3c8e131"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
             }
         }
     }

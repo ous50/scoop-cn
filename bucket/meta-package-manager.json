@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v6.5.0/mpm-6.5.0-windows-x64.exe#/mpm.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v6.5.0/mpm-6.5.0-windows-x64.exe#/mpm.exe",
             "hash": "238b7ef665ae80f010f4a3fb671bfd570d819b11d04d85373b2897014d2d3174"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v6.5.0/mpm-6.5.0-windows-arm64.exe#/mpm.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v6.5.0/mpm-6.5.0-windows-arm64.exe#/mpm.exe",
             "hash": "fa0039451e619a42437f6c015a9f8d148db78130a34ef2a15a228352385064e0"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/mpm-$version-windows-x64.exe#/mpm.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/mpm-$version-windows-x64.exe#/mpm.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/mpm-$version-windows-arm64.exe#/mpm.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/kdeldycke/meta-package-manager/releases/download/v$version/mpm-$version-windows-arm64.exe#/mpm.exe"
             }
         }
     }

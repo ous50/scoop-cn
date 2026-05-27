@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.1/npp.8.9.6.1.Installer.x64.exe#/installer.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.1/npp.8.9.6.1.Installer.x64.exe#/installer.exe",
             "hash": "d8414ee7a38dd3a88c1d7479d115f7e2dc142970f995cb6d34e9c6f104b245c7"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.1/npp.8.9.6.1.Installer.exe#/installer.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.1/npp.8.9.6.1.Installer.exe#/installer.exe",
             "hash": "20fe070b64e745bc1bf9e3faa2912ea23a3dcc64551556883f4a8ef38948defd"
         }
     },
@@ -43,14 +43,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.Installer.x64.exe#/installer.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.Installer.x64.exe#/installer.exe"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.Installer.exe#/installer.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.Installer.exe#/installer.exe"
             }
         },
         "hash": {
-            "url": "https://gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.checksums.sha256"
+            "url": "https://v6.gh-proxy.org/https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v$version/npp.$version.checksums.sha256"
         }
     }
 }

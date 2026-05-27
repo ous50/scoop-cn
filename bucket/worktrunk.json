@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/max-sixty/worktrunk/releases/download/v0.54.0/worktrunk-x86_64-pc-windows-msvc.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/max-sixty/worktrunk/releases/download/v0.54.0/worktrunk-x86_64-pc-windows-msvc.zip",
             "hash": "d71bf401232abbdc81b2635231a7df71249de08bdb10de7f2a50c7ff748b22bf"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/max-sixty/worktrunk/releases/download/v$version/worktrunk-x86_64-pc-windows-msvc.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/max-sixty/worktrunk/releases/download/v$version/worktrunk-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

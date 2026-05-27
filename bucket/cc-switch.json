@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/farion1231/cc-switch/releases/download/v3.15.0/CC-Switch-v3.15.0-Windows-Portable.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/farion1231/cc-switch/releases/download/v3.15.0/CC-Switch-v3.15.0-Windows-Portable.zip",
             "hash": "0aeb1cab0f5f62416327ef351c48a41e084d2e8c36a67a5b964667fa75893385"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/farion1231/cc-switch/releases/download/v$version/CC-Switch-v$version-Windows-Portable.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/farion1231/cc-switch/releases/download/v$version/CC-Switch-v$version-Windows-Portable.zip"
             }
         }
     }

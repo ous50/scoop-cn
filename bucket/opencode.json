@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v1.15.11/opencode-windows-x64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v1.15.11/opencode-windows-x64.zip",
             "hash": "8a598592f364de19bafea536defd0d51bc0044a4fbd0751658ebe318cd018d70"
         },
         "arm64": {
-            "url": "https://gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v1.15.11/opencode-windows-arm64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v1.15.11/opencode-windows-arm64.zip",
             "hash": "ba72370c30beb1c7a282cf50357f1e6db3f15d51973f5502e13c18abd3182a73"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-windows-x64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-windows-arm64.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/anomalyco/opencode/releases/download/v$version/opencode-windows-arm64.zip"
             }
         }
     }

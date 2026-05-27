@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/mos1128/ccg-gateway/releases/download/v1.8.2/ccg-gateway.exe",
+            "url": "https://v6.gh-proxy.org/https://github.com/mos1128/ccg-gateway/releases/download/v1.8.2/ccg-gateway.exe",
             "hash": "9bf0f5862cf84a0c07737e30ffe10e9e67db811a973c5fe90bce855ae60810ca"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/mos1128/ccg-gateway/releases/download/v$version/ccg-gateway.exe"
+                "url": "https://v6.gh-proxy.org/https://github.com/mos1128/ccg-gateway/releases/download/v$version/ccg-gateway.exe"
             }
         }
     }

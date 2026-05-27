@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/sourcemeta/jsonschema/releases/download/v15.6.3/jsonschema-15.6.3-windows-x86_64.zip",
+            "url": "https://v6.gh-proxy.org/https://github.com/sourcemeta/jsonschema/releases/download/v15.6.3/jsonschema-15.6.3-windows-x86_64.zip",
             "hash": "f9322c678ad15374763ac9539ad9b6fc8839ef520293e5bc6aa923bcb543fbd3",
             "extract_dir": "jsonschema-15.6.3-windows-x86_64"
         }
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/sourcemeta/jsonschema/releases/download/v$version/jsonschema-$version-windows-x86_64.zip",
+                "url": "https://v6.gh-proxy.org/https://github.com/sourcemeta/jsonschema/releases/download/v$version/jsonschema-$version-windows-x86_64.zip",
                 "extract_dir": "jsonschema-$version-windows-x86_64"
             }
         },
