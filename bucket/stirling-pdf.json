@@ -4,6 +4,11 @@
     "homepage": "https://stirlingpdf.com",
     "license": "MIT",
     "suggest": {
+        "JDK": [
+            "scoop-cn/openjdk21",
+            "scoop-cn/oraclejdk-lts",
+            "scoop-cn/temurin21-jre"
+        ],
         "Python": "python",
         "QPDF": "qpdf",
         "LibreOffice": "scoop-cn/libreoffice",
