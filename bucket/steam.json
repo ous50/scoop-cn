@@ -22,7 +22,10 @@
     "persist": [
         "skins",
         "steamapps",
-        "userdata"
+        "userdata",
+        "millennium\\config",
+        "millennium\\plugins",
+        "millennium\\themes"
     ]
 }
 
