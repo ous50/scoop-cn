@@ -29,25 +29,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.zip",
-                "hash": {
-                    "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.sha256",
-                    "mode": "extract"
-                }
+                "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.zip"
             },
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.zip",
-                "hash": {
-                    "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.sha256",
-                    "mode": "extract"
-                }
+                "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_x86.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_ARM64.zip",
-                "hash": {
-                    "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_ARM64.sha256",
-                    "mode": "extract"
-                }
+                "url": "https://v6.gh-proxy.org/https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/releases/download/$version/AutoDarkMode_$version_ARM64.zip"
             }
         }
     }

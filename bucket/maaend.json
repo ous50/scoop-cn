@@ -3,7 +3,8 @@
     "description": "High-precision automation assistant. Designed for heavy-duty operations and maximum efficiency in Arknights: Endfield.",
     "homepage": "https://github.com/MaaEnd/MaaEnd",
     "license": "AGPL-3.0",
-        "pre_install": ["if (Test-Path \"$(appdir maaend-beta)\") {",
+    "pre_install": [
+        "if (Test-Path \"$(appdir maaend-beta)\") {",
         "    error 'MaaEnd-Beta has been installed. You are trying to install/update MaaEnd.';",
         "    throw 'Abort'",
         "} else { if ($cmd -eq 'update') {",

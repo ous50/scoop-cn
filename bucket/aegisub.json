@@ -1,5 +1,5 @@
 {
-    "version": "nightly-20220806",
+    "version": "exp-20260613",
     "description": "Cross-platform advanced subtitle editor, @AmusementClub internal fork.",
     "homepage": "https://github.com/AmusementClub/Aegisub",
     "license": "MIT, BDSL, MPL1.1",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/nightly-20220806/aegisub-win64-cmake-GHA.zip",
-            "hash": "f5b7991b3d36f821a9bd042d2ad32991dd6989e6bdb5e180073dfc4dd67ecc98"
+            "url": "https://v6.gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/exp-20260613/Aegisub-win-x64.7z",
+            "hash": "f4b5cbc20c308be4141a026243fd75368de9578f1cd5d4763d514ef4149d6b79"
         }
     },
     "extract_to": "",
@@ -21,13 +21,14 @@
         ]
     ],
     "checkver": {
-        "url": "https://github.com/AmusementClub/Aegisub/tags",
-        "regex": "/releases/tag/((nightly)?(?:v|V)?([0-9]+.[0-9]+.[0-9]+)?-?([0-9A-Za-z]+)?)"
+        "url": "https://api.github.com/repos/AmusementClub/Aegisub/releases",
+        "jsonpath": "$[?(@.prerelease == false)].tag_name",
+        "regex": "(?!v)([\\w.-]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/$version/aegisub-win64-cmake-GHA.zip"
+                "url": "https://v6.gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/$version/Aegisub-win-x64.7z"
             }
         }
     }

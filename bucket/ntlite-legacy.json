@@ -6,8 +6,12 @@
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.ntlite.com/files/NTLite_setup_x64.exe#/setup.exe",
-            "hash": "5c3c23534c593aeb573ec44c00b63e14700707f006b232886f258a3ca785c447"
+            "url": "https://downloads.ntlite.com/files/NTLite_setup_x64_legacy.exe#/setup.exe",
+            "hash": "4bcba94cd6f17201a764f975e1cb6556542c304cbf3592836797cfd4efb76049"
+        },
+        "32bit": {
+            "url": "https://downloads.ntlite.com/files/NTLite_setup_x86_legacy.exe#/setup.exe",
+            "hash": "d967b82b512b5c72c2b1cdeed4f1fcab53a905b41b615478edc8d1293be8cefc"
         }
     },
     "installer": {
@@ -31,10 +35,17 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://downloads.ntlite.com/files/NTLite_setup_x64.exe#/setup.exe",
+                "url": "https://downloads.ntlite.com/files/NTLite_setup_x64_legacy.exe#/setup.exe",
                 "hash": {
                     "url": "https://www.ntlite.com/download/",
-                    "regex": "(?!Windows 10+ 64-bit[\\w.]+)([\\w]{64})"
+                    "regex": "(?<=Windows 7\\+ 64-bit.+<code.+all\">)([\\w]{64})"
+                }
+            },
+            "32bit": {
+                "url": "https://downloads.ntlite.com/files/NTLite_setup_x86_legacy.exe#/setup.exe",
+                "hash": {
+                    "url": "https://www.ntlite.com/download/",
+                    "regex": "(?<=Windows 7\\+ 32-bit.+<code.+all\">)([\\w]{64})"
                 }
             }
         }
