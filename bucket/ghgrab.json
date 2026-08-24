@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/abhixdd/ghgrab/releases/download/v2.0.2/ghgrab-win32.exe#/ghgrab.exe",
+            "url": "https://gh-proxy.org/https://github.com/abhixdd/ghgrab/releases/download/v2.0.2/ghgrab-win32.exe#/ghgrab.exe",
             "hash": "9ebac69fa86b2fdd918ceac095fcc0a6fad5df720c3a07f00d1a38924ab7f0d6"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/abhixdd/ghgrab/releases/download/v$version/ghgrab-win32.exe#/ghgrab.exe"
+                "url": "https://gh-proxy.org/https://github.com/abhixdd/ghgrab/releases/download/v$version/ghgrab-win32.exe#/ghgrab.exe"
             }
         },
         "hash": {

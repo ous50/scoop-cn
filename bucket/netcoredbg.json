@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Samsung/netcoredbg/releases/download/3.2.0-1092/netcoredbg-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Samsung/netcoredbg/releases/download/3.2.0-1092/netcoredbg-win64.zip",
             "hash": "3c410a45fa502415203a94fcb88654af65bf8e3dac158a5527a722e7a6b9274a"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Samsung/netcoredbg/releases/download/$version/netcoredbg-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Samsung/netcoredbg/releases/download/$version/netcoredbg-win64.zip"
             }
         }
     }

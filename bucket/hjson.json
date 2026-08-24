@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v4.7.0/hjson_v4.7.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v4.7.0/hjson_v4.7.0_windows_amd64.zip",
             "hash": "a4363cef8bad521a72277909ef313f446be1e5887655b83aa3e99de1390539e1"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v4.7.0/hjson_v4.7.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v4.7.0/hjson_v4.7.0_windows_386.zip",
             "hash": "c12c8ced15d05bbc43c892f911f8fd00a98a8480f53e9e9ec031593611b6c843"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v4.7.0/hjson_v4.7.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v4.7.0/hjson_v4.7.0_windows_arm64.zip",
             "hash": "5fa84b2e0ffb2632caeff7eb839143ae681ad17a24cb17c31f7e8050da8d201c"
         }
     },
@@ -30,13 +30,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v$version/hjson_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v$version/hjson_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v$version/hjson_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v$version/hjson_v$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v$version/hjson_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/hjson/hjson-go/releases/download/v$version/hjson_v$version_windows_arm64.zip"
             }
         }
     }

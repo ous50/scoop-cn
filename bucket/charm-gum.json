@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v2.0.0/gum_2.0.0_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v2.0.0/gum_2.0.0_Windows_i386.zip",
             "hash": "aecebce796bb382a7af83c0187e581e8e2827951ee272733403182d9576e5b00",
             "extract_dir": "gum_2.0.0_Windows_i386"
         },
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v2.0.0/gum_2.0.0_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v2.0.0/gum_2.0.0_Windows_x86_64.zip",
             "hash": "eb78a29bf9bb365016c85a285ba8387611e8fe10e50c8e8358537bfa2eabf4f8",
             "extract_dir": "gum_2.0.0_Windows_x86_64"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v$version/gum_$version_Windows_i386.zip",
+                "url": "https://gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v$version/gum_$version_Windows_i386.zip",
                 "extract_dir": "gum_$version_Windows_i386"
             },
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v$version/gum_$version_Windows_x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/charmbracelet/gum/releases/download/v$version/gum_$version_Windows_x86_64.zip",
                 "extract_dir": "gum_$version_Windows_x86_64"
             }
         },

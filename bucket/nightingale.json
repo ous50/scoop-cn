@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rzru/nightingale/releases/download/v1.1.0/Nightingale_1.1.0_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/rzru/nightingale/releases/download/v1.1.0/Nightingale_1.1.0_x64_en-US.msi",
             "hash": "157a6f3a5b3f7e479763959b390a924ccb406ce094485cfc4b5a5b758aa59f57"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rzru/nightingale/releases/download/v$version/Nightingale_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/rzru/nightingale/releases/download/v$version/Nightingale_$version_x64_en-US.msi"
             }
         }
     }

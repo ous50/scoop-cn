@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v2.1.6/goshs_v2.1.6_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v2.1.6/goshs_v2.1.6_windows_x86_64.zip",
             "hash": "dac0f294f17d0da08b5bc2a07946a900c7b018f2fabd2fb86e1ccf257df1cc16"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v2.1.6/goshs_v2.1.6_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v2.1.6/goshs_v2.1.6_windows_386.zip",
             "hash": "a434274f0fb627a3777f63a01b6d1816cb6e57d9caf78a4b727b925f156734a1"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v2.1.6/goshs_v2.1.6_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v2.1.6/goshs_v2.1.6_windows_arm64.zip",
             "hash": "a9929c1e9229aaecda2b923c0fbc268bec487fac9fa9b6cc0d20df946c3950e6"
         }
     },
@@ -32,13 +32,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v$version/goshs_v$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v$version/goshs_v$version_windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v$version/goshs_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v$version/goshs_v$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v$version/goshs_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goshs-labs/goshs/releases/download/v$version/goshs_v$version_windows_arm64.zip"
             }
         },
         "hash": {

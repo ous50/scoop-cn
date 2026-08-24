@@ -5,12 +5,12 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v16.1.0-1/avr-gcc-16.1.0-x64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v16.1.0-1/avr-gcc-16.1.0-x64-windows.zip",
             "hash": "de4aad501ee42b63d5d262e45470924cd2654f6bc437f0299875efa6b8d8d0fe",
             "extract_dir": "avr-gcc-16.1.0-x64-windows"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v16.1.0-1/avr-gcc-16.1.0-x86-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v16.1.0-1/avr-gcc-16.1.0-x86-windows.zip",
             "hash": "e95f628be177665bcf0011e4931db2dff02154bddf4105602d84cb537e579011",
             "extract_dir": "avr-gcc-16.1.0-x86-windows"
         }
@@ -55,11 +55,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v$version/avr-gcc-$matchHead-x64-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v$version/avr-gcc-$matchHead-x64-windows.zip",
                 "extract_dir": "avr-gcc-$matchHead-x64-windows"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v$version/avr-gcc-$matchHead-x86-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/ZakKemble/avr-gcc-build/releases/download/v$version/avr-gcc-$matchHead-x86-windows.zip",
                 "extract_dir": "avr-gcc-$matchHead-x86-windows"
             }
         },

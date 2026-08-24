@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v3.2.16/deskreen-ce-3.2.16-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v3.2.16/deskreen-ce-3.2.16-x64.exe#/dl.7z",
             "hash": "de6052a0d5dc893e0d16da6a8da82aacae5803602a3efdde50037b536e3213f8"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v3.2.16/deskreen-ce-3.2.16-ia32.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v3.2.16/deskreen-ce-3.2.16-ia32.exe#/dl.7z",
             "hash": "8919835c14b84795e84df295e88f578d6f410776b9768c40368a4f025c38df80"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v3.2.16/deskreen-ce-3.2.16-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v3.2.16/deskreen-ce-3.2.16-arm64.exe#/dl.7z",
             "hash": "98da0287583c25d6283c5f885479e86712bbda7e15b5f5980a8b395e4990e37b"
         }
     },
@@ -38,13 +38,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v$version/deskreen-ce-$version-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v$version/deskreen-ce-$version-x64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v$version/deskreen-ce-$version-ia32.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v$version/deskreen-ce-$version-ia32.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v$version/deskreen-ce-$version-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/pavlobu/deskreen/releases/download/v$version/deskreen-ce-$version-arm64.exe#/dl.7z"
             }
         }
     }

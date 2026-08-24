@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-5.1.0/z3-5.1.0-x64-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-5.1.0/z3-5.1.0-x64-win.zip",
             "hash": "6ff368eaa2f9dc18acf244e736a074df877026bfc83abede6f327ebb95680535",
             "extract_dir": "z3-5.1.0-x64-win"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-5.1.0/z3-5.1.0-x86-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-5.1.0/z3-5.1.0-x86-win.zip",
             "hash": "0e8ce9cdcfa5650fef7b72234656e12d23d28c34035c6a61e6f55432b99fbe07",
             "extract_dir": "z3-5.1.0-x64-win"
         }
@@ -23,11 +23,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-$version/z3-$version-x64-win.zip",
+                "url": "https://gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-$version/z3-$version-x64-win.zip",
                 "extract_dir": "z3-$version-x64-win"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-$version/z3-$version-x86-win.zip",
+                "url": "https://gh-proxy.org/https://github.com/Z3Prover/z3/releases/download/z3-$version/z3-$version-x86-win.zip",
                 "extract_dir": "z3-$version-x64-win"
             }
         }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/LinwoodCloud/Butterfly/releases/download/v2.5.5/linwood-butterfly-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LinwoodCloud/Butterfly/releases/download/v2.5.5/linwood-butterfly-windows-x86_64.zip",
             "hash": "679dd8d4eb987b3ec1bfc62535a3695d4ccfe32b2761e378732740e75cd785c3"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/LinwoodCloud/Butterfly/releases/download/v$version/linwood-butterfly-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LinwoodCloud/Butterfly/releases/download/v$version/linwood-butterfly-windows-x86_64.zip"
             }
         }
     }

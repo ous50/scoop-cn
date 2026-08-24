@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/exp-20260613/Aegisub-win-x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/exp-20260613/Aegisub-win-x64.7z",
             "hash": "f4b5cbc20c308be4141a026243fd75368de9578f1cd5d4763d514ef4149d6b79"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/$version/Aegisub-win-x64.7z"
+                "url": "https://gh-proxy.org/https://github.com/AmusementClub/Aegisub/releases/download/$version/Aegisub-win-x64.7z"
             }
         }
     }

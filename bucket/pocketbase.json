@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v0.40.0/pocketbase_0.40.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v0.40.0/pocketbase_0.40.0_windows_amd64.zip",
             "hash": "c3716ffd56a48d0d7c5cd164777fc375adb0949be943a70477db9b20f3b46f3a"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v0.40.0/pocketbase_0.40.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v0.40.0/pocketbase_0.40.0_windows_arm64.zip",
             "hash": "758004b6a876bdd361b0690727f95312b0c587b1175a45f67c825b9e0392cc49"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_arm64.zip"
             }
         },
         "hash": {

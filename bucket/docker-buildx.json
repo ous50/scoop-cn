@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/docker/buildx/releases/download/v0.36.1/buildx-v0.36.1.windows-amd64.exe#/docker-buildx.exe",
+            "url": "https://gh-proxy.org/https://github.com/docker/buildx/releases/download/v0.36.1/buildx-v0.36.1.windows-amd64.exe#/docker-buildx.exe",
             "hash": "cd7d06a00d924b5800d2654b507afe100378a4685fcec6585eeadc599a527330"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/docker/buildx/releases/download/v0.36.1/buildx-v0.36.1.windows-arm64.exe#/docker-buildx.exe",
+            "url": "https://gh-proxy.org/https://github.com/docker/buildx/releases/download/v0.36.1/buildx-v0.36.1.windows-arm64.exe#/docker-buildx.exe",
             "hash": "79522ff962bf3b127c8e9ca56944b1a3fcbe46e1d0b4144d481f356d8c13fa74"
         }
     },
@@ -37,14 +37,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-amd64.exe#/docker-buildx.exe"
+                "url": "https://gh-proxy.org/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-amd64.exe#/docker-buildx.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-arm64.exe#/docker-buildx.exe"
+                "url": "https://gh-proxy.org/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-arm64.exe#/docker-buildx.exe"
             }
         },
         "hash": {
-            "url": "https://v6.gh-proxy.org/https://github.com/docker/buildx/releases/download/v$version/checksums.txt"
+            "url": "https://gh-proxy.org/https://github.com/docker/buildx/releases/download/v$version/checksums.txt"
         }
     }
 }

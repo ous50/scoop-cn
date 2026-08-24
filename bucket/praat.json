@@ -5,15 +5,15 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-x64v3.zip",
+            "url": "https://gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-x64v3.zip",
             "hash": "29e97b88db08b0664b56bc3c1ffae02c17774f8e29f5a2f345c8324031c520de"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-intel32.zip",
+            "url": "https://gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-intel32.zip",
             "hash": "6ae4a78f87a73515261344b363622d3a6b90cd223d9e6d0dd6e16b6ac619246c"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v7.0.01/praat7001_win-arm64.zip",
             "hash": "cb647cda73f721c863a3e0509d4190603ca099107db6b998eedb1c5eea6bedc3"
         }
     },
@@ -30,13 +30,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v$version/praat$cleanVersion_win-x64v3.zip"
+                "url": "https://gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v$version/praat$cleanVersion_win-x64v3.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v$version/praat$cleanVersion_win-intel32.zip"
+                "url": "https://gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v$version/praat$cleanVersion_win-intel32.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v$version/praat$cleanVersion_win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/praat/praat.github.io/releases/download/v$version/praat$cleanVersion_win-arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/dyc3/steamguard-cli/releases/download/v0.18.4/steamguard-windows-x86_64.exe#/steamguard.exe",
+            "url": "https://gh-proxy.org/https://github.com/dyc3/steamguard-cli/releases/download/v0.18.4/steamguard-windows-x86_64.exe#/steamguard.exe",
             "hash": "081d5899af64db8821c2857f27735eee6989e3a1497b644d8ed783e6bcf399b4"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/dyc3/steamguard-cli/releases/download/v$version/steamguard-windows-x86_64.exe#/steamguard.exe"
+                "url": "https://gh-proxy.org/https://github.com/dyc3/steamguard-cli/releases/download/v$version/steamguard-windows-x86_64.exe#/steamguard.exe"
             }
         }
     }

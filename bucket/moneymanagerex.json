@@ -5,12 +5,12 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.3/mmex-1.9.3-win64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.3/mmex-1.9.3-win64-portable.zip",
             "hash": "6a78ac925b81289549bfd8b5cc9de7f7a6d9c971154f10522197c34242e1b0ac",
             "extract_dir": "mmex-1.9.3-win64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.3/mmex-1.9.3-win32-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.9.3/mmex-1.9.3-win32-portable.zip",
             "hash": "9b8a7f81f81e50a133216b4b40c56cf468b3ace75975d46926b9cc2a9fcd5cd6",
             "extract_dir": "mmex-1.9.3-win32"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v$version/mmex-$version-win64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v$version/mmex-$version-win64-portable.zip",
                 "extract_dir": "mmex-$version-win64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v$version/mmex-$version-win32-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/moneymanagerex/moneymanagerex/releases/download/v$version/mmex-$version-win32-portable.zip",
                 "extract_dir": "mmex-$version-win32"
             }
         }

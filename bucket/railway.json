@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v5.43.1/railway-v5.43.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v5.43.1/railway-v5.43.1-x86_64-pc-windows-msvc.zip",
             "hash": "26715e2ca0f060d9d9b456127c010fd92df7e1144e4d32348165616534e3360b"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v5.43.1/railway-v5.43.1-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v5.43.1/railway-v5.43.1-i686-pc-windows-msvc.zip",
             "hash": "d85c535c41857c1ea70ecfc4315baaa0424560d9759fbd9a092a029012a9c18b"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v5.43.1/railway-v5.43.1-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v5.43.1/railway-v5.43.1-aarch64-pc-windows-msvc.zip",
             "hash": "39d97ba921f4c1c37a1d43d2d49002095ccc4bd2e3beed92806407af1b8c8878"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v$version/railway-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v$version/railway-v$version-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v$version/railway-v$version-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v$version/railway-v$version-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v$version/railway-v$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/railwayapp/cli/releases/download/v$version/railway-v$version-aarch64-pc-windows-msvc.zip"
             }
         }
     }

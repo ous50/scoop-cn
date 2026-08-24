@@ -5,7 +5,7 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/massCodeIO/massCode/releases/download/v5.10.0/massCode-5.10.0-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/massCodeIO/massCode/releases/download/v5.10.0/massCode-5.10.0-x64.exe#/dl.7z",
             "hash": "7a7552436651cc0e6625bafe8bc698eb09c926b0c92ca3cefc434a8266582fba"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/massCodeIO/massCode/releases/download/v$version/massCode-$version-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/massCodeIO/massCode/releases/download/v$version/massCode-$version-x64.exe#/dl.7z"
             }
         }
     }

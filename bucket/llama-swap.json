@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mostlygeek/llama-swap/releases/download/v251/llama-swap_251_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mostlygeek/llama-swap/releases/download/v251/llama-swap_251_windows_amd64.zip",
             "hash": "f91ebc3bbf3e6b2d96a5c0e8c6967755a336734b3b8b7447b1a36cde670aee5f"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mostlygeek/llama-swap/releases/download/v$version/llama-swap_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/mostlygeek/llama-swap/releases/download/v$version/llama-swap_$version_windows_amd64.zip"
             }
         },
         "hash": {

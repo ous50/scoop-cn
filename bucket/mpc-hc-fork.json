@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.zip",
             "hash": "b57afd92d7db4f09a2a878c945509fba3ad21847a03851224152a0342286eadc",
             "bin": [
                 [
@@ -21,7 +21,7 @@
             ]
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x86.zip",
             "hash": "5f90a4f089a4379e5f103e35fffadbb01fff4597759acc49e9a657870c8be910",
             "bin": "mpc-hc.exe",
             "shortcuts": [
@@ -51,10 +51,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/$matchTag/MPC-HC.$version.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/$matchTag/MPC-HC.$version.x64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/$matchTag/MPC-HC.$version.x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/clsid2/mpc-hc/releases/download/$matchTag/MPC-HC.$version.x86.zip"
             }
         }
     }

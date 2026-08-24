@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/maharmstone/ntfs2btrfs/releases/download/20260810/ntfs2btrfs-20260810.zip",
+            "url": "https://gh-proxy.org/https://github.com/maharmstone/ntfs2btrfs/releases/download/20260810/ntfs2btrfs-20260810.zip",
             "hash": "97663e3d4c84104d1b844b97b386149aa7b00ac6f500f4998fac09480ea5dfd2"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/maharmstone/ntfs2btrfs/releases/download/$version/ntfs2btrfs-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/maharmstone/ntfs2btrfs/releases/download/$version/ntfs2btrfs-$version.zip"
             }
         }
     }

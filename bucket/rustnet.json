@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-x86_64-pc-windows-msvc.zip",
             "hash": "8a980df50472f00c69550dcfe53d46bfbbde81cc98d86680efe542c845578719",
             "extract_dir": "rustnet-v1.6.0-x86_64-pc-windows-msvc"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v1.6.0/rustnet-v1.6.0-i686-pc-windows-msvc.zip",
             "hash": "33401875cdea971eb7a165d35e809577bb5dafa467afa5fc030f4eb30dafb758",
             "extract_dir": "rustnet-v1.6.0-i686-pc-windows-msvc"
         }
@@ -24,11 +24,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v$version/rustnet-v$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v$version/rustnet-v$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "rustnet-v$version-x86_64-pc-windows-msvc"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v$version/rustnet-v$version-i686-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/domcyrus/rustnet/releases/download/v$version/rustnet-v$version-i686-pc-windows-msvc.zip",
                 "extract_dir": "rustnet-v$version-i686-pc-windows-msvc"
             }
         }

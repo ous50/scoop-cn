@@ -10,7 +10,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/michel-kraemer/zsh-patina/releases/download/1.10.0/zsh-patina-v1.10.0-x86_64-pc-cygwin.zip",
+            "url": "https://gh-proxy.org/https://github.com/michel-kraemer/zsh-patina/releases/download/1.10.0/zsh-patina-v1.10.0-x86_64-pc-cygwin.zip",
             "hash": "81dec3ae0b6526a289103f846ce539980a67cfc6e192ba4b0ebd1b467ac653ad",
             "extract_dir": "zsh-patina-v1.10.0-x86_64-pc-cygwin"
         }
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/michel-kraemer/zsh-patina/releases/download/$version/zsh-patina-v$version-x86_64-pc-cygwin.zip",
+                "url": "https://gh-proxy.org/https://github.com/michel-kraemer/zsh-patina/releases/download/$version/zsh-patina-v$version-x86_64-pc-cygwin.zip",
                 "extract_dir": "zsh-patina-v$version-x86_64-pc-cygwin"
             }
         }

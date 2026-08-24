@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/opencv/opencv/releases/download/5.0.0/opencv-5.0.0-windows.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/opencv/opencv/releases/download/5.0.0/opencv-5.0.0-windows.exe#/dl.7z",
             "hash": "9c6c1fcea58acdf06edba13148b2246e00c2658143fa51e61ecd370db8c39f63",
             "env_add_path": "x64\\vc16\\bin",
             "env_set": {
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/opencv/opencv/releases/download/$version/opencv-$version-windows.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/opencv/opencv/releases/download/$version/opencv-$version-windows.exe#/dl.7z"
             }
         }
     }

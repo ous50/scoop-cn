@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/arch1t3cht/Aegisub/releases/download/migration04-01/Windows.MSVC.Release.-.portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/arch1t3cht/Aegisub/releases/download/migration04-01/Windows.MSVC.Release.-.portable.zip",
             "hash": "a7e5fc4268abf2e805d7b07dcc76285638e7f130fa8a4d4c38046211bb742934"
         }
     },
@@ -63,7 +63,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/arch1t3cht/Aegisub/releases/download/migration$version/Windows.MSVC.Release.-.portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/arch1t3cht/Aegisub/releases/download/migration$version/Windows.MSVC.Release.-.portable.zip"
             }
         }
     }

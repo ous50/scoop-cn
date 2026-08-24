@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v0.71.0/stackit-cli_0.71.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v0.71.0/stackit-cli_0.71.0_windows_amd64.zip",
             "hash": "043bbac6a3f17bebcf16e012e653dad60ba969a787bb793bf4155186754a06e0"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v0.71.0/stackit-cli_0.71.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v0.71.0/stackit-cli_0.71.0_windows_386.zip",
             "hash": "3724135178e8699d6c7568a1bfd7bb89b8defa86a8dc437bc9be674fc7c9974c"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v0.71.0/stackit-cli_0.71.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v0.71.0/stackit-cli_0.71.0_windows_arm64.zip",
             "hash": "c055adcd9938ff6a9dc79f2d3b22bb542aebe0c501769a084fde49316ef48670"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v$version/stackit-cli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v$version/stackit-cli_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v$version/stackit-cli_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v$version/stackit-cli_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v$version/stackit-cli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stackitcloud/stackit-cli/releases/download/v$version/stackit-cli_$version_windows_arm64.zip"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v26.8.1/shotcut-win64-26.8.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v26.8.1/shotcut-win64-26.8.1.zip",
             "hash": "b0148856de01b39add4bf4d6a813bfbc554b4663b65e3ca25cb2589f47555a6a"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v26.8.1/shotcut-win_ARM-26.8.1.zip",
+            "url": "https://gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v26.8.1/shotcut-win_ARM-26.8.1.zip",
             "hash": "a7dc52b8e451791000f7c89c12c7e12fb3ba1863de483affad7c6a98a8245ba3"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v$version/shotcut-win64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v$version/shotcut-win64-$version.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v$version/shotcut-win_ARM-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/mltframework/shotcut/releases/download/v$version/shotcut-win_ARM-$version.zip"
             }
         },
         "hash": {

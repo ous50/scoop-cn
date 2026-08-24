@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/10.2.0/YACReader-v10.2.0.260808325-winx64-7z-qt6.exe",
+            "url": "https://gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/10.2.0/YACReader-v10.2.0.260808325-winx64-7z-qt6.exe",
             "hash": "d8a248280a72245e9a6cdb53b1d2847ebf0cdc8e59b445ccf6eb63ac157a08cb"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/10.2.0/YACReader-v10.2.0.260808325-winarm64-7z-qt6.exe",
+            "url": "https://gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/10.2.0/YACReader-v10.2.0.260808325-winarm64-7z-qt6.exe",
             "hash": "3c2be97baa91eb0eb93bd3feaaaf5166fef7d24b84dce045af60e31d86cc7969"
         }
     },
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/$matchHead/YACReader-v$version-winx64-7z-qt6.exe"
+                "url": "https://gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/$matchHead/YACReader-v$version-winx64-7z-qt6.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/$matchHead/YACReader-v$version-winarm64-7z-qt6.exe"
+                "url": "https://gh-proxy.org/https://github.com/YACReader/yacreader/releases/download/$matchHead/YACReader-v$version-winarm64-7z-qt6.exe"
             }
         }
     }

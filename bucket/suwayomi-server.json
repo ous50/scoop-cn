@@ -9,8 +9,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://v6.gh-proxy.org/https://github.com/Suwayomi/Suwayomi-Server/releases/download/v2.3.2243/Suwayomi-Server-v2.3.2243-windows-x64.zip",
-                "https://v6.gh-proxy.org/https://github.com/ScoopInstaller/Extras/raw/master/scripts/suwayomi-server/suwayomi.ps1"
+                "https://gh-proxy.org/https://github.com/Suwayomi/Suwayomi-Server/releases/download/v2.3.2243/Suwayomi-Server-v2.3.2243-windows-x64.zip",
+                "https://gh-proxy.org/https://github.com/ScoopInstaller/Extras/raw/master/scripts/suwayomi-server/suwayomi.ps1"
             ],
             "hash": [
                 "895843f48d5735e01bdc43d79ab66e600d6f507076a9b792ffa418a9bbcc32c2",
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Suwayomi/Suwayomi-Server/releases/download/v$version/Suwayomi-Server-v$version-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/Suwayomi/Suwayomi-Server/releases/download/v$version/Suwayomi-Server-v$version-windows-x64.zip",
                 "extract_dir": "Suwayomi-Server-v$version-windows-x64"
             }
         },

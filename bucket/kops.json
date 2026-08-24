@@ -6,7 +6,7 @@
     "depends": "scoop-cn/kubectl",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-windows-amd64#/kops.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubernetes/kops/releases/download/v1.36.2/kops-windows-amd64#/kops.exe",
             "hash": "96dbdfbfeff3ae499cc37c1f0846b540633b406e9e7caa84f82c17aff4120078"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kubernetes/kops/releases/download/v$version/kops-windows-amd64#/kops.exe"
+                "url": "https://gh-proxy.org/https://github.com/kubernetes/kops/releases/download/v$version/kops-windows-amd64#/kops.exe"
             }
         },
         "hash": {

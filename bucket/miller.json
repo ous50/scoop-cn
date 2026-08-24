@@ -5,12 +5,12 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-amd64.zip",
             "hash": "e4730fafce659db22c619c0fde51eba050edc584a0804fd2c8b2883c8f8d8250",
             "extract_dir": "miller-6.21.0-windows-amd64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-386.zip",
             "hash": "042ab83e1b7dae4d5cd37517efd52f7e2d034a74211f3b07d87e5d4e97e3d957",
             "extract_dir": "miller-6.21.0-windows-386"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-amd64.zip",
                 "extract_dir": "miller-$version-windows-amd64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-386.zip",
+                "url": "https://gh-proxy.org/https://github.com/johnkerl/miller/releases/download/v$version/miller-$version-windows-386.zip",
                 "extract_dir": "miller-$version-windows-386"
             }
         },

@@ -1,5 +1,5 @@
 {
-    "version": "32571352950",
+    "version": "32720606676",
     "description": "Free and reliable P2P Bittorent client.",
     "homepage": "https://github.com/qbittorrent/qBittorrent",
     "license": {
@@ -15,8 +15,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://nightly.link/qbittorrent/qBittorrent/actions/runs/32571352950/qBittorrent-CI_Windows-x64_libtorrent-2.1.1.zip",
-            "hash": "5cec0c41a0a2c416feb8d7e3111e2f13a292ed562fe883af367576458c0fe228",
+            "url": "https://nightly.link/qbittorrent/qBittorrent/actions/runs/32720606676/qBittorrent-CI_Windows-x64_libtorrent-2.1.1.zip",
+            "hash": "2374c11b4ec2a9512599eef8afd79e9df986ba03431329834596c872b26484d6",
             "extract_dir": "qBittorrent"
         }
     },
@@ -68,7 +68,7 @@
         "github": "https://api.github.com/repos/qbittorrent/qBittorrent/actions/workflows/ci_windows.yaml/runs?branch=master&status=success",
         "script": [
             "$ci_workflows = $page | ConvertFrom-Json",
-            "$ci_file = Invoke-RestMethod https://v6.gh-proxy.org/https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/.github/workflows/ci_windows.yaml",
+            "$ci_file = Invoke-RestMethod https://gh-proxy.org/https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/.github/workflows/ci_windows.yaml",
             "$libtorrent_version = ( $ci_file | Select-String 'libtorrent:\\n.*version:\\s*\"([^\"]+)\"').matches.groups[1].value",
             "$output = @{'result' = \"$($ci_workflows.workflow_runs[0].id) $libtorrent_version\"} | ConvertTo-Json",
             "Write-Output $output"

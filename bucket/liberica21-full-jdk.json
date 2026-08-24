@@ -5,15 +5,15 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.12%2B10/bellsoft-jdk21.0.12%2B10-windows-amd64-full.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.12%2B10/bellsoft-jdk21.0.12%2B10-windows-amd64-full.zip",
             "hash": "sha1:14932c83b656aaac2af5331cc9e078880e073e80"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.12%2B10/bellsoft-jdk21.0.12%2B10-windows-i586-full.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.12%2B10/bellsoft-jdk21.0.12%2B10-windows-i586-full.zip",
             "hash": "sha1:b1c0f5be5d82e0e368def9748d54fb2801d98860"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.12%2B10/bellsoft-jdk21.0.12%2B10-windows-aarch64-full.zip",
+            "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/21.0.12%2B10/bellsoft-jdk21.0.12%2B10-windows-aarch64-full.zip",
             "hash": "sha1:b33b3edfa2fb3eb4df7dff109c65136348ff0c85"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-amd64-full.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-amd64-full.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-i586-full.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-i586-full.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-aarch64-full.zip"
+                "url": "https://gh-proxy.org/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jdk$matchMajor%2B$matchBuild-windows-aarch64-full.zip"
             }
         },
         "hash": {

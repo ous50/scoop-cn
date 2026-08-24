@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v0.6.7/gpk-windows-amd64.exe#/gpk.exe",
+            "url": "https://gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v0.6.7/gpk-windows-amd64.exe#/gpk.exe",
             "hash": "ce888d071eb741958d1f92a45da931d102a54b247e1e5d97436057dd68ff81c3"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v0.6.7/gpk-windows-arm64.exe#/gpk.exe",
+            "url": "https://gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v0.6.7/gpk-windows-arm64.exe#/gpk.exe",
             "hash": "56561d743947db14856b7db74110c1515784216a61521a757a76008b44595945"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v$version/gpk-windows-amd64.exe#/gpk.exe"
+                "url": "https://gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v$version/gpk-windows-amd64.exe#/gpk.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v$version/gpk-windows-arm64.exe#/gpk.exe"
+                "url": "https://gh-proxy.org/https://github.com/neur0map/glazepkg/releases/download/v$version/gpk-windows-arm64.exe#/gpk.exe"
             }
         }
     }

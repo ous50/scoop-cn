@@ -10,8 +10,8 @@
         ]
     },
     "url": [
-        "https://v6.gh-proxy.org/https://github.com/tonikelope/megabasterd/releases/download/v8.58/MegaBasterd_8.58.jar#/MegaBasterd.jar",
-        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tonikelope/megabasterd/v8.58/src/main/resources/images/pica_roja_big.ico#/MegaBasterd.ico"
+        "https://gh-proxy.org/https://github.com/tonikelope/megabasterd/releases/download/v8.58/MegaBasterd_8.58.jar#/MegaBasterd.jar",
+        "https://gh-proxy.org/https://raw.githubusercontent.com/tonikelope/megabasterd/v8.58/src/main/resources/images/pica_roja_big.ico#/MegaBasterd.ico"
     ],
     "hash": [
         "199b333f91dc55698110da04bd6574245a3f757d6191f87bccbf9f51b208c4a0",
@@ -29,8 +29,8 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://v6.gh-proxy.org/https://github.com/tonikelope/megabasterd/releases/download/v$version/MegaBasterd_$version.jar#/MegaBasterd.jar",
-            "https://v6.gh-proxy.org/https://raw.githubusercontent.com/tonikelope/megabasterd/v$version/src/main/resources/images/pica_roja_big.ico#/MegaBasterd.ico"
+            "https://gh-proxy.org/https://github.com/tonikelope/megabasterd/releases/download/v$version/MegaBasterd_$version.jar#/MegaBasterd.jar",
+            "https://gh-proxy.org/https://raw.githubusercontent.com/tonikelope/megabasterd/v$version/src/main/resources/images/pica_roja_big.ico#/MegaBasterd.ico"
         ]
     }
 }

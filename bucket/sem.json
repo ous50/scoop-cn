@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Ataraxy-Labs/sem/releases/download/v0.23.1/sem-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Ataraxy-Labs/sem/releases/download/v0.23.1/sem-windows-x86_64.zip",
             "hash": "deb77e79f16acb19d1e4b5fff01ce0274e724bc39f6ea3042ebe36ea4710ede5"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Ataraxy-Labs/sem/releases/download/v$version/sem-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Ataraxy-Labs/sem/releases/download/v$version/sem-windows-x86_64.zip"
             }
         },
         "hash": {

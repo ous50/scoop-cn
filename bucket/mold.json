@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rui314/mold/releases/download/v2.42.0/mold-2.42.0-x86_64-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/rui314/mold/releases/download/v2.42.0/mold-2.42.0-x86_64-windows.zip",
             "hash": "9808a898ac5965ce879a273dae6c5c6f193bb473c591e37b42849f5bb2880faf"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rui314/mold/releases/download/v$version/mold-$version-x86_64-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/rui314/mold/releases/download/v$version/mold-$version-x86_64-windows.zip"
             }
         }
     }

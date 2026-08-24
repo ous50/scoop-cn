@@ -5,12 +5,12 @@
     "license": "ZPL-2.1",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/16.2.0-rt_v14-rev1/x86_64-16.2.0-release-posix-seh-msvcrt-rt_v14-rev1.7z",
+            "url": "https://gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/16.2.0-rt_v14-rev1/x86_64-16.2.0-release-posix-seh-msvcrt-rt_v14-rev1.7z",
             "hash": "a3cfb25037981ea1cd2f4e5452fa45c700b20fffc311e5d78de90dedd142b73a",
             "extract_dir": "mingw64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/16.2.0-rt_v14-rev1/i686-16.2.0-release-posix-dwarf-msvcrt-rt_v14-rev1.7z",
+            "url": "https://gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/16.2.0-rt_v14-rev1/i686-16.2.0-release-posix-dwarf-msvcrt-rt_v14-rev1.7z",
             "hash": "9773342cba88efe50e6f3ddd021ac6f1d9ac1957301705fe64def22f501f0dd4",
             "extract_dir": "mingw32"
         }
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/$version/x86_64-$match1-release-posix-seh-msvcrt-$matchBuild.7z"
+                "url": "https://gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/$version/x86_64-$match1-release-posix-seh-msvcrt-$matchBuild.7z"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/$version/i686-$match1-release-posix-dwarf-msvcrt-$matchBuild.7z"
+                "url": "https://gh-proxy.org/https://github.com/niXman/mingw-builds-binaries/releases/download/$version/i686-$match1-release-posix-dwarf-msvcrt-$matchBuild.7z"
             }
         }
     }

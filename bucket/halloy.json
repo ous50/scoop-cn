@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/squidowl/halloy/releases/download/2026.8/halloy-installer.exe",
+            "url": "https://gh-proxy.org/https://github.com/squidowl/halloy/releases/download/2026.8/halloy-installer.exe",
             "hash": "6c50ee8a96da71decd0f5c1cb98660a7b77197c22bb6d617684afd740fdee596"
         }
     },
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.exe"
+                "url": "https://gh-proxy.org/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.exe"
             }
         }
     }

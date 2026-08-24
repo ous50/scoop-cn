@@ -6,7 +6,7 @@
     "suggest": {
         "Java": "scoop-cn/openjdk"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/mobile-dev-inc/Maestro/releases/download/cli-2.8.0/maestro.zip",
+    "url": "https://gh-proxy.org/https://github.com/mobile-dev-inc/Maestro/releases/download/cli-2.8.0/maestro.zip",
     "hash": "b3e561161904fb391875ca5834d5b22cf0b01c052dd1b408ad83e30d8f8951b3",
     "extract_dir": "maestro",
     "env_set": {
@@ -18,7 +18,7 @@
         "regex": "cli-([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/mobile-dev-inc/Maestro/releases/download/cli-$version/maestro.zip",
+        "url": "https://gh-proxy.org/https://github.com/mobile-dev-inc/Maestro/releases/download/cli-$version/maestro.zip",
         "hash": {
             "url": "$baseurl/checksums_sha256.txt"
         }

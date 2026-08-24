@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/razvandimescu/numa/releases/download/v0.23.0/numa-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/razvandimescu/numa/releases/download/v0.23.0/numa-windows-x86_64.zip",
             "hash": "8c9dd02caa6feb13cd0b8ffa1959054d5da8f622213d500dfbbdd84881a9cdc2"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/razvandimescu/numa/releases/download/v$version/numa-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/razvandimescu/numa/releases/download/v$version/numa-windows-x86_64.zip"
             }
         },
         "hash": {

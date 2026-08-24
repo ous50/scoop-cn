@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/yokecd/yoke/releases/download/v0.20.27/yoke_v0.20.27_windows_amd64.exe.gz#/yoke.exe.gz",
+            "url": "https://gh-proxy.org/https://github.com/yokecd/yoke/releases/download/v0.20.27/yoke_v0.20.27_windows_amd64.exe.gz#/yoke.exe.gz",
             "hash": "8f97513cc69a74c47e75c30a1fefe82bc5682fd74a23c017b72c1a1cfff4e11a"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/yokecd/yoke/releases/download/v$version/yoke_v$version_windows_amd64.exe.gz#/yoke.exe.gz"
+                "url": "https://gh-proxy.org/https://github.com/yokecd/yoke/releases/download/v$version/yoke_v$version_windows_amd64.exe.gz#/yoke.exe.gz"
             }
         }
     }

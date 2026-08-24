@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.21/HeidiSQL_12.21_64_Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.21/HeidiSQL_12.21_64_Portable.zip",
             "hash": "fecb76a69e29a53ea05b1d57fc2f7b7aaed5b8f889556c6eca545e2a800df1ab"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/HeidiSQL/HeidiSQL/releases/download/v$version/HeidiSQL_$version_64_Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/HeidiSQL/HeidiSQL/releases/download/v$version/HeidiSQL_$version_64_Portable.zip"
             }
         }
     }

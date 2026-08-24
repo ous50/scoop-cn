@@ -5,12 +5,12 @@
     "license": "Apache-2.0, MIT",
     "architecture": {
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v1.24.0/numbat-v1.24.0-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v1.24.0/numbat-v1.24.0-i686-pc-windows-msvc.zip",
             "hash": "4da4f091500d4c2d11b6e8174cdf2605257274944ed0b25ce98ed59f65a52ae5",
             "extract_dir": "numbat-v1.24.0-i686-pc-windows-msvc"
         },
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v1.24.0/numbat-v1.24.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v1.24.0/numbat-v1.24.0-x86_64-pc-windows-msvc.zip",
             "hash": "450027111a5df0dd3ee4ce97a557c4847fc76b05851fccb9e26e875433084049",
             "extract_dir": "numbat-v1.24.0-x86_64-pc-windows-msvc"
         }
@@ -23,11 +23,11 @@
         "architecture": {
             "32bit": {
                 "extract_dir": "numbat-v$version-i686-pc-windows-msvc",
-                "url": "https://v6.gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v$version/numbat-v$version-i686-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v$version/numbat-v$version-i686-pc-windows-msvc.zip"
             },
             "64bit": {
                 "extract_dir": "numbat-v$version-x86_64-pc-windows-msvc",
-                "url": "https://v6.gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v$version/numbat-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/sharkdp/numbat/releases/download/v$version/numbat-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

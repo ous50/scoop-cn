@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/EpicGamesExt/raddebugger/releases/download/v0.9.28-alpha/raddbg.zip",
+            "url": "https://gh-proxy.org/https://github.com/EpicGamesExt/raddebugger/releases/download/v0.9.28-alpha/raddbg.zip",
             "hash": "0e12478aeb7939699256315765462d7e58be3a56fe000e42a716d31f1672d5aa"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/EpicGamesExt/raddebugger/releases/download/v$version/raddbg.zip"
+                "url": "https://gh-proxy.org/https://github.com/EpicGamesExt/raddebugger/releases/download/v$version/raddbg.zip"
             }
         }
     }

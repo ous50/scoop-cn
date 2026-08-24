@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/JCWasmx86/mesonlsp/releases/download/v5.0.4/mesonlsp-x86_64-pc-windows-gnu.zip",
+            "url": "https://gh-proxy.org/https://github.com/JCWasmx86/mesonlsp/releases/download/v5.0.4/mesonlsp-x86_64-pc-windows-gnu.zip",
             "hash": "cbd46fa9efcff208e833b81fd651a6ac2424c472c858cf8640f5ac2f161eca23"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/JCWasmx86/mesonlsp/releases/download/v$version/mesonlsp-x86_64-pc-windows-gnu.zip"
+                "url": "https://gh-proxy.org/https://github.com/JCWasmx86/mesonlsp/releases/download/v$version/mesonlsp-x86_64-pc-windows-gnu.zip"
             }
         }
     }

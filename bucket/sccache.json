@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v0.17.0/sccache-v0.17.0-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v0.17.0/sccache-v0.17.0-x86_64-pc-windows-msvc.tar.gz",
             "hash": "caf1932d76a909c909b7a2e41443cdfe3c79a49a380da1a22fa422e1d00d3ca7",
             "extract_dir": "sccache-v0.17.0-x86_64-pc-windows-msvc"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v0.17.0/sccache-v0.17.0-aarch64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v0.17.0/sccache-v0.17.0-aarch64-pc-windows-msvc.tar.gz",
             "hash": "f1bec6836a764f5f0a01ae3b5d47d1778a6b80171f9f49722e246cdff27a9f3b",
             "extract_dir": "sccache-v0.17.0-aarch64-pc-windows-msvc"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v$version/sccache-v$version-x86_64-pc-windows-msvc.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v$version/sccache-v$version-x86_64-pc-windows-msvc.tar.gz",
                 "extract_dir": "sccache-v$version-x86_64-pc-windows-msvc"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v$version/sccache-v$version-aarch64-pc-windows-msvc.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/mozilla/sccache/releases/download/v$version/sccache-v$version-aarch64-pc-windows-msvc.tar.gz",
                 "extract_dir": "sccache-v$version-aarch64-pc-windows-msvc"
             }
         },

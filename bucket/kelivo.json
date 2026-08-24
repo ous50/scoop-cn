@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Chevey339/kelivo/releases/download/v1.2.3/Kelivo_windows_1.2.3%2B67.zip",
+            "url": "https://gh-proxy.org/https://github.com/Chevey339/kelivo/releases/download/v1.2.3/Kelivo_windows_1.2.3%2B67.zip",
             "hash": "9ef765b66d6428770b2bb7b162edd272377d0dcee029347e91d97e91417658c6"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Chevey339/kelivo/releases/download/v$version/Kelivo_windows_$version%2B$matchBuild.zip"
+                "url": "https://gh-proxy.org/https://github.com/Chevey339/kelivo/releases/download/v$version/Kelivo_windows_$version%2B$matchBuild.zip"
             }
         }
     }

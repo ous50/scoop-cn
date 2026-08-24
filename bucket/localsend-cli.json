@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe#/localsend-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-x86-64.exe#/localsend-cli.exe",
             "hash": "ca0b267e7457324b3664a935de4e4956da701a7fa1045f6f99c72602f7f8dc38"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe#/localsend-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-CLI-1.18.2-windows-arm-64.exe#/localsend-cli.exe",
             "hash": "0ff4c4c90ea68f0cc586b5a08c900f89bf71c02a454c78cd035bc3c4fc879bf7"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/localsend/localsend/releases/download/v$version/LocalSend-CLI-$version-windows-x86-64.exe#/localsend-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/localsend/localsend/releases/download/v$version/LocalSend-CLI-$version-windows-x86-64.exe#/localsend-cli.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/localsend/localsend/releases/download/v$version/LocalSend-CLI-$version-windows-arm-64.exe#/localsend-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/localsend/localsend/releases/download/v$version/LocalSend-CLI-$version-windows-arm-64.exe#/localsend-cli.exe"
             }
         }
     }

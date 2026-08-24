@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/apache/grails-core/releases/download/v7.2.2/apache-grails-7.2.2-bin.zip",
+    "url": "https://gh-proxy.org/https://github.com/apache/grails-core/releases/download/v7.2.2/apache-grails-7.2.2-bin.zip",
     "hash": "sha512:a5a233ccc1c51c907783a83c066137ef829800ff42ea9993edf5e08ce1dd74c37500bed0223b9b17a5229ee1af4fddbaeec09b7951fd72377873ed3bdb300d13",
     "extract_dir": "apache-grails-7.2.2-bin",
     "bin": "bin\\grails.bat",
@@ -19,7 +19,7 @@
         "regex": "apache-grails-([\\d.]+)-bin\\.zip"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/apache/grails-core/releases/download/v$version/apache-grails-$version-bin.zip",
+        "url": "https://gh-proxy.org/https://github.com/apache/grails-core/releases/download/v$version/apache-grails-$version-bin.zip",
         "hash": {
             "url": "$url.sha512"
         },

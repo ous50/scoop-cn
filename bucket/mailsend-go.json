@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v1.0.12/mailsend-go-v1.0.12-windows-amd64.d.zip",
+            "url": "https://gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v1.0.12/mailsend-go-v1.0.12-windows-amd64.d.zip",
             "hash": "a318f08def1a82b664e53e5afa00ea94ac268aa1be9deaef9b532215ab9551e9"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v1.0.12/mailsend-go-v1.0.12-windows-386.d.zip",
+            "url": "https://gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v1.0.12/mailsend-go-v1.0.12-windows-386.d.zip",
             "hash": "4a8ff79be2eb026944cead3f716b6b43217dec5d4f70b43339acb63feac002f9"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v$version/mailsend-go-v$version-windows-amd64.d.zip"
+                "url": "https://gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v$version/mailsend-go-v$version-windows-amd64.d.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v$version/mailsend-go-v$version-windows-386.d.zip"
+                "url": "https://gh-proxy.org/https://github.com/muquit/mailsend-go/releases/download/v$version/mailsend-go-v$version-windows-386.d.zip"
             }
         },
         "hash": {

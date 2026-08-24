@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/LibreSprite/LibreSprite/releases/download/v1.1/libresprite-development-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LibreSprite/LibreSprite/releases/download/v1.1/libresprite-development-windows-x86_64.zip",
             "hash": "b6b078a8342a20277b16cae4aa6b880ffced7db1f1b8bd5d0387193a7c3fe43d"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/LibreSprite/LibreSprite/releases/download/v$version/libresprite-development-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LibreSprite/LibreSprite/releases/download/v$version/libresprite-development-windows-x86_64.zip"
             }
         }
     }

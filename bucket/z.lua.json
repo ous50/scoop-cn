@@ -8,7 +8,7 @@
     },
     "notes": "Configure accordingly to 'https://github.com/skywind3000/z.lua#install'",
     "depends": "scoop-cn/lua",
-    "url": "https://v6.gh-proxy.org/https://github.com/skywind3000/z.lua/archive/refs/tags/1.8.26.zip",
+    "url": "https://gh-proxy.org/https://github.com/skywind3000/z.lua/archive/refs/tags/1.8.26.zip",
     "hash": "c8f9a88657d88ec1c91c7a827ab3463935e3baca308029b72cd2f8d64792169a",
     "extract_dir": "z.lua-1.8.26",
     "checkver": {
@@ -16,7 +16,7 @@
         "regex": "(?i)(?<tag>v?([\\d.]+))"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/skywind3000/z.lua/archive/refs/tags/$matchTag.zip",
+        "url": "https://gh-proxy.org/https://github.com/skywind3000/z.lua/archive/refs/tags/$matchTag.zip",
         "extract_dir": "z.lua-$version"
     }
 }

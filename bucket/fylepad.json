@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/imrofayel/fylepad/releases/download/app-v4.0.0/fylepad-zen_4.0.0_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/imrofayel/fylepad/releases/download/app-v4.0.0/fylepad-zen_4.0.0_x64_en-US.msi",
             "hash": "0df380c75db693fd528ceca5a60afea1112e677d9fe43f7d59a23ae2ee800a20"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/imrofayel/fylepad/releases/download/app-v$version/fylepad-zen_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/imrofayel/fylepad/releases/download/app-v$version/fylepad-zen_$version_x64_en-US.msi"
             }
         }
     }

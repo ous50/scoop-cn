@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-windows-x86_64.zip",
             "hash": "741acd147cfba542980f5f5377eab9ad31eb446c5bda195608dd276ad242be51"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/commercialhaskell/stack/releases/download/v$version/stack-$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/commercialhaskell/stack/releases/download/v$version/stack-$version-windows-x86_64.zip"
             }
         },
         "hash": {

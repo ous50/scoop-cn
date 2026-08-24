@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wasmCloud/wasmCloud/releases/download/v2.7.0/wash-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/wasmCloud/wasmCloud/releases/download/v2.7.0/wash-x86_64-pc-windows-msvc.zip",
             "hash": "f76a3d0ac0c1d280f49564bde94104f24f4f5b61d7ac1f5da0504d9733d8994c"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wasmCloud/wasmCloud/releases/download/v$version/wash-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/wasmCloud/wasmCloud/releases/download/v$version/wash-x86_64-pc-windows-msvc.zip"
             }
         }
     }

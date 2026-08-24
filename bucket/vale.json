@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/vale-cli/vale/releases/download/v3.18.0/vale_3.18.0_Windows_64-bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/vale-cli/vale/releases/download/v3.18.0/vale_3.18.0_Windows_64-bit.zip",
             "hash": "621cee4b7f8c8687fbcbdcbfc2e904aaa174b9d07bcb9018bd96b943b89c539d"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/vale-cli/vale/releases/download/v$version/vale_$version_Windows_64-bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/vale-cli/vale/releases/download/v$version/vale_$version_Windows_64-bit.zip"
             }
         },
         "hash": {

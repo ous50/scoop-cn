@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/dapr/cli/releases/download/v1.18.2/dapr_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dapr/cli/releases/download/v1.18.2/dapr_windows_amd64.zip",
             "hash": "6c1590186ff6b61f1c0ee46bd04e78e569fd2cc8628968f9bcda6cdedc275d64"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/dapr/cli/releases/download/v$version/dapr_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/dapr/cli/releases/download/v$version/dapr_windows_amd64.zip"
             }
         },
         "hash": {

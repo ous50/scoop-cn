@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-x64.exe#/dl.7z",
             "hash": "sha512:53ce68381cd4c90020fa7cb0cbeeb282be0035c7e1525d7fe1af53ce6e0ab58216381a455c9034384e1e708bf9e992e31b073e99b4a8b1af7f8408ec6e8fb460"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-ia32.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-ia32.exe#/dl.7z",
             "hash": "sha512:aa2bb9014a1c484134bd4896141de9b99bed4263a0c157e4bc3d7349cf6a36a3b2224a1f600f16f87f7ec9737b66446f0b66ac0e8208b26deb0171c6a29a7c6f"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v7.2.2/Ferdium-win-AutoSetup-7.2.2-arm64.exe#/dl.7z",
             "hash": "sha512:6baab127070ac27ed6fac1cc4b9a4ab1f63e71f5b6392139674fd290e901f12625dfebefa93c2567243a1adc5bc7de345138095e248c9d61b0e4be106259c1a3"
         }
     },
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version-x64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version-ia32.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version-ia32.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ferdium/ferdium-app/releases/download/v$version/Ferdium-win-AutoSetup-$version-arm64.exe#/dl.7z"
             }
         },
         "hash": {

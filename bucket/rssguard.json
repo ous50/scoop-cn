@@ -15,7 +15,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/martinrotter/rssguard/releases/download/5.2.5/rssguard-5.2.5-web-qt6-win10.7z",
+            "url": "https://gh-proxy.org/https://github.com/martinrotter/rssguard/releases/download/5.2.5/rssguard-5.2.5-web-qt6-win10.7z",
             "hash": "d66e715282c8ba69c498d1c4ca8e6990271c531d3ee6fabef401b3238983d6e9"
         }
     },
@@ -35,7 +35,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/martinrotter/rssguard/releases/download/$version/rssguard-$version-web-$matchQt-win10.7z"
+                "url": "https://gh-proxy.org/https://github.com/martinrotter/rssguard/releases/download/$version/rssguard-$version-web-$matchQt-win10.7z"
             }
         }
     }

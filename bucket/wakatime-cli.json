@@ -5,15 +5,15 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v2.24.4/wakatime-cli-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v2.24.4/wakatime-cli-windows-amd64.zip",
             "hash": "509d2b51dc8bc7c6379a44a13be71baadd635c4d6f57b69096b340b05474cbde"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v2.24.4/wakatime-cli-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v2.24.4/wakatime-cli-windows-386.zip",
             "hash": "728f85dedc3616e738449a4cd02bc117396ff968ad4ed771a52d5a6b6fa9941b"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v2.24.4/wakatime-cli-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v2.24.4/wakatime-cli-windows-arm64.zip",
             "hash": "0ac4ce27be1c7f194f33aee7320e1be9563981d4f307f65fb858960468c72517"
         }
     },
@@ -25,13 +25,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v$version/wakatime-cli-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v$version/wakatime-cli-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v$version/wakatime-cli-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v$version/wakatime-cli-windows-386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v$version/wakatime-cli-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/wakatime/wakatime-cli/releases/download/v$version/wakatime-cli-windows-arm64.zip"
             }
         },
         "hash": {

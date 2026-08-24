@@ -7,7 +7,7 @@
         "spicetify": "spicetify-cli",
         "spotify": "scoop-cn/spotify"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/spicetify/spicetify-themes/archive/master.zip",
+    "url": "https://gh-proxy.org/https://github.com/spicetify/spicetify-themes/archive/master.zip",
     "hash": "cd18c7a9686f236cc8de29ce6c709439b5e7d01e390836e467fe3201238b41da",
     "extract_dir": "spicetify-themes-master",
     "installer": {
@@ -31,7 +31,7 @@
         "replace": "$1$2.$3.$4"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/spicetify/spicetify-themes/archive/master.zip"
+        "url": "https://gh-proxy.org/https://github.com/spicetify/spicetify-themes/archive/master.zip"
     }
 }
 

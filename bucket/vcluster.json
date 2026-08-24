@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-windows-amd64.exe#/vcluster.exe",
+            "url": "https://gh-proxy.org/https://github.com/loft-sh/vcluster/releases/download/v0.36.1/vcluster-windows-amd64.exe#/vcluster.exe",
             "hash": "9d79c89657d72dcf77dcbd84dcd33379056a0bb4ece8e016773097b50bf4ebe2"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/loft-sh/vcluster/releases/download/v$version/vcluster-windows-amd64.exe#/vcluster.exe"
+                "url": "https://gh-proxy.org/https://github.com/loft-sh/vcluster/releases/download/v$version/vcluster-windows-amd64.exe#/vcluster.exe"
             }
         },
         "hash": {

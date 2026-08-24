@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/lay295/TwitchDownloader/releases/download/1.56.5/TwitchDownloaderCLI-1.56.5-Windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lay295/TwitchDownloader/releases/download/1.56.5/TwitchDownloaderCLI-1.56.5-Windows-x64.zip",
             "hash": "8b1b0695f2b1b6bf0d2535fab4b84032951cded8cf4078dfdf4d58e391c813a0"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/lay295/TwitchDownloader/releases/download/$version/TwitchDownloaderCLI-$version-Windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lay295/TwitchDownloader/releases/download/$version/TwitchDownloaderCLI-$version-Windows-x64.zip"
             }
         }
     }

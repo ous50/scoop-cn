@@ -10,8 +10,8 @@
         ]
     },
     "url": [
-        "https://v6.gh-proxy.org/https://github.com/ebourg/jsign/releases/download/7.5/jsign-7.5.jar#/jsign.jar",
-        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ebourg/jsign/7.5/jsign/src/choco/tools/jsign.cmd"
+        "https://gh-proxy.org/https://github.com/ebourg/jsign/releases/download/7.5/jsign-7.5.jar#/jsign.jar",
+        "https://gh-proxy.org/https://raw.githubusercontent.com/ebourg/jsign/7.5/jsign/src/choco/tools/jsign.cmd"
     ],
     "hash": [
         "602a51c3545a6dc4fb99bd2ea7152b26d1345916d0c93ddfbd5936cb735af91c",
@@ -23,8 +23,8 @@
     },
     "autoupdate": {
         "url": [
-            "https://v6.gh-proxy.org/https://github.com/ebourg/jsign/releases/download/$version/jsign-$version.jar#/jsign.jar",
-            "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ebourg/jsign/$version/jsign/src/choco/tools/jsign.cmd"
+            "https://gh-proxy.org/https://github.com/ebourg/jsign/releases/download/$version/jsign-$version.jar#/jsign.jar",
+            "https://gh-proxy.org/https://raw.githubusercontent.com/ebourg/jsign/$version/jsign/src/choco/tools/jsign.cmd"
         ]
     }
 }

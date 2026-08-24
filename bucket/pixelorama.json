@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v1.2.1/Pixelorama-Windows-64bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v1.2.1/Pixelorama-Windows-64bit.zip",
             "hash": "4848ab114e6c52fede708aff69850ae2b162e01a9aca0d5617542ae80aa20209",
             "extract_dir": "Pixelorama-Windows-64bit"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v1.2.1/Pixelorama-Windows-32bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v1.2.1/Pixelorama-Windows-32bit.zip",
             "hash": "d6665c1ee27ebf5f0b728059a5ec40774c62cd12c9e425ef34a2e7126e8b387d",
             "extract_dir": "Pixelorama-Windows-32bit"
         }
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v$version/Pixelorama-Windows-64bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v$version/Pixelorama-Windows-64bit.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v$version/Pixelorama-Windows-32bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/Orama-Interactive/Pixelorama/releases/download/v$version/Pixelorama-Windows-32bit.zip"
             }
         }
     }

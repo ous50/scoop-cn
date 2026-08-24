@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-1.52.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-1.52.0.zip",
             "hash": "fd30a8cff62121544df5d2d4b893a1a075a3bf8b8f24f7930d582c42b8d91ffb"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-1.52.0.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-1.52.0.zip",
             "hash": "0f951e5bca6f86e641f7f8938bb60669f2cda605b2296e627da5edd21988ae3d"
         }
     },

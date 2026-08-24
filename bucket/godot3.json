@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/godotengine/godot/releases/download/3.6.3-stable/Godot_v3.6.3-stable_win64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/3.6.3-stable/Godot_v3.6.3-stable_win64.exe.zip",
             "hash": "sha512:7fb78669da1ed2e4b113c09463f83246e24997b8e1394f7ed56a218b85a7dd2ce248486b7b4a22cf32435864ca7f68566222dabfa60df054ef1a6e7efea63ce7"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/godotengine/godot/releases/download/3.6.3-stable/Godot_v3.6.3-stable_win32.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/3.6.3-stable/Godot_v3.6.3-stable_win32.exe.zip",
             "hash": "sha512:96936277691cc4566f334f6ded756d433a1ce72efd6f5a0a56ec3abfd7341e9908c8ee092f110e7d58daa88cf7635166292da9d0310eb0fa114707b85c23187a"
         }
     },
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win64.exe.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win32.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/godotengine/godot/releases/download/$version-stable/Godot_v$version-stable_win32.exe.zip"
             }
         },
         "hash": {

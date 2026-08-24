@@ -3,7 +3,7 @@
     "description": "Switch your default playback devices and/or recording devices using simple hotkeys",
     "homepage": "https://soundswitch.aaflalo.me/",
     "license": "GPL-2.0-or-later",
-    "url": "https://v6.gh-proxy.org/https://github.com/Belphemur/SoundSwitch/releases/download/v7.2.0/SoundSwitch_v7.2.0.0_Release_Installer.exe",
+    "url": "https://gh-proxy.org/https://github.com/Belphemur/SoundSwitch/releases/download/v7.2.0/SoundSwitch_v7.2.0.0_Release_Installer.exe",
     "hash": "ac5ccdf5bd5c1dc25043812ca37399997fec9a2f2730c9e6fac788be1da3fbdb",
     "architecture": {
         "64bit": {
@@ -32,7 +32,7 @@
         "regex": "v([\\d.]+)/SoundSwitch_v([\\d.]+)_Release_Installer\\.exe"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/Belphemur/SoundSwitch/releases/download/v$version/SoundSwitch_v$match2_Release_Installer.exe"
+        "url": "https://gh-proxy.org/https://github.com/Belphemur/SoundSwitch/releases/download/v$version/SoundSwitch_v$match2_Release_Installer.exe"
     }
 }
 

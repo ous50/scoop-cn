@@ -5,11 +5,11 @@
     "license": "LGPL-2.1-or-later,BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
             "hash": "db407a4f6d4999e5c7bc00ce8a882be94717b56e7fa68140fe3f12605d91643e"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602.msi",
+            "url": "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602.msi",
             "hash": "55171bb369d0375ae0e6e8f6cccfffb112c8b13e5c991c4d1f6b21ad968c1af0"
         }
     },

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-windows-x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/sachaos/viddy/releases/download/v1.3.1/viddy-v1.3.1-windows-x86_64.tar.gz",
             "hash": "b77c34a18d10fb3c9338ef292a59de00f3d695aa423fd3b6ff617ef6840e2a70"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/sachaos/viddy/releases/download/v$version/viddy-v$version-windows-x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/sachaos/viddy/releases/download/v$version/viddy-v$version-windows-x86_64.tar.gz"
             }
         },
         "hash": {

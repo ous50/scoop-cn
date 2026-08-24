@@ -6,11 +6,11 @@
     "depends": "scoop-cn/gpg",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.amd64.exe#/sops.exe",
+            "url": "https://gh-proxy.org/https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.amd64.exe#/sops.exe",
             "hash": "a4a9a398858fe8b2ef72d9686d930bf7c5cece9be74ad83ac3b53cfdd70e6b1c"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.arm64.exe#/sops.exe",
+            "url": "https://gh-proxy.org/https://github.com/getsops/sops/releases/download/v3.13.3/sops-v3.13.3.arm64.exe#/sops.exe",
             "hash": "7f936a0d08edbeba3eb8f50bad1fe71eba83a140a80dfd17051f3bdb4facb08a"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/getsops/sops/releases/download/v$version/sops-v$version.amd64.exe#/sops.exe"
+                "url": "https://gh-proxy.org/https://github.com/getsops/sops/releases/download/v$version/sops-v$version.amd64.exe#/sops.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/getsops/sops/releases/download/v$version/sops-v$version.arm64.exe#/sops.exe"
+                "url": "https://gh-proxy.org/https://github.com/getsops/sops/releases/download/v$version/sops-v$version.arm64.exe#/sops.exe"
             }
         }
     }

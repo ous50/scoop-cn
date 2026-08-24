@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wasmerio/wasmer/releases/download/v7.3.0/wasmer-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/wasmerio/wasmer/releases/download/v7.3.0/wasmer-windows-amd64.tar.gz",
             "hash": "b4a7b905cf22b27ddb9d6a7b806c0307236265a87171ec788a02ca9c81062dc9"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wasmerio/wasmer/releases/download/v$version/wasmer-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/wasmerio/wasmer/releases/download/v$version/wasmer-windows-amd64.tar.gz"
             }
         }
     }

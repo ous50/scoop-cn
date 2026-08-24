@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v4.0.12/kubescape_4.0.12_windows_amd64.exe#/kubescape.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v4.0.12/kubescape_4.0.12_windows_amd64.exe#/kubescape.exe",
             "hash": "736abb73b7b55230482b98527e72b7648d638b3e3c7773f3dc0c120b353276ab"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v4.0.12/kubescape_4.0.12_windows_arm64.exe#/kubescape.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v4.0.12/kubescape_4.0.12_windows_arm64.exe#/kubescape.exe",
             "hash": "994527b3c872726bace9d37b3e3b40e555222363bdb107083ee40fef8c13ac28"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v$version/kubescape_$version_windows_amd64.exe#/kubescape.exe"
+                "url": "https://gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v$version/kubescape_$version_windows_amd64.exe#/kubescape.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v$version/kubescape_$version_windows_arm64.exe#/kubescape.exe"
+                "url": "https://gh-proxy.org/https://github.com/kubescape/kubescape/releases/download/v$version/kubescape_$version_windows_arm64.exe#/kubescape.exe"
             }
         },
         "hash": {

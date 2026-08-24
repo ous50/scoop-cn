@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mentebinaria/dz6/releases/download/v0.7.1/dz6-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/mentebinaria/dz6/releases/download/v0.7.1/dz6-x86_64-pc-windows-msvc.zip",
             "hash": "d7e9ae24adcf056c2cc0431a5763427a504508c14e3acc0eddd3f54892bd253e"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mentebinaria/dz6/releases/download/v$version/dz6-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/mentebinaria/dz6/releases/download/v$version/dz6-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

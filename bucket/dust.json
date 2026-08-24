@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-x86_64-pc-windows-msvc.zip",
             "hash": "b2731d92066d5787a106c0c835b96c6a4ba186d81abc0ead0a906f75d5f09aee",
             "extract_dir": "dust-v1.2.5-x86_64-pc-windows-msvc"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/bootandy/dust/releases/download/v1.2.5/dust-v1.2.5-i686-pc-windows-msvc.zip",
             "hash": "8c3051b7d212fc5d1c77302f38fe745d1b23d8ed534d7a0bf1ac8a0e6dcb2c91",
             "extract_dir": "dust-v1.2.5-i686-pc-windows-msvc"
         }
@@ -20,11 +20,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bootandy/dust/releases/download/v$version/dust-v$version-x86_64-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/bootandy/dust/releases/download/v$version/dust-v$version-x86_64-pc-windows-msvc.zip",
                 "extract_dir": "dust-v$version-x86_64-pc-windows-msvc"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bootandy/dust/releases/download/v$version/dust-v$version-i686-pc-windows-msvc.zip",
+                "url": "https://gh-proxy.org/https://github.com/bootandy/dust/releases/download/v$version/dust-v$version-i686-pc-windows-msvc.zip",
                 "extract_dir": "dust-v$version-i686-pc-windows-msvc"
             }
         }

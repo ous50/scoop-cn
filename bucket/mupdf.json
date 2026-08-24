@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ArtifexSoftware/mupdf-downloads/releases/download/1.28.0/mupdf-1.28.0-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/ArtifexSoftware/mupdf-downloads/releases/download/1.28.0/mupdf-1.28.0-windows.zip",
             "hash": "a0ee869bf38ee66b19cd30c281d04e91215f812f0cb20177cd1f69c74c33eb22"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ArtifexSoftware/mupdf-downloads/releases/download/$version/mupdf-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/ArtifexSoftware/mupdf-downloads/releases/download/$version/mupdf-$version-windows.zip"
             }
         },
         "extract_dir": "mupdf-$version-windows"

@@ -3,7 +3,7 @@
     "description": "Smart context menu for all windows in the system.",
     "homepage": "https://github.com/AlexanderPro/SmartContextMenu",
     "license": "MIT",
-    "url": "https://v6.gh-proxy.org/https://github.com/AlexanderPro/SmartContextMenu/releases/download/v1.9.0/SmartContextMenu_v1.9.0.zip",
+    "url": "https://gh-proxy.org/https://github.com/AlexanderPro/SmartContextMenu/releases/download/v1.9.0/SmartContextMenu_v1.9.0.zip",
     "hash": "96ab5c3784094187007fa5c8202c07c3bb88cb26a5b4dbc3322fd5b43b9dae9f",
     "shortcuts": [
         [
@@ -14,7 +14,7 @@
     "bin": "SmartContextMenu.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/AlexanderPro/SmartContextMenu/releases/download/v$version/SmartContextMenu_v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/AlexanderPro/SmartContextMenu/releases/download/v$version/SmartContextMenu_v$version.zip"
     }
 }
 

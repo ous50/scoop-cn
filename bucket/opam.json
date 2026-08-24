@@ -5,7 +5,7 @@
     "license": "LGPL-2.1-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-windows.exe#/opam.exe",
+            "url": "https://gh-proxy.org/https://github.com/ocaml/opam/releases/download/2.5.2/opam-2.5.2-x86_64-windows.exe#/opam.exe",
             "hash": "51a530f538e86913489b061ac13c6084276e5dc916f5bd5c450883a826f8864c"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ocaml/opam/releases/download/$version/opam-$version-x86_64-windows.exe#/opam.exe"
+                "url": "https://gh-proxy.org/https://github.com/ocaml/opam/releases/download/$version/opam-$version-x86_64-windows.exe#/opam.exe"
             }
         }
     }

@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/0.24.0/gdscript-formatter-0.24.0-windows-x86_64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/0.24.0/gdscript-formatter-0.24.0-windows-x86_64.exe.zip",
             "hash": "3a905b49c96d0abc4c7946575f04c29d5df6cfae36190114c0904eb6eeedd5cf"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/0.24.0/gdscript-formatter-0.24.0-windows-aarch64.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/0.24.0/gdscript-formatter-0.24.0-windows-aarch64.exe.zip",
             "hash": "8998a1fb218902b75108476f8b159308af70c3ad39f8c35766788d5598d8b039"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/$version/gdscript-formatter-$version-windows-x86_64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/$version/gdscript-formatter-$version-windows-x86_64.exe.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/$version/gdscript-formatter-$version-windows-aarch64.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/GDQuest/GDScript-formatter/releases/download/$version/gdscript-formatter-$version-windows-aarch64.exe.zip"
             }
         }
     }

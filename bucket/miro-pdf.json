@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/vincent-uden/miro/releases/download/v0.11.1/miro-pdf.exe",
+            "url": "https://gh-proxy.org/https://github.com/vincent-uden/miro/releases/download/v0.11.1/miro-pdf.exe",
             "hash": "b5e112879741b3f7dd4d26383b5c5ec1408f23618c8911f9faccf85e97f4fefe"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/vincent-uden/miro/releases/download/v$version/miro-pdf.exe"
+                "url": "https://gh-proxy.org/https://github.com/vincent-uden/miro/releases/download/v$version/miro-pdf.exe"
             }
         }
     }

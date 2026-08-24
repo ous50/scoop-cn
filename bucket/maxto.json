@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v3.1.0/MaxTo-3.1.0-win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v3.1.0/MaxTo-3.1.0-win-x64.zip",
             "hash": "4a5ca8d11ed7a60f3c8cd095c18274211cd46e5c77e542ffd65bc75008c2916e"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v3.1.0/MaxTo-3.1.0-win-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v3.1.0/MaxTo-3.1.0-win-x86.zip",
             "hash": "2e83aea3e8c1432f60e046c816f47f6fc94b9623cda202bbd84b7bfeae850e69"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v3.1.0/MaxTo-3.1.0-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v3.1.0/MaxTo-3.1.0-win-arm64.zip",
             "hash": "8635bd7d16ed1a166d8b7b949103ba0ca2610015b74e10093cf0aac6276d1829"
         }
     },
@@ -33,13 +33,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v$version/MaxTo-$version-win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v$version/MaxTo-$version-win-x64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v$version/MaxTo-$version-win-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v$version/MaxTo-$version-win-x86.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v$version/MaxTo-$version-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/domino-as/maxto/releases/download/v$version/MaxTo-$version-win-arm64.zip"
             }
         },
         "hash": {

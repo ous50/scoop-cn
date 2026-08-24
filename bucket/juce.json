@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/juce-framework/JUCE/releases/download/9.0.1/juce-9.0.1-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/juce-framework/JUCE/releases/download/9.0.1/juce-9.0.1-windows.zip",
             "hash": "de0256584416764d82ef5794d26a34b06a68bc65326f24e0d91301abd74704c1"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/juce-framework/JUCE/releases/download/$version/juce-$version-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/juce-framework/JUCE/releases/download/$version/juce-$version-windows.zip"
             }
         }
     }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/cypherstack/stack_wallet/releases/download/build_310/stack_wallet-v2.6.0-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/cypherstack/stack_wallet/releases/download/build_310/stack_wallet-v2.6.0-windows.zip",
             "hash": "fb861816d4212bba54c53c7b6fef793437427cd15c3022fda79d3c5cbb9c68de"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/cypherstack/stack_wallet/releases/download/$matchTag/stack_wallet-v$version-windows.zip",
+                "url": "https://gh-proxy.org/https://github.com/cypherstack/stack_wallet/releases/download/$matchTag/stack_wallet-v$version-windows.zip",
                 "hash": {
                     "url": "https://github.com/cypherstack/stack_wallet/releases/tag/$matchTag",
                     "find": "$basename\\s+$sha256"

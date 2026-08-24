@@ -9,11 +9,11 @@
     "notes": "Requires an active GitHub Copilot subscription (Pro, Pro+, Business, or Enterprise) and Git installed.",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/github/app/releases/download/v1.1.12/GitHub-Copilot-windows-x64.msi",
+            "url": "https://gh-proxy.org/https://github.com/github/app/releases/download/v1.1.12/GitHub-Copilot-windows-x64.msi",
             "hash": "72918d0b853105c3713d02f6b740b633433b63da07ff3467fb502c9eaab438cc"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/github/app/releases/download/v1.1.12/GitHub-Copilot-windows-arm64.msi",
+            "url": "https://gh-proxy.org/https://github.com/github/app/releases/download/v1.1.12/GitHub-Copilot-windows-arm64.msi",
             "hash": "56e899573883cc377293041454952ac477fc0e9fa35d47f63738a46bf159785b"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/github/app/releases/download/v$version/GitHub-Copilot-windows-x64.msi"
+                "url": "https://gh-proxy.org/https://github.com/github/app/releases/download/v$version/GitHub-Copilot-windows-x64.msi"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/github/app/releases/download/v$version/GitHub-Copilot-windows-arm64.msi"
+                "url": "https://gh-proxy.org/https://github.com/github/app/releases/download/v$version/GitHub-Copilot-windows-arm64.msi"
             }
         }
     }

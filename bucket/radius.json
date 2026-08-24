@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/radius-project/radius/releases/download/v0.60.0/rad_windows_amd64.exe#/rad.exe",
+            "url": "https://gh-proxy.org/https://github.com/radius-project/radius/releases/download/v0.60.0/rad_windows_amd64.exe#/rad.exe",
             "hash": "8427af4ed14fa8f3db3ec6490c14f4784cb8aeeb264f7377fd3c7bcda02c6d2d"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/radius-project/radius/releases/download/v$version/rad_windows_amd64.exe#/rad.exe"
+                "url": "https://gh-proxy.org/https://github.com/radius-project/radius/releases/download/v$version/rad_windows_amd64.exe#/rad.exe"
             }
         },
         "hash": {

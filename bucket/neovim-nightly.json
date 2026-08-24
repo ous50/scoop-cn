@@ -11,12 +11,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
             "hash": "d8719592ea2c971a5e14aa96e9c6b621f516cb88e7ba944427a4096f90963d46",
             "extract_dir": "nvim-win64"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win-arm64.zip",
             "hash": "3190ed6f194e27f9e1ca23bd08920127d713308580e9c9c3769b9f2050899b6f",
             "extract_dir": "nvim-win-arm64"
         }
@@ -31,10 +31,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/neovim/neovim/releases/download/nightly/nvim-win-arm64.zip"
             }
         }
     }

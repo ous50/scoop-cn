@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/nkanaev/yarr/releases/download/v2.8/yarr_windows_amd64_gui.zip",
+            "url": "https://gh-proxy.org/https://github.com/nkanaev/yarr/releases/download/v2.8/yarr_windows_amd64_gui.zip",
             "hash": "893a66b78278a62167473cc0d9a11394710ad0298347def339d9f75238a75a56"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/nkanaev/yarr/releases/download/v$version/yarr_windows_amd64_gui.zip"
+                "url": "https://gh-proxy.org/https://github.com/nkanaev/yarr/releases/download/v$version/yarr_windows_amd64_gui.zip"
             }
         }
     }

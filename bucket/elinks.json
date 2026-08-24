@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v0.20.0/elinks-0.20.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v0.20.0/elinks-0.20.0-win64.zip",
             "hash": "f23e00d252e51ff1e40306b725ab466734b543c614747568d8109e0e20ab7307"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v0.20.0/elinks-0.20.0-win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v0.20.0/elinks-0.20.0-win32.zip",
             "hash": "ac316848b45a4dbf11c8e32007071faae5d1689f302ee9c9fa7f43295e22e941"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v$version/elinks-$version-win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v$version/elinks-$version-win64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v$version/elinks-$version-win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/rkd77/elinks/releases/download/v$version/elinks-$version-win32.zip"
             }
         }
     }

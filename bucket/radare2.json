@@ -5,12 +5,12 @@
     "license": "LGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/radareorg/radare2/releases/download/6.2.0/radare2-6.2.0-w64.zip",
+            "url": "https://gh-proxy.org/https://github.com/radareorg/radare2/releases/download/6.2.0/radare2-6.2.0-w64.zip",
             "hash": "adb1ffd158066ea41316fa33b6d23b362aa9258df800721f7d15a42eefdd9202",
             "extract_dir": "radare2-6.2.0-w64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/radareorg/radare2/releases/download/6.2.0/radare2-6.2.0-w32.zip",
+            "url": "https://gh-proxy.org/https://github.com/radareorg/radare2/releases/download/6.2.0/radare2-6.2.0-w32.zip",
             "hash": "b06959f8221db6154e4d79051300585c86e9560942219b9e19d53a5114937b44",
             "extract_dir": "radare2-6.2.0-w32"
         }
@@ -39,11 +39,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/radareorg/radare2/releases/download/$version/radare2-$version-w64.zip",
+                "url": "https://gh-proxy.org/https://github.com/radareorg/radare2/releases/download/$version/radare2-$version-w64.zip",
                 "extract_dir": "radare2-$version-w64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/radareorg/radare2/releases/download/$version/radare2-$version-w32.zip",
+                "url": "https://gh-proxy.org/https://github.com/radareorg/radare2/releases/download/$version/radare2-$version-w32.zip",
                 "extract_dir": "radare2-$version-w32"
             }
         }

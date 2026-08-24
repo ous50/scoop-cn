@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/go-task/task/releases/download/v3.53.1/task_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-task/task/releases/download/v3.53.1/task_windows_amd64.zip",
             "hash": "27c0cd248c12cba03d8958d954a3df981c900be885ec9ce5f6a3cdc4e9a19316"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/go-task/task/releases/download/v3.53.1/task_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-task/task/releases/download/v3.53.1/task_windows_386.zip",
             "hash": "2423e2b5168e84c8ee1232cffca08c7459ac04d8a134e15c29226f80eeb50f3a"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/go-task/task/releases/download/v$version/task_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-task/task/releases/download/v$version/task_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/go-task/task/releases/download/v$version/task_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-task/task/releases/download/v$version/task_windows_386.zip"
             }
         },
         "hash": {

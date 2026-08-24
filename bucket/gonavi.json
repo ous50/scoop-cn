@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v0.9.4/GoNavi-0.9.4-Windows-Amd64-Portable.exe#/GoNavi.exe",
+            "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v0.9.4/GoNavi-0.9.4-Windows-Amd64-Portable.exe#/GoNavi.exe",
             "hash": "70ecc13aaa545db1bdde4a0b67d6283cf58cadf4e318f2f2f773caf635ce7402"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v0.9.4/GoNavi-0.9.4-Windows-Arm64-Portable.exe#/GoNavi.exe",
+            "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v0.9.4/GoNavi-0.9.4-Windows-Arm64-Portable.exe#/GoNavi.exe",
             "hash": "f2bfa6064c0fda3270437fa85d1cfa5f17fd2826ddbfba6cd710dbcf5a9c320f"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v$version/GoNavi-$version-Windows-Amd64-Portable.exe#/GoNavi.exe"
+                "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v$version/GoNavi-$version-Windows-Amd64-Portable.exe#/GoNavi.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v$version/GoNavi-$version-Windows-Arm64-Portable.exe#/GoNavi.exe"
+                "url": "https://gh-proxy.org/https://github.com/Syngnat/GoNavi/releases/download/v$version/GoNavi-$version-Windows-Arm64-Portable.exe#/GoNavi.exe"
             }
         },
         "hash": {

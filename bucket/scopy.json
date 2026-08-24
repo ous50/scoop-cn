@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/analogdevicesinc/scopy/releases/download/v2.2.1/Scopy-v2.2.1-Windows-x86_64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/analogdevicesinc/scopy/releases/download/v2.2.1/Scopy-v2.2.1-Windows-x86_64-portable.zip",
             "hash": "42f2ee0af94271743a6387f919f8aebda497b9f71aadc35d7b37786eea2145a2"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/analogdevicesinc/scopy/releases/download/v$version/Scopy-v$version-Windows-x86_64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/analogdevicesinc/scopy/releases/download/v$version/Scopy-v$version-Windows-x86_64-portable.zip"
             }
         },
         "extract_dir": "Scopy-v$version-Windows-x86_64-portable"

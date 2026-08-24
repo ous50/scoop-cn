@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Victor-IX/Blender-Launcher/releases/download/v2.7.6/Blender_Launcher_v2.7.6_Windows_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Victor-IX/Blender-Launcher/releases/download/v2.7.6/Blender_Launcher_v2.7.6_Windows_x64.zip",
             "hash": "623483de759fb90dab21a61b2ed783a5cb7575b6bc15ac85efff63e4f6118d34"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Victor-IX/Blender-Launcher/releases/download/v$version/Blender_Launcher_v$version_Windows_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Victor-IX/Blender-Launcher/releases/download/v$version/Blender_Launcher_v$version_Windows_x64.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/helmfile/vals/releases/download/v0.46.0/vals_0.46.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/helmfile/vals/releases/download/v0.46.0/vals_0.46.0_windows_amd64.tar.gz",
             "hash": "580c509a585b5c4087c076e8ea0e1a12567273673d596809e032110ea6f5a12d"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/helmfile/vals/releases/download/v0.46.0/vals_0.46.0_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/helmfile/vals/releases/download/v0.46.0/vals_0.46.0_windows_386.tar.gz",
             "hash": "5c223f6ae704521233f05f02bf5094062af6465a0c213eb391c8f83ac42b5f59"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/helmfile/vals/releases/download/v$version/vals_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/helmfile/vals/releases/download/v$version/vals_$version_windows_amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/helmfile/vals/releases/download/v$version/vals_$version_windows_386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/helmfile/vals/releases/download/v$version/vals_$version_windows_386.tar.gz"
             }
         }
     }

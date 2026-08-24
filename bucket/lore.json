@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/EpicGames/lore/releases/download/v0.8.6/lore-v0.8.6-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/EpicGames/lore/releases/download/v0.8.6/lore-v0.8.6-x86_64-pc-windows-msvc.zip",
             "hash": "092f0d06dcb84a514dec4a2a87a8a854963feb951d640d8100ce3e42acd68d67"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/EpicGames/lore/releases/download/v$version/lore-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/EpicGames/lore/releases/download/v$version/lore-v$version-x86_64-pc-windows-msvc.zip"
             }
         }
     }

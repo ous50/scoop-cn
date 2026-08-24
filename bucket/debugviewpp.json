@@ -5,7 +5,7 @@
     "license": "BSL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/CobaltFusion/DebugViewPP/releases/download/v.1.20.0.0/Debugview-1.2.0.0-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CobaltFusion/DebugViewPP/releases/download/v.1.20.0.0/Debugview-1.2.0.0-x64.zip",
             "hash": "eb4e94faf5027ade8d7503309d6dc3127c45955f685b724308124473759cef90",
             "extract_dir": "Debugview-1.2.0.0-x64"
         }
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/CobaltFusion/DebugViewPP/releases/download/$matchTag/$matchName",
+                "url": "https://gh-proxy.org/https://github.com/CobaltFusion/DebugViewPP/releases/download/$matchTag/$matchName",
                 "extract_dir": "Debugview-$version-x64"
             }
         }

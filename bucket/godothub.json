@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/RykoTheDev/GodotHub/releases/download/v1.3.8/GodotHub.exe",
+            "url": "https://gh-proxy.org/https://github.com/RykoTheDev/GodotHub/releases/download/v1.3.8/GodotHub.exe",
             "hash": "04384813b6a8059fbc52f7eb5afe29d5e016dbcfd7e7b29cb5f6dc32ab89ff8f"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/RykoTheDev/GodotHub/releases/download/v$version/GodotHub.exe"
+                "url": "https://gh-proxy.org/https://github.com/RykoTheDev/GodotHub/releases/download/v$version/GodotHub.exe"
             }
         }
     }

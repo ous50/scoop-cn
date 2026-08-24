@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v2026.6.0/Yaak_2026.6.0_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v2026.6.0/Yaak_2026.6.0_x64-setup.exe#/dl.7z",
             "hash": "8ae03db3915f8da8b1030812f4d2b5233b0b4deb3c28482dcd7a8fe73a3b0bd7"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v$version/Yaak_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/mountain-loop/yaak/releases/download/v$version/Yaak_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

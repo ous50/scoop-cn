@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/saber-notes/saber/releases/download/v1.36.0/SaberInstaller_v1.36.0.exe",
+            "url": "https://gh-proxy.org/https://github.com/saber-notes/saber/releases/download/v1.36.0/SaberInstaller_v1.36.0.exe",
             "hash": "fb12d4466f4aba237ec0019fd943dad4eb2db8308ef5a60b752a2763e892029c"
         }
     },
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/saber-notes/saber/releases/download/v$version/SaberInstaller_v$version$matchExtra.exe"
+                "url": "https://gh-proxy.org/https://github.com/saber-notes/saber/releases/download/v$version/SaberInstaller_v$version$matchExtra.exe"
             }
         }
     }

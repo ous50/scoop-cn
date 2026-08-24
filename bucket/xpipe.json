@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/23.9/xpipe-portable-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/23.9/xpipe-portable-windows-x86_64.zip",
             "hash": "e1b1e42d33636893698da02e8c10c40a3073ccfc3dea84368187581e4de4ed15"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/23.9/xpipe-portable-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/23.9/xpipe-portable-windows-arm64.zip",
             "hash": "357ae9e51db353ceb9b3d0952b6b3d50be7249b17fab7ae62ac83f574c6a9000"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-arm64.zip"
             }
         },
         "extract_dir": "xpipe-$version",

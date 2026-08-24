@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v3.14.0/prometheus-3.14.0.windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v3.14.0/prometheus-3.14.0.windows-amd64.tar.gz",
             "hash": "272bcdd15d9327c7b1e08fe916ea48633819f82f2ea0bf354e6b8c0350c156ba",
             "extract_dir": "prometheus-3.14.0.windows-amd64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v3.14.0/prometheus-3.14.0.windows-386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v3.14.0/prometheus-3.14.0.windows-386.tar.gz",
             "hash": "3e6e5ca9b45e59c51914176744b1839bc218ca9c07bd988a430b512ccec9be77",
             "extract_dir": "prometheus-3.14.0.windows-386"
         }
@@ -33,11 +33,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v$version/prometheus-$version.windows-amd64.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v$version/prometheus-$version.windows-amd64.tar.gz",
                 "extract_dir": "prometheus-$version.windows-amd64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v$version/prometheus-$version.windows-386.tar.gz",
+                "url": "https://gh-proxy.org/https://github.com/prometheus/prometheus/releases/download/v$version/prometheus-$version.windows-386.tar.gz",
                 "extract_dir": "prometheus-$version.windows-386"
             }
         },

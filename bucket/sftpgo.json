@@ -4,7 +4,7 @@
     "homepage": "https://github.com/drakkan/sftpgo",
     "license": "AGPL-3.0-only",
     "notes": "Register SFTPGo as Windows Service by running: \"sftpgo service install\" as Administrator",
-    "url": "https://v6.gh-proxy.org/https://github.com/drakkan/sftpgo/releases/download/v2.7.5/sftpgo_v2.7.5_windows_portable.zip",
+    "url": "https://gh-proxy.org/https://github.com/drakkan/sftpgo/releases/download/v2.7.5/sftpgo_v2.7.5_windows_portable.zip",
     "hash": "75d803598d2c714e3262847ee87a1ea48e4dcddbbd5690b0ef88adea84478838",
     "pre_install": [
         "if ($architecture -eq '32bit') {",
@@ -23,7 +23,7 @@
         "github": "https://github.com/drakkan/sftpgo"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/drakkan/sftpgo/releases/download/v$version/sftpgo_v$version_windows_portable.zip"
+        "url": "https://gh-proxy.org/https://github.com/drakkan/sftpgo/releases/download/v$version/sftpgo_v$version_windows_portable.zip"
     }
 }
 

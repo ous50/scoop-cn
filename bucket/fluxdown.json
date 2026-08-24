@@ -22,11 +22,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v0.4.7/FluxDown-0.4.7-windows-x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v0.4.7/FluxDown-0.4.7-windows-x64-portable.zip",
             "hash": "2de8975135e3e7856ddd36787db3625cf88972f24e8404ac313e5162acafed53"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v0.4.7/FluxDown-0.4.7-windows-arm64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v0.4.7/FluxDown-0.4.7-windows-arm64-portable.zip",
             "hash": "b6967f757f1bb826de298c3fd193b895f43b55614fadcda818ace5fb0c60e823"
         }
     },
@@ -43,10 +43,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-$version-windows-x64-portable.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-$version-windows-arm64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/zerx-lab/FluxDown/releases/download/v$version/FluxDown-$version-windows-arm64-portable.zip"
             }
         },
         "hash": {

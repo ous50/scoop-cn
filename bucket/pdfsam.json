@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/torakiki/pdfsam/releases/download/v6.0.5/pdfsam-basic-6.0.5-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/torakiki/pdfsam/releases/download/v6.0.5/pdfsam-basic-6.0.5-windows-x64.zip",
             "hash": "bd329b79e2bf8d4daddf578bec00850e237267e69821cfedbaf238903c21f164",
             "extract_dir": "pdfsam-basic-6.0.5-windows-x64\\pdfsam"
         }
@@ -22,7 +22,7 @@
         "architecture": {
             "64bit": {
                 "extract_dir": "pdfsam-basic-$version-windows-x64\\pdfsam",
-                "url": "https://v6.gh-proxy.org/https://github.com/torakiki/pdfsam/releases/download/v$version/pdfsam-basic-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/torakiki/pdfsam/releases/download/v$version/pdfsam-basic-$version-windows-x64.zip"
             }
         }
     }

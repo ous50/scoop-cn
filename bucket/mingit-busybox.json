@@ -13,11 +13,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-busybox-64-bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-busybox-64-bit.zip",
             "hash": "a0287b54d3ead0c5abd0d15094f5b4c909867aae6bf8b9f2aee7109d24fa0081"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-busybox-32-bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-busybox-32-bit.zip",
             "hash": "da123203a73a05038790645a436d078f69c5670e7e2104335df267006d203439"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v$matchTag/MinGit-$version-busybox-64-bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v$matchTag/MinGit-$version-busybox-64-bit.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v$matchTag/MinGit-$version-busybox-32-bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v$matchTag/MinGit-$version-busybox-32-bit.zip"
             }
         },
         "hash": {

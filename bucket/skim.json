@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-pc-windows-msvc.zip",
             "hash": "93d6279715f8d1f6c98d51d1a7ed41e70347c2d4794a143c6bb113770c1247e5"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/skim-rs/skim/releases/download/v$version/skim-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/skim-rs/skim/releases/download/v$version/skim-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

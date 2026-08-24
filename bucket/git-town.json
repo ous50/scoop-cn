@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-town/git-town/releases/download/v24.0.0/git-town_windows_intel_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-town/git-town/releases/download/v24.0.0/git-town_windows_intel_64.zip",
             "hash": "f0feb3438beafef454a3abe21d71303db2d712e5bc823a752e715f83b822267b"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-town/git-town/releases/download/v24.0.0/git-town_windows_arm_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-town/git-town/releases/download/v24.0.0/git-town_windows_arm_64.zip",
             "hash": "9e711e47a798eca69cd53a9921f8afb64f100c41852b3c063ec527de752b3c11"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-town/git-town/releases/download/v$version/git-town_windows_intel_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-town/git-town/releases/download/v$version/git-town_windows_intel_64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-town/git-town/releases/download/v$version/git-town_windows_arm_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-town/git-town/releases/download/v$version/git-town_windows_arm_64.zip"
             }
         },
         "hash": {

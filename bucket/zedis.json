@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v0.8.1/zedis-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v0.8.1/zedis-windows-x86_64.zip",
             "hash": "aa6e9d384b8ee9d06e128dc90360ad8d680f697bf1e179e1224eb06ca48f2ed3"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v0.8.1/zedis-windows-aarch64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v0.8.1/zedis-windows-aarch64.zip",
             "hash": "a082a009c8b63856cf29e73692aa2789b8a0d52c527e6b75ded3f396d4a4cff5"
         }
     },
@@ -23,10 +23,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v$version/zedis-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v$version/zedis-windows-x86_64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v$version/zedis-windows-aarch64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vicanso/zedis/releases/download/v$version/zedis-windows-aarch64.zip"
             }
         }
     }

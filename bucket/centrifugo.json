@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/centrifugal/centrifugo/releases/download/v6.9.3/centrifugo_6.9.3_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/centrifugal/centrifugo/releases/download/v6.9.3/centrifugo_6.9.3_windows_amd64.zip",
             "hash": "610ca678541e385cda833aa8ba1e02ca6788c15cdc182caa72cf5fa94b8ce96c"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/centrifugal/centrifugo/releases/download/v$version/centrifugo_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/centrifugal/centrifugo/releases/download/v$version/centrifugo_$version_windows_amd64.zip"
             }
         },
         "hash": {

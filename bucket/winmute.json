@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/lx-s/WinMute/releases/download/2.5.4.0/WinMute-2.5.4.zip",
+            "url": "https://gh-proxy.org/https://github.com/lx-s/WinMute/releases/download/2.5.4.0/WinMute-2.5.4.zip",
             "hash": "74a11d223c5a8d07cd8e841cec2491edb6aeebbf7efc095de7c4abdc49398fe7"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/lx-s/WinMute/releases/download/$version/WinMute-$matchHead.zip"
+                "url": "https://gh-proxy.org/https://github.com/lx-s/WinMute/releases/download/$version/WinMute-$matchHead.zip"
             }
         }
     }

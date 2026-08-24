@@ -5,7 +5,7 @@
     "license": "UPL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/oracle/weblogic-remote-console/releases/download/v3.0.5/WebLogic-Remote-Console-3.0.5-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/oracle/weblogic-remote-console/releases/download/v3.0.5/WebLogic-Remote-Console-3.0.5-win.zip",
             "hash": "62f342e972c4842913ad51018bd0f8269e095566b22121a6fc809194ed1031c8"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/oracle/weblogic-remote-console/releases/download/v$version/WebLogic-Remote-Console-$version-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/oracle/weblogic-remote-console/releases/download/v$version/WebLogic-Remote-Console-$version-win.zip"
             }
         }
     }

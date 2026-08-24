@@ -3,7 +3,7 @@
     "description": "An application that turns mouse movements into modern art.",
     "homepage": "https://www.iographica.com",
     "license": "Unknown",
-    "url": "https://v6.gh-proxy.org/https://github.com/anatolyzenkov/IOGraph/releases/download/v2.0.2/IOGraph-windows-v2.0.2.zip",
+    "url": "https://gh-proxy.org/https://github.com/anatolyzenkov/IOGraph/releases/download/v2.0.2/IOGraph-windows-v2.0.2.zip",
     "hash": "01e96c39bdf7ac53b72db8f1e25b7a567e99ad8d60d2f32d2a44df206b73bc5b",
     "shortcuts": [
         [
@@ -15,7 +15,7 @@
         "github": "https://github.com/anatolyzenkov/IOGraph"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/anatolyzenkov/IOGraph/releases/download/v$version/IOGraph-windows-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/anatolyzenkov/IOGraph/releases/download/v$version/IOGraph-windows-v$version.zip"
     }
 }
 

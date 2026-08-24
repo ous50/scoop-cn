@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Azure/draft/releases/download/v0.17.15/draft-windows-amd64.exe#/draft.exe",
+            "url": "https://gh-proxy.org/https://github.com/Azure/draft/releases/download/v0.17.15/draft-windows-amd64.exe#/draft.exe",
             "hash": "72160d9df13a4494f5b2f976ba2ec369f268b1139b926edb2339c355e3bd3582"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Azure/draft/releases/download/v$version/draft-windows-amd64.exe#/draft.exe"
+                "url": "https://gh-proxy.org/https://github.com/Azure/draft/releases/download/v$version/draft-windows-amd64.exe#/draft.exe"
             }
         }
     }

@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://v6.gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v0.32.0/probe-rs-tools-x86_64-pc-windows-msvc.zip",
-                "https://v6.gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v0.32.0/target-gen-x86_64-pc-windows-msvc.zip"
+                "https://gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v0.32.0/probe-rs-tools-x86_64-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v0.32.0/target-gen-x86_64-pc-windows-msvc.zip"
             ],
             "hash": [
                 "56fc0564cc23d604b27dc2d57606194159c49f951999f3e47bd2cbffcba64103",
@@ -28,8 +28,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://v6.gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v$version/probe-rs-tools-x86_64-pc-windows-msvc.zip",
-                    "https://v6.gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v$version/target-gen-x86_64-pc-windows-msvc.zip"
+                    "https://gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v$version/probe-rs-tools-x86_64-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/probe-rs/probe-rs/releases/download/v$version/target-gen-x86_64-pc-windows-msvc.zip"
                 ]
             }
         },

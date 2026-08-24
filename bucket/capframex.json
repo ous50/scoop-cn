@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/CXWorld/CapFrameX/releases/download/v1.8.6/release_1.8.6_portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/CXWorld/CapFrameX/releases/download/v1.8.6/release_1.8.6_portable.zip",
             "hash": "980bee035c7236de7eecf4309c7738c8883fe194a6d5a794de7399d5e1ee3ad1"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/CXWorld/CapFrameX/releases/download/$matchTag/release_$version_portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/CXWorld/CapFrameX/releases/download/$matchTag/release_$version_portable.zip"
             }
         }
     }

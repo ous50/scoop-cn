@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v2.21.0/TumblThree-v2.21.0-x64-Application.zip",
+            "url": "https://gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v2.21.0/TumblThree-v2.21.0-x64-Application.zip",
             "hash": "9dae9a881c7186fc2fd249bbaf4b4a985327a646637beb92de2812d5eabed3c0"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v2.21.0/TumblThree-v2.21.0-x86-Application.zip",
+            "url": "https://gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v2.21.0/TumblThree-v2.21.0-x86-Application.zip",
             "hash": "690b3220f8004464a9f0fb3cb49cba7b913dafb1ab8bb49f4344f4a5bfbf96c5"
         }
     },
@@ -39,10 +39,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v$matchHead/TumblThree-v$version-x64-Application.zip"
+                "url": "https://gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v$matchHead/TumblThree-v$version-x64-Application.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v$matchHead/TumblThree-v$version-x86-Application.zip"
+                "url": "https://gh-proxy.org/https://github.com/TumblThreeApp/TumblThree/releases/download/v$matchHead/TumblThree-v$version-x86-Application.zip"
             }
         }
     }

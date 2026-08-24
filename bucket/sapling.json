@@ -17,7 +17,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/facebook/sapling/releases/download/0.2.20260811-150444+8fb02b32/sapling-0.2.20260811-150444+8fb02b32-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/facebook/sapling/releases/download/0.2.20260811-150444+8fb02b32/sapling-0.2.20260811-150444+8fb02b32-windows-x64.zip",
             "hash": "fe427cea48504aaa4a06e00717523a3ef4b79f885051712e858480b3ad6d7682"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/facebook/sapling/releases/download/$matchTag/sapling-$matchTag-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/facebook/sapling/releases/download/$matchTag/sapling-$matchTag-windows-x64.zip"
             }
         }
     }

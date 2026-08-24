@@ -5,11 +5,11 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.7/lokalise2_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.7/lokalise2_windows_x86_64.zip",
             "hash": "31a4ca7a04869f61a6df6179f0045336edfd843072a3a5a68263a4d052f9927f"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.7/lokalise2_windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.7/lokalise2_windows_i386.zip",
             "hash": "52b8e8f1cbd0e39f9ad355133ed354c968e4e002e8420571abd6b04d99b1d95e"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_i386.zip"
             }
         },
         "hash": {

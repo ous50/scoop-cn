@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v3.7.1/wait4x-windows-amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v3.7.1/wait4x-windows-amd64.tar.gz",
             "hash": "0fdcd82c59ce35f2ee5f5b7e6b71d96aedffd8ddfc8483ca0f3f2269aba05d12"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v3.7.1/wait4x-windows-arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v3.7.1/wait4x-windows-arm64.tar.gz",
             "hash": "dfb5cc372d46923e9e0298f81c83d5217b7017f6cdd63650dbcc52c1157511c1"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v$version/wait4x-windows-amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v$version/wait4x-windows-amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v$version/wait4x-windows-arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/wait4x/wait4x/releases/download/v$version/wait4x-windows-arm64.tar.gz"
             }
         },
         "hash": {

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/n0-computer/dumbpipe/releases/download/v0.39.0/dumbpipe-v0.39.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/n0-computer/dumbpipe/releases/download/v0.39.0/dumbpipe-v0.39.0-windows-x86_64.zip",
             "hash": "a58f4e1f58281b6f5407baa6502c58cc824c41d8e0c418bbb6eea51bfd674856"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/n0-computer/dumbpipe/releases/download/v$version/dumbpipe-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/n0-computer/dumbpipe/releases/download/v$version/dumbpipe-v$version-windows-x86_64.zip"
             }
         }
     }

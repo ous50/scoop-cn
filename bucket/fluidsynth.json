@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/v2.6.0/fluidsynth-v2.6.0-win10-x64-cpp11.zip",
+            "url": "https://gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/v2.6.0/fluidsynth-v2.6.0-win10-x64-cpp11.zip",
             "hash": "817262deacaa748edb3af6731dffe1766b00146790becfccc949a9f701e76681",
             "extract_dir": "fluidsynth-v2.6.0-win10-x64-cpp11"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/v2.6.0/fluidsynth-v2.6.0-win10-x86-cpp11.zip",
+            "url": "https://gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/v2.6.0/fluidsynth-v2.6.0-win10-x86-cpp11.zip",
             "hash": "fda67ce1999ec3eeb02e5b90a03c8db99579b4d85e282d613039981bf6d5136d",
             "extract_dir": "fluidsynth-v2.6.0-win10-x86-cpp11"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/$matchTag/$matchPrefix-x64$matchSuffix.zip",
+                "url": "https://gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/$matchTag/$matchPrefix-x64$matchSuffix.zip",
                 "extract_dir": "$matchPrefix-x64$matchSuffix"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/$matchTag/$matchPrefix-x86$matchSuffix.zip",
+                "url": "https://gh-proxy.org/https://github.com/FluidSynth/fluidsynth/releases/download/$matchTag/$matchPrefix-x86$matchSuffix.zip",
                 "extract_dir": "$matchPrefix-x86$matchSuffix"
             }
         }

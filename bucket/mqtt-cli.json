@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/hivemq/mqtt-cli/releases/download/v4.54.0/mqtt-cli-4.54.0-win.zip",
+            "url": "https://gh-proxy.org/https://github.com/hivemq/mqtt-cli/releases/download/v4.54.0/mqtt-cli-4.54.0-win.zip",
             "hash": "19d49ec0c68f1ec1151bcb7a0eab6013e53b0249a57e31ad4b2e5a22a1dfac72"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/hivemq/mqtt-cli/releases/download/v$version/mqtt-cli-$version-win.zip"
+                "url": "https://gh-proxy.org/https://github.com/hivemq/mqtt-cli/releases/download/v$version/mqtt-cli-$version-win.zip"
             }
         }
     }

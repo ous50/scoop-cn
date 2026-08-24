@@ -14,7 +14,7 @@
     "depends": "scoop-cn/msys2",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/haskell/ghcup-hs/releases/download/v0.2.6.2/x86_64-mingw64-ghcup-0.2.6.2.exe#/ghcup.exe",
+            "url": "https://gh-proxy.org/https://github.com/haskell/ghcup-hs/releases/download/v0.2.6.2/x86_64-mingw64-ghcup-0.2.6.2.exe#/ghcup.exe",
             "hash": "94da902a2853b1de1df509d04da900a05258480759efdb4f654e66956b6f30db"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/haskell/ghcup-hs/releases/download/v$version/x86_64-mingw64-ghcup-$version.exe#/ghcup.exe"
+                "url": "https://gh-proxy.org/https://github.com/haskell/ghcup-hs/releases/download/v$version/x86_64-mingw64-ghcup-$version.exe#/ghcup.exe"
             }
         },
         "hash": {

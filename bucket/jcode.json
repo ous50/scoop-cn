@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v0.80.0/jcode-windows-x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v0.80.0/jcode-windows-x86_64.tar.gz",
             "hash": "690d3e33e70d6f05289cd82f7c94e1f675d4802cfb131e1ee625140d036ff960"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v0.80.0/jcode-windows-aarch64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v0.80.0/jcode-windows-aarch64.tar.gz",
             "hash": "7c0efcaa6e049d0961e5676b93649c8cb363bfa445d9ea32e8294fc53b74b524"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v$version/jcode-windows-x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v$version/jcode-windows-x86_64.tar.gz"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v$version/jcode-windows-aarch64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/1jehuang/jcode/releases/download/v$version/jcode-windows-aarch64.tar.gz"
             }
         }
     }

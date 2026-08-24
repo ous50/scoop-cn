@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ifer47/markeron/releases/download/v2.9.4/MarkerOn_2.9.4_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/ifer47/markeron/releases/download/v2.9.4/MarkerOn_2.9.4_x64-setup.exe#/dl.7z",
             "hash": "7d229dd740356358ba897671837b570248ad697288370e08ad49952250881ca4"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ifer47/markeron/releases/download/v$version/MarkerOn_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/ifer47/markeron/releases/download/v$version/MarkerOn_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

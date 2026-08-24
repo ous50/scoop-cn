@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-Portable-x64-7.2.0.92-501f831.zip",
+            "url": "https://gh-proxy.org/https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-Portable-x64-7.2.0.92-501f831.zip",
             "hash": "ac192d72434ed315e7bb34305ddcf4987527e69bb8bc4d0fe1b858e001ae142c"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/gitextensions/gitextensions/releases/download/v$matchTag/GitExtensions-Portable-x64-$version-$matchCommit.zip"
+                "url": "https://gh-proxy.org/https://github.com/gitextensions/gitextensions/releases/download/v$matchTag/GitExtensions-Portable-x64-$version-$matchCommit.zip"
             }
         }
     }

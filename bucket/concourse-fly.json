@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/concourse/concourse/releases/download/v8.3.0/fly-8.3.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/concourse/concourse/releases/download/v8.3.0/fly-8.3.0-windows-amd64.zip",
             "hash": "sha1:d43d77476f1e0f242f8dd645e3a1b43368aecf25"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/concourse/concourse/releases/download/v$version/fly-$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/concourse/concourse/releases/download/v$version/fly-$version-windows-amd64.zip"
             }
         },
         "hash": {

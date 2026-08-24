@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/selenium-manager-bb9e376/selenium-manager-windows.exe#/selenium-manager.exe",
+            "url": "https://gh-proxy.org/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/selenium-manager-bb9e376/selenium-manager-windows.exe#/selenium-manager.exe",
             "hash": "96c69f2db247b7d1a8dd05abf6b0dfe05b8769b6410002eb685ae2dd531314cb"
         }
     },
@@ -16,7 +16,7 @@
             "# This script was written based on the conversation here https://github.com/SeleniumHQ/selenium/issues/11694. Once binaries are released, we won't need this script.",
             "$selenium_release = $page | ConvertFrom-Json",
             "$selenium_ver_string = $selenium_release.tag_name",
-            "$selenium_manager_ver_string = @((Invoke-WebRequest -Uri ('https://v6.gh-proxy.org/https://github.com/SeleniumHQ/selenium/raw/' + $selenium_ver_string + '/common/selenium_manager.bzl') -UseBasicParsing).Content -split \"`n\" | Select-String 'selenium-manager-([a-z0-9]+)').Matches.Value[0]",
+            "$selenium_manager_ver_string = @((Invoke-WebRequest -Uri ('https://gh-proxy.org/https://github.com/SeleniumHQ/selenium/raw/' + $selenium_ver_string + '/common/selenium_manager.bzl') -UseBasicParsing).Content -split \"`n\" | Select-String 'selenium-manager-([a-z0-9]+)').Matches.Value[0]",
             "$output = @{ result = \"$selenium_ver_string $selenium_manager_ver_string\" } | ConvertTo-Json -Compress",
             "Write-Output $output"
         ],
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/$matchManagerversion/selenium-manager-windows.exe#/selenium-manager.exe"
+                "url": "https://gh-proxy.org/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/$matchManagerversion/selenium-manager-windows.exe#/selenium-manager.exe"
             }
         }
     }

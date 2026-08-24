@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v2026.18/sourcegit_2026.18.win-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v2026.18/sourcegit_2026.18.win-x64.zip",
             "hash": "a50dd63dee892c08c1cec15e397d2fa91aa30c4669ded1910f9a06af0865407a"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v2026.18/sourcegit_2026.18.win-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v2026.18/sourcegit_2026.18.win-arm64.zip",
             "hash": "3c13038b9dad8e875f800edf39428b0ef4e92488f5a4f34028e7334eb2db3c25"
         }
     },
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-x64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-arm64.zip"
             }
         }
     }

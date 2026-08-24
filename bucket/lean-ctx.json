@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/yvgude/lean-ctx/releases/download/v3.9.19/lean-ctx-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/yvgude/lean-ctx/releases/download/v3.9.19/lean-ctx-x86_64-pc-windows-msvc.zip",
             "hash": "6b8f399fb183b0570d9eaffff6d6d1f457650cc12a35a20326e29d7a850fe370"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/yvgude/lean-ctx/releases/download/v$version/lean-ctx-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/yvgude/lean-ctx/releases/download/v$version/lean-ctx-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

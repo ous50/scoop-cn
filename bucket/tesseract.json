@@ -12,7 +12,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/tesseract-ocr/tesseract/releases/download/5.5.3/tesseract-ocr-w64-setup-5.5.3.20260724.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/tesseract-ocr/tesseract/releases/download/5.5.3/tesseract-ocr-w64-setup-5.5.3.20260724.exe#/dl.7z",
             "hash": "bee9e3434bd94fd65387d9be28cd467a41f61b1275383b55b0f59a1331270ae4"
         }
     },
@@ -54,7 +54,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/tesseract-ocr/tesseract/releases/download/$matchHead/tesseract-ocr-w64-setup-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/tesseract-ocr/tesseract/releases/download/$matchHead/tesseract-ocr-w64-setup-$version.exe#/dl.7z"
             }
         }
     }

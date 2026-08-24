@@ -3,7 +3,7 @@
     "description": "HashLink is a virtual machine for Haxe",
     "homepage": "https://hashlink.haxe.org/",
     "license": "MIT",
-    "url": "https://v6.gh-proxy.org/https://github.com/HaxeFoundation/hashlink/releases/download/1.16/hashlink-1.16.0-win.zip",
+    "url": "https://gh-proxy.org/https://github.com/HaxeFoundation/hashlink/releases/download/1.16/hashlink-1.16.0-win.zip",
     "hash": "ec80b5bfbe93ae497ff43cd72d5bb4d906de3c6398839ba692fa28c47b54aa0f",
     "extract_dir": "hashlink-1.16.0-win",
     "bin": "hl.exe",
@@ -16,7 +16,7 @@
         "regex": "([\\d.]+)-win"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/HaxeFoundation/hashlink/releases/download/$majorVersion.$minorVersion/hashlink-$version-win.zip",
+        "url": "https://gh-proxy.org/https://github.com/HaxeFoundation/hashlink/releases/download/$majorVersion.$minorVersion/hashlink-$version-win.zip",
         "extract_dir": "hashlink-$version-win"
     }
 }

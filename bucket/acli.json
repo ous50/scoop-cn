@@ -20,7 +20,7 @@
     },
     "bin": "acli.exe",
     "checkver": {
-        "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/atlassian/homebrew-acli/main/Formula/acli.rb",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/atlassian/homebrew-acli/main/Formula/acli.rb",
         "regex": "version \"([\\d.]+)-stable\""
     },
     "autoupdate": {

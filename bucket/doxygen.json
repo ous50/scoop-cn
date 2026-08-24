@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/doxygen/doxygen/releases/download/Release_1_18_0/doxygen-1.18.0.windows.x64.bin.zip",
+            "url": "https://gh-proxy.org/https://github.com/doxygen/doxygen/releases/download/Release_1_18_0/doxygen-1.18.0.windows.x64.bin.zip",
             "hash": "e84f54cfd49ef06b0b16536056dbec0c496323de28abcce53a4269463de35eaf"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/doxygen/doxygen/releases/download/Release_$underscoreVersion/doxygen-$version.windows.x64.bin.zip"
+                "url": "https://gh-proxy.org/https://github.com/doxygen/doxygen/releases/download/Release_$underscoreVersion/doxygen-$version.windows.x64.bin.zip"
             }
         }
     }

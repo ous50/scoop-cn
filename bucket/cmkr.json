@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/build-cpp/cmkr/releases/download/v0.2.47/cmkr-windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/build-cpp/cmkr/releases/download/v0.2.47/cmkr-windows.zip",
             "hash": "85d71c1b6d3afc55ebdf77dc7c723553a1fd8d35ab16caafd4a591d63cac2a3a"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/build-cpp/cmkr/releases/download/v$version/cmkr-windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/build-cpp/cmkr/releases/download/v$version/cmkr-windows.zip"
             }
         }
     }

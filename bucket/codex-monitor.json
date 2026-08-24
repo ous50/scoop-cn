@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Dimillian/CodexMonitor/releases/download/v0.7.67/Codex.Monitor_0.7.67_x64_en-US.msi",
+            "url": "https://gh-proxy.org/https://github.com/Dimillian/CodexMonitor/releases/download/v0.7.67/Codex.Monitor_0.7.67_x64_en-US.msi",
             "hash": "5478ae574ec1b239c0127e4ce93460b99d0b5f43434d95c877ad7be6eba3e4fa"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Dimillian/CodexMonitor/releases/download/v$version/Codex.Monitor_$version_x64_en-US.msi"
+                "url": "https://gh-proxy.org/https://github.com/Dimillian/CodexMonitor/releases/download/v$version/Codex.Monitor_$version_x64_en-US.msi"
             }
         }
     }

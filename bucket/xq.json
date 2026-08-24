@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/sibprogrammer/xq/releases/download/v1.5.1/xq_1.5.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/sibprogrammer/xq/releases/download/v1.5.1/xq_1.5.1_windows_amd64.zip",
             "hash": "52ba9baba2bb74ea7711232419b2185cd046c8482a8e31c7f3cf942db4f94121"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/sibprogrammer/xq/releases/download/v$version/xq_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/sibprogrammer/xq/releases/download/v$version/xq_$version_windows_amd64.zip"
             }
         },
         "hash": {

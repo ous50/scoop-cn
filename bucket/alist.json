@@ -5,15 +5,15 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v3.63.0/alist-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v3.63.0/alist-windows-amd64.zip",
             "hash": "md5:6714474ebcf75662652b65281e5494b6"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v3.63.0/alist-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v3.63.0/alist-windows-386.zip",
             "hash": "md5:3797456446d5b07d72ac5431c8a8bfd1"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v3.63.0/alist-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v3.63.0/alist-windows-arm64.zip",
             "hash": "md5:97e6181e17b6fcbd1bcf0ad9417dfb58"
         }
     },
@@ -34,13 +34,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v$version/alist-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v$version/alist-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v$version/alist-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v$version/alist-windows-386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v$version/alist-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/AlistGo/alist/releases/download/v$version/alist-windows-arm64.zip"
             }
         },
         "hash": {

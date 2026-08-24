@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/azat/chdig/releases/download/v26.8.1/chdig-windows-x86_64.exe#/chdig.exe",
+            "url": "https://gh-proxy.org/https://github.com/azat/chdig/releases/download/v26.8.1/chdig-windows-x86_64.exe#/chdig.exe",
             "hash": "e2716de20bbd8699a03b2dcf50dfa9e5c6dcf7d5ea823920a5257fc059c952ad"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/azat/chdig/releases/download/v$version/chdig-windows-x86_64.exe#/chdig.exe"
+                "url": "https://gh-proxy.org/https://github.com/azat/chdig/releases/download/v$version/chdig-windows-x86_64.exe#/chdig.exe"
             }
         }
     }

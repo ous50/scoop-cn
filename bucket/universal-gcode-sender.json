@@ -6,7 +6,7 @@
     "extract_dir": "ugsplatform-win",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v2.1.26/win64-ugs-platform-app-2.1.26.zip",
+            "url": "https://gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v2.1.26/win64-ugs-platform-app-2.1.26.zip",
             "hash": "0e697116c98741534a1d0d7bc239d84779d7dfb5a9caf62e9bdf64bd564b1cda",
             "bin": [
                 [
@@ -22,7 +22,7 @@
             ]
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v2.1.26/win-ugs-platform-app-2.1.26.zip",
+            "url": "https://gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v2.1.26/win-ugs-platform-app-2.1.26.zip",
             "hash": "b189c4cb40e5418522f5c1769b1f1801d4995619bf2b20054d5df589818304e3",
             "bin": "bin\\ugsplatform.exe",
             "shortcuts": [
@@ -39,10 +39,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v$version/win64-ugs-platform-app-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v$version/win64-ugs-platform-app-$version.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v$version/win-ugs-platform-app-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/winder/Universal-G-Code-Sender/releases/download/v$version/win-ugs-platform-app-$version.zip"
             }
         }
     }

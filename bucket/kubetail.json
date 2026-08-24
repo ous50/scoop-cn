@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.18.0/kubetail-windows-amd64#/kubetail.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.18.0/kubetail-windows-amd64#/kubetail.exe",
             "hash": "518724f668b04fe11cff0202403d8b88977ef428299a2da5f2986f8367112a81"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.18.0/kubetail-windows-arm64#/kubetail.exe",
+            "url": "https://gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.18.0/kubetail-windows-arm64#/kubetail.exe",
             "hash": "9baa314ede8678a333f65608b7d59a4b418ebd78b1527fe36e60b96391e4f15d"
         }
     },
@@ -21,16 +21,16 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-amd64#/kubetail.exe",
+                "url": "https://gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-amd64#/kubetail.exe",
                 "hash": {
-                    "url": "https://v6.gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-amd64.sha256",
+                    "url": "https://gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-amd64.sha256",
                     "regex": "([A-Fa-f0-9]{64})"
                 }
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-arm64#/kubetail.exe",
+                "url": "https://gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-arm64#/kubetail.exe",
                 "hash": {
-                    "url": "https://v6.gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-arm64.sha256",
+                    "url": "https://gh-proxy.org/https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv$version/kubetail-windows-arm64.sha256",
                     "regex": "([A-Fa-f0-9]{64})"
                 }
             }

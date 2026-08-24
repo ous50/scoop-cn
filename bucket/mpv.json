@@ -12,11 +12,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-x86_64-pc-windows-msvc.zip",
             "hash": "4e197f729f5071c6772f35fffd96e0f36e3e8a044bd9479b136bb09b7c6a80ff"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v0.41.0/mpv-v0.41.0-aarch64-pc-windows-msvc.zip",
             "hash": "a822abeffd0ac88951f4084f3425f949842aa17d616f880637ebe9041e482e97"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v$version/mpv-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v$version/mpv-v$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v$version/mpv-v$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/mpv-player/mpv/releases/download/v$version/mpv-v$version-aarch64-pc-windows-msvc.zip"
             }
         }
     }

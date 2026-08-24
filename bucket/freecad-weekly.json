@@ -5,7 +5,7 @@
     "license": "LGPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/weekly-2026.08.20/FreeCAD_weekly-2026.08.20-Windows-x86_64.7z",
+            "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/weekly-2026.08.20/FreeCAD_weekly-2026.08.20-Windows-x86_64.7z",
             "hash": "b6412006969b3a2437b721b4a8467a348a4d0f5ffbd436771e8b9945fa6c7048",
             "extract_dir": "FreeCAD_weekly-2026.08.20-Windows-x86_64"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/weekly-$version/FreeCAD_weekly-$version-Windows-x86_64.7z",
+                "url": "https://gh-proxy.org/https://github.com/FreeCAD/FreeCAD/releases/download/weekly-$version/FreeCAD_weekly-$version-Windows-x86_64.7z",
                 "extract_dir": "FreeCAD_weekly-$version-Windows-x86_64"
             }
         },

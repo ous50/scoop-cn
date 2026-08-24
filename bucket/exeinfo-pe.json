@@ -7,7 +7,7 @@
         "identifier": "Freeware",
         "url": "https://github.com/ExeinfoASL/ASL"
     },
-    "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ExeinfoASL/ASL/master/exeinfope.zip",
+    "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ExeinfoASL/ASL/master/exeinfope.zip",
     "hash": "6a0d8c0930a58dd3e070993f3d92136deb9f912935888a40268bfe7fd00e4ef2",
     "extract_dir": "ExeinfoPe",
     "bin": "exeinfope.exe",
@@ -23,11 +23,11 @@
         "userdb.txt"
     ],
     "checkver": {
-        "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ExeinfoASL/ASL/master/README.md",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ExeinfoASL/ASL/master/README.md",
         "regex": "Version\\s+\\: ([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/ExeinfoASL/ASL/master/exeinfope.zip"
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ExeinfoASL/ASL/master/exeinfope.zip"
     }
 }
 

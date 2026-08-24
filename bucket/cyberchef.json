@@ -3,7 +3,7 @@
     "description": "A web app for encryption, encoding, compression and data analysis",
     "homepage": "https://gchq.github.io/CyberChef/",
     "license": "Apache-2.0",
-    "url": "https://v6.gh-proxy.org/https://github.com/gchq/CyberChef/releases/download/v11.4.0/CyberChef_49d1a5634a67a3b806c6db0fdca7dcecb41a776c.zip#/CyberChef_v11.4.0.7z",
+    "url": "https://gh-proxy.org/https://github.com/gchq/CyberChef/releases/download/v11.4.0/CyberChef_49d1a5634a67a3b806c6db0fdca7dcecb41a776c.zip#/CyberChef_v11.4.0.7z",
     "hash": "423635c4fe05eba1be1e000aae3a82c711c5599c1bc1c0b625a02d344bd51bc4",
     "pre_install": "Rename-Item \"$dir\\CyberChef_v$version.html\" \"CyberChef.html\"",
     "shortcuts": [
@@ -18,7 +18,7 @@
         "regex": "(?i)download/v([\\d.]+)/(?<name>[^\"]+)"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/gchq/CyberChef/releases/download/v$version/$matchName#/CyberChef_v$version.7z"
+        "url": "https://gh-proxy.org/https://github.com/gchq/CyberChef/releases/download/v$version/$matchName#/CyberChef_v$version.7z"
     }
 }
 

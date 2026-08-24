@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Tura-AI/tura/releases/download/v0.1.37/tura-v0.1.37-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Tura-AI/tura/releases/download/v0.1.37/tura-v0.1.37-windows-x64.zip",
             "hash": "64852dab231abd9a659fb614967d651b947d696761837d0fb73acd5d8704325d"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Tura-AI/tura/releases/download/v$version/tura-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Tura-AI/tura/releases/download/v$version/tura-v$version-windows-x64.zip"
             }
         },
         "hash": {

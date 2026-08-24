@@ -5,11 +5,11 @@
     "license": "ISC",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v1.1.4/plakar_1.1.4_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v1.1.4/plakar_1.1.4_windows_amd64.tar.gz",
             "hash": "4bbfd610d3d57c5c06bbeb30311cee25fbbff3a898b665b492f262efe266a2eb"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v1.1.4/plakar_1.1.4_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v1.1.4/plakar_1.1.4_windows_arm64.tar.gz",
             "hash": "7f622ff5ccc0a0dc1c89914f1ac712322327826dd5512afd454da3aafc1b5ef3"
         }
     },
@@ -18,14 +18,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v$version/plakar_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v$version/plakar_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v$version/plakar_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v$version/plakar_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {
-            "url": "https://v6.gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v$version/plakar_$version_checksums.txt"
+            "url": "https://gh-proxy.org/https://github.com/PlakarKorp/plakar/releases/download/v$version/plakar_$version_checksums.txt"
         }
     }
 }

@@ -6,7 +6,7 @@
         "identifier": "Freeware",
         "url": "https://obsidian.md/license"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe#/dl.7z",
+    "url": "https://gh-proxy.org/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe#/dl.7z",
     "hash": "f233dc24896b3f2d5f9e4b01111181a561d0760b2105f0a474024c5f3143a9bc",
     "architecture": {
         "64bit": {
@@ -36,7 +36,7 @@
         "github": "https://github.com/obsidianmd/obsidian-releases"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/obsidianmd/obsidian-releases/releases/download/v$version/Obsidian-$version.exe#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/obsidianmd/obsidian-releases/releases/download/v$version/Obsidian-$version.exe#/dl.7z"
     }
 }
 

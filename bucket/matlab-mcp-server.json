@@ -4,12 +4,12 @@
     "homepage": "https://www.mathworks.com/products/matlab-mcp-server.html",
     "license": {
         "identifier": "BSD-3-Clause",
-        "url": "https://v6.gh-proxy.org/https://github.com/matlab/matlab-mcp-server/raw/refs/heads/main/LICENSE.md"
+        "url": "https://gh-proxy.org/https://github.com/matlab/matlab-mcp-server/raw/refs/heads/main/LICENSE.md"
     },
     "notes": "To opt out of data collection, set the argument \"--disable-telemetry\" to true.",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/matlab/matlab-mcp-server/releases/download/v0.12.0/matlab-mcp-server-windows-x64.exe#/matlab-mcp-server.exe",
+            "url": "https://gh-proxy.org/https://github.com/matlab/matlab-mcp-server/releases/download/v0.12.0/matlab-mcp-server-windows-x64.exe#/matlab-mcp-server.exe",
             "hash": "454fd0cfcb88ba398a04508d1caac8ae4784ce344fb01c14f7e8ac582e3c0fa6"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/matlab/matlab-mcp-server/releases/download/v$version/matlab-mcp-server-windows-x64.exe#/matlab-mcp-server.exe"
+                "url": "https://gh-proxy.org/https://github.com/matlab/matlab-mcp-server/releases/download/v$version/matlab-mcp-server-windows-x64.exe#/matlab-mcp-server.exe"
             }
         }
     }

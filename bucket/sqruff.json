@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/quarylabs/sqruff/releases/download/v0.40.0/sqruff-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/quarylabs/sqruff/releases/download/v0.40.0/sqruff-windows-x86_64.zip",
             "hash": "f60f5d2f98c6b170d319cda71e53379653bc4dfa2ef5ded1551e57fe918782fa"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/quarylabs/sqruff/releases/download/v$version/sqruff-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/quarylabs/sqruff/releases/download/v$version/sqruff-windows-x86_64.zip",
                 "hash": {
                     "url": "$url.sha256"
                 }

@@ -9,7 +9,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/janhq/jan/releases/download/v0.8.4/Jan_0.8.4_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/janhq/jan/releases/download/v0.8.4/Jan_0.8.4_x64-setup.exe#/dl.7z",
             "hash": "59f2712ff579208c7e50df1d4408675418ca576421998549f787879372ec50b1"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/janhq/jan/releases/download/v$version/Jan_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/janhq/jan/releases/download/v$version/Jan_$version_x64-setup.exe#/dl.7z"
             }
         }
     }

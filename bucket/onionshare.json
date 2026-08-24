@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/onionshare/onionshare/releases/download/v2.6.5/OnionShare-win64-2.6.5.msi",
+            "url": "https://gh-proxy.org/https://github.com/onionshare/onionshare/releases/download/v2.6.5/OnionShare-win64-2.6.5.msi",
             "hash": "a33a29ae7bfea1b3633303272f42177f7fc9808dbbd21270ea48befecb69f67b"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/onionshare/onionshare/releases/download/v$version/OnionShare-win64-$version.msi"
+                "url": "https://gh-proxy.org/https://github.com/onionshare/onionshare/releases/download/v$version/OnionShare-win64-$version.msi"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v2.3.0/validator-v2.3-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v2.3.0/validator-v2.3-windows-amd64.zip",
             "hash": "69e5dde23c034bdc5a938a133bcb8baae5652bbeb88f6d52c2aa7ca0738638ec"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v2.3.0/validator-v2.3-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v2.3.0/validator-v2.3-windows-386.zip",
             "hash": "cc737794f4fa5f93843ef8b9d925c2f1b2f2088c0a97ca811b2c0bff2459525e"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v$version/validator-v$majorVersion.$minorVersion-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v$version/validator-v$majorVersion.$minorVersion-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v$version/validator-v$majorVersion.$minorVersion-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/Boeing/config-file-validator/releases/download/v$version/validator-v$majorVersion.$minorVersion-windows-386.zip"
             }
         },
         "hash": {

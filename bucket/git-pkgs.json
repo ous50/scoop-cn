@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v0.19.0/git-pkgs_0.19.0_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v0.19.0/git-pkgs_0.19.0_windows_amd64.tar.gz",
             "hash": "2a5c36a1addc00708f4648d03129efd2936acf4f08b5307ff6a6012fc71cc688"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v0.19.0/git-pkgs_0.19.0_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v0.19.0/git-pkgs_0.19.0_windows_arm64.tar.gz",
             "hash": "293acc79cbf1c71012ec189a83eeaa809bda9a8e24455a9344f1b3123e9dec60"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v$version/git-pkgs_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v$version/git-pkgs_$version_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v$version/git-pkgs_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/git-pkgs/git-pkgs/releases/download/v$version/git-pkgs_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

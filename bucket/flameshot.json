@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/flameshot-org/flameshot/releases/download/v14.0.0/flameshot-14.0.0-win64.zip",
             "hash": "4dca8914d79e759902cc7d2621b6554636c62748d1ae7f554f15d9ddd3bb4632",
             "extract_dir": "flameshot-14.0.0-win64"
         }
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/flameshot-org/flameshot/releases/download/v$version/flameshot-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/flameshot-org/flameshot/releases/download/v$version/flameshot-$version-win64.zip",
                 "extract_dir": "flameshot-$version-win64"
             }
         },

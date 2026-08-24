@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_amd64.zip",
             "hash": "1f89f21d20f525b2b0c80630c6edcc691e3dbcb84073bc7ae8902f8a98f4116d"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v3.11.0/vultr-cli_v3.11.0_windows_arm64.zip",
             "hash": "180bfd325c13e4c4fe8acfabc1971b5e0f16a0a1121b1d3820346692a14f7256"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v$version/vultr-cli_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v$version/vultr-cli_v$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v$version/vultr-cli_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/vultr/vultr-cli/releases/download/v$version/vultr-cli_v$version_windows_arm64.zip"
             }
         },
         "hash": {

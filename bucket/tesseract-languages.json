@@ -12,8 +12,8 @@
     ],
     "depends": "scoop-cn/tesseract",
     "url": [
-        "https://v6.gh-proxy.org/https://github.com/tesseract-ocr/tessdata_fast/archive/4.1.0.zip#/dl.7z_",
-        "https://v6.gh-proxy.org/https://raw.githubusercontent.com/USCDataScience/counterfeit-electronics-tesseract/319a6eeacff181dad5c02f3e7a3aff804eaadeca/Training%20Tesseract/snum.traineddata"
+        "https://gh-proxy.org/https://github.com/tesseract-ocr/tessdata_fast/archive/4.1.0.zip#/dl.7z_",
+        "https://gh-proxy.org/https://raw.githubusercontent.com/USCDataScience/counterfeit-electronics-tesseract/319a6eeacff181dad5c02f3e7a3aff804eaadeca/Training%20Tesseract/snum.traineddata"
     ],
     "hash": [
         "46ae18d17bd9583392ae7c047b751846233d4e030264a551e71ff4f25e035548",
@@ -28,7 +28,7 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/tesseract-ocr/tessdata_fast/archive/$version.zip#/dl.7z_"
+        "url": "https://gh-proxy.org/https://github.com/tesseract-ocr/tessdata_fast/archive/$version.zip#/dl.7z_"
     }
 }
 

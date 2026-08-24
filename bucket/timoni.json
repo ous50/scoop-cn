@@ -6,7 +6,7 @@
     "depends": "scoop-cn/cue",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/stefanprodan/timoni/releases/download/v0.33.0/timoni_0.33.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/stefanprodan/timoni/releases/download/v0.33.0/timoni_0.33.0_windows_amd64.zip",
             "hash": "be295167e1b85c18b3fc027ec064e2646b60526b244e1533e2c13ba95479a16e"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/stefanprodan/timoni/releases/download/v$version/timoni_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/stefanprodan/timoni/releases/download/v$version/timoni_$version_windows_amd64.zip"
             }
         },
         "hash": {

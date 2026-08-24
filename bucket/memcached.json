@@ -5,7 +5,7 @@
     "homepage": "https://memcached.org",
     "license": "BSD-3-Clause",
     "notes": "This package does not require Cygwin to run (all dependencies are included).",
-    "url": "https://v6.gh-proxy.org/https://github.com/nono303/memcached/archive/1.6.45.zip",
+    "url": "https://gh-proxy.org/https://github.com/nono303/memcached/archive/1.6.45.zip",
     "hash": "b15c03ad74dd13cae869f4abf3fe5ea3038deb8b5a7f8592622773fff0193926",
     "architecture": {
         "64bit": {
@@ -21,7 +21,7 @@
         "regex": "/archive/refs/tags/([\\d.]+).zip"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/nono303/memcached/archive/$version.zip",
+        "url": "https://gh-proxy.org/https://github.com/nono303/memcached/archive/$version.zip",
         "architecture": {
             "64bit": {
                 "extract_dir": "memcached-$version\\libevent-2.1\\x64"

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/jmacd/xdelta/releases/download/v3.2.0/xdelta3-3.2.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jmacd/xdelta/releases/download/v3.2.0/xdelta3-3.2.0-windows-x86_64.zip",
             "hash": "af8ef036cb077a48df080c9a8ac1be4a6e7511c32d11f8bec89b6803a9e52576",
             "extract_dir": "xdelta3-3.2.0-windows-x86_64"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/jmacd/xdelta/releases/download/v$version/xdelta3-$version-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/jmacd/xdelta/releases/download/v$version/xdelta3-$version-windows-x86_64.zip",
                 "extract_dir": "xdelta3-$version-windows-x86_64"
             }
         }

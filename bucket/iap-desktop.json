@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.50.1825/IapDesktop.msi",
+            "url": "https://gh-proxy.org/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.50.1825/IapDesktop.msi",
             "hash": "186699a670fe33c226324dc3925dc3bf10926d259bd9cd8f6836a7d37fe55c41"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/$version/IapDesktop.msi"
+                "url": "https://gh-proxy.org/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/$version/IapDesktop.msi"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/gnomeria/usbtree/releases/download/v0.1.1/usbtree_0.1.1_windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/gnomeria/usbtree/releases/download/v0.1.1/usbtree_0.1.1_windows-amd64.zip",
             "hash": "2d315b069fc3bf51a11911a2d4b44be0f4f48e3b5f9e10f47c7109a45b182e4d"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/gnomeria/usbtree/releases/download/v$version/usbtree_$version_windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/gnomeria/usbtree/releases/download/v$version/usbtree_$version_windows-amd64.zip",
                 "hash": {
                     "url": "$baseurl/checksums.txt",
                     "regex": "$sha256\\s+$basename"

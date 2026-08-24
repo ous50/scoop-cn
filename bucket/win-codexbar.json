@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/nesszer/Win-CodexBar/releases/download/v0.54.0/CodexBar-0.54.0-portable.exe#/CodexBar.exe",
+            "url": "https://gh-proxy.org/https://github.com/nesszer/Win-CodexBar/releases/download/v0.54.0/CodexBar-0.54.0-portable.exe#/CodexBar.exe",
             "hash": "ebc096a2c82820e4f9d96ac8190b59581f12425c371e61f66acdf475c792df6d"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/nesszer/Win-CodexBar/releases/download/v$version/CodexBar-$version-portable.exe#/CodexBar.exe"
+                "url": "https://gh-proxy.org/https://github.com/nesszer/Win-CodexBar/releases/download/v$version/CodexBar-$version-portable.exe#/CodexBar.exe"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/tagspaces/tagspaces/releases/download/v6.13.12/tagspaces-win-x64-6.13.12.zip",
+            "url": "https://gh-proxy.org/https://github.com/tagspaces/tagspaces/releases/download/v6.13.12/tagspaces-win-x64-6.13.12.zip",
             "hash": "4f3d0f7d7f675debfbfd72b3427b67e7f484238db96521df0d8efcba93c21cb1"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/tagspaces/tagspaces/releases/download/v$version/tagspaces-win-x64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/tagspaces/tagspaces/releases/download/v$version/tagspaces-win-x64-$version.zip"
             }
         },
         "hash": {

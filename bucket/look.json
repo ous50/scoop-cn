@@ -12,7 +12,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kunkka19xx/look/releases/download/v0.6.11/Look_0.6.11_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/kunkka19xx/look/releases/download/v0.6.11/Look_0.6.11_x64-setup.exe#/dl.7z",
             "hash": "e8ab3218f4c4fb2fb8040e5b09961d592526a70c17065ac1d4d1ddb610aa8274"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kunkka19xx/look/releases/download/v$version/Look_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/kunkka19xx/look/releases/download/v$version/Look_$version_x64-setup.exe#/dl.7z"
             }
         },
         "hash": {

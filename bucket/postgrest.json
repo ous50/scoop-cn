@@ -9,7 +9,7 @@
     "depends": "scoop-cn/psqlodbc",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/PostgREST/postgrest/releases/download/v16.2/postgrest-v16.2-windows-x86-64.zip",
+            "url": "https://gh-proxy.org/https://github.com/PostgREST/postgrest/releases/download/v16.2/postgrest-v16.2-windows-x86-64.zip",
             "hash": "f27c3fd12bb6f3a2ff6f7b3283d4fe63ef2a74f718c030cdd387f768ceb15ab9"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/PostgREST/postgrest/releases/download/v$version/postgrest-v$version-windows-x86-64.zip"
+                "url": "https://gh-proxy.org/https://github.com/PostgREST/postgrest/releases/download/v$version/postgrest-v$version-windows-x86-64.zip"
             }
         }
     }

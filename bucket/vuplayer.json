@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v4.24/VUPlayer4_64bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v4.24/VUPlayer4_64bit.zip",
             "hash": "8ae20963d1963a43b8f37f18e267d8c1aaf4a2bf23f4c86fd7b494ea1e4f3d26"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v4.24/VUPlayer4_32bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v4.24/VUPlayer4_32bit.zip",
             "hash": "fba6b70d1cb827691ae61c8a6dbf4016f86e42278079d8a1bdf65d4e981b0f14"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v$version/VUPlayer$majorVersion_64bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v$version/VUPlayer$majorVersion_64bit.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v$version/VUPlayer$majorVersion_32bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/jfchapman/VUPlayer/releases/download/v$version/VUPlayer$majorVersion_32bit.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mullvad/mullvad-browser/releases/download/15.0.20/mullvad-browser-windows-x86_64-15.0.20.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/mullvad/mullvad-browser/releases/download/15.0.20/mullvad-browser-windows-x86_64-15.0.20.exe#/dl.7z",
             "hash": "7eb168be0eb88a5517e8a80e162d6d90205c65472604e7c634036e473b83d193"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mullvad/mullvad-browser/releases/download/$version/mullvad-browser-windows-x86_64-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/mullvad/mullvad-browser/releases/download/$version/mullvad-browser-windows-x86_64-$version.exe#/dl.7z"
             }
         }
     }

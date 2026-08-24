@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-win-x64-1.18.1.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/session-foundation/session-desktop/releases/download/v1.18.1/session-desktop-win-x64-1.18.1.exe#/dl.7z",
             "hash": "sha512:685f4dca2c17a748da4c8b5e3d6d5034c4c33a513328a1fbd33b0e38fd3685cbcdc9839bcfa0e524c1489e9634b818a784574b25d57741f343c2e9a75462fda9",
             "installer": {
                 "script": [
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/session-foundation/session-desktop/releases/download/v$version/session-desktop-win-x64-$version.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/session-foundation/session-desktop/releases/download/v$version/session-desktop-win-x64-$version.exe#/dl.7z"
             }
         },
         "hash": {

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-windows-x64-msvc-20.0.1.7z",
+            "url": "https://gh-proxy.org/https://github.com/qt-creator/qt-creator/releases/download/v20.0.1/qtcreator-windows-x64-msvc-20.0.1.7z",
             "hash": "a3ef315c6cb00c8787dbfb82823df29215b190bbe24aff60b59ba23cc6c400e6"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/qt-creator/qt-creator/releases/download/v$version/qtcreator-windows-x64-msvc-$version.7z"
+                "url": "https://gh-proxy.org/https://github.com/qt-creator/qt-creator/releases/download/v$version/qtcreator-windows-x64-msvc-$version.7z"
             }
         }
     }

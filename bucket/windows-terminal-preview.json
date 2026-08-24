@@ -6,15 +6,15 @@
     "notes": "Add Windows Terminal Preview as a context menu option by running `reg import \"$dir\\install-context.reg\"`",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.1912.0/Microsoft.WindowsTerminalPreview_1.25.1912.0_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.1912.0/Microsoft.WindowsTerminalPreview_1.25.1912.0_x64.zip",
             "hash": "51802da7c02a462937edd2702711025aaf18d7c22c064723817f2bda6a67b375"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.1912.0/Microsoft.WindowsTerminalPreview_1.25.1912.0_x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.1912.0/Microsoft.WindowsTerminalPreview_1.25.1912.0_x86.zip",
             "hash": "b20e3d5642ac390951468266d925022d38334ef846eee0f4963b3c8440b66b8e"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.1912.0/Microsoft.WindowsTerminalPreview_1.25.1912.0_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v1.25.1912.0/Microsoft.WindowsTerminalPreview_1.25.1912.0_arm64.zip",
             "hash": "1cc1055cf260f362c95034b5e14884297916a75df659b5d52a48a66b150357c8"
         }
     },
@@ -75,13 +75,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminalPreview_$version_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminalPreview_$version_x64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminalPreview_$version_x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminalPreview_$version_x86.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminalPreview_$version_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminalPreview_$version_arm64.zip"
             }
         },
         "hash": {

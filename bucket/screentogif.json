@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x64.zip",
             "hash": "42a0b53d67ecae22698b4881ffb2c9c7a9049663f5fbdd2edb779e1971000664"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x86.zip",
             "hash": "f378cd84065fa5f24af266213bfb5dad66e661374967586b8374203b970b445e"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.Arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.Arm64.zip",
             "hash": "ab92de243ebb18a7571cc7d2ae518339bfe022af0d2f09c044c53ccfb9a65cc2"
         }
     },
@@ -44,13 +44,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.x86.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.Arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/NickeManarin/ScreenToGif/releases/download/$version/ScreenToGif.$version.Portable.Arm64.zip"
             }
         }
     }

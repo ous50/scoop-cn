@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v2.61.0/scaleway-cli_2.61.0_windows_amd64.exe#/scw.exe",
+            "url": "https://gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v2.61.0/scaleway-cli_2.61.0_windows_amd64.exe#/scw.exe",
             "hash": "f27cb08084f27992b3abada63c3c3b6d82390464a341f1ee797ab0d350ea6093"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v2.61.0/scaleway-cli_2.61.0_windows_386.exe#/scw.exe",
+            "url": "https://gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v2.61.0/scaleway-cli_2.61.0_windows_386.exe#/scw.exe",
             "hash": "99a41deba10b416286993d7f9dcfd4572e3083ac34e0348453d7651c2beef518"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v$version/scaleway-cli_$version_windows_amd64.exe#/scw.exe"
+                "url": "https://gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v$version/scaleway-cli_$version_windows_amd64.exe#/scw.exe"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v$version/scaleway-cli_$version_windows_386.exe#/scw.exe"
+                "url": "https://gh-proxy.org/https://github.com/scaleway/scaleway-cli/releases/download/v$version/scaleway-cli_$version_windows_386.exe#/scw.exe"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-amd64.zip",
             "hash": "e3f56102bcf4f50b034a567e2482a1c5330799983ddd655952310211aef73d93"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v0.8.0/kubeconform-windows-arm64.zip",
             "hash": "4f3c9889f5f3a1e4aba84f9212f599ad3164d1fb32175fba3a53b505b0fffd0f"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v$version/kubeconform-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v$version/kubeconform-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v$version/kubeconform-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/yannh/kubeconform/releases/download/v$version/kubeconform-windows-arm64.zip"
             }
         },
         "hash": {

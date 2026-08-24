@@ -11,11 +11,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v0.6.12/bencher-v0.6.12-windows-x86-64.exe#/bencher.exe",
+            "url": "https://gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v0.6.12/bencher-v0.6.12-windows-x86-64.exe#/bencher.exe",
             "hash": "cce5bc01dcbdd00d8ce6739ca73a1f1c167ba949900c1445d101edec2c69f6aa"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v0.6.12/bencher-v0.6.12-windows-arm-64.exe#/bencher.exe",
+            "url": "https://gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v0.6.12/bencher-v0.6.12-windows-arm-64.exe#/bencher.exe",
             "hash": "e5691b19cf9ac7494e31d2ff4172a95ca3407cb9bea4d95f3a47302501239517"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v$version/bencher-v$version-windows-x86-64.exe#/bencher.exe"
+                "url": "https://gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v$version/bencher-v$version-windows-x86-64.exe#/bencher.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v$version/bencher-v$version-windows-arm-64.exe#/bencher.exe"
+                "url": "https://gh-proxy.org/https://github.com/bencherdev/bencher/releases/download/v$version/bencher-v$version-windows-arm-64.exe#/bencher.exe"
             }
         },
         "hash": {

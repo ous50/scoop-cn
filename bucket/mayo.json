@@ -5,7 +5,7 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/fougue/mayo/releases/download/v0.10.0/Mayo-0.10.0-win64-binaries.zip",
+            "url": "https://gh-proxy.org/https://github.com/fougue/mayo/releases/download/v0.10.0/Mayo-0.10.0-win64-binaries.zip",
             "hash": "4cd2df02e0d5b113873515b0e222e9944629d432fe731537204a119c3b6d74b2",
             "extract_dir": "Mayo-0.10.0-win64-binaries"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/fougue/mayo/releases/download/v$version/Mayo-$version-win64-binaries.zip",
+                "url": "https://gh-proxy.org/https://github.com/fougue/mayo/releases/download/v$version/Mayo-$version-win64-binaries.zip",
                 "extract_dir": "Mayo-$version-win64-binaries"
             }
         },

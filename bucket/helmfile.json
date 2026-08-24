@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v1.7.4/helmfile_1.7.4_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v1.7.4/helmfile_1.7.4_windows_amd64.tar.gz",
             "hash": "f1637850f5d5c311bbadea2f99afec9ab6d4999eeba225c1d787b09ae077bd73"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v1.7.4/helmfile_1.7.4_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v1.7.4/helmfile_1.7.4_windows_386.tar.gz",
             "hash": "c1969ed6f305b298e1652fed19c89ccb932b36deca7be5ed1b266c515a1e8f6b"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v1.7.4/helmfile_1.7.4_windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v1.7.4/helmfile_1.7.4_windows_arm64.tar.gz",
             "hash": "3b5dbd5508e248a78bf530f3df0f2da5f3d61e87eb049f389c8eb121157a0642"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_386.tar.gz"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

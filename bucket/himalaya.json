@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-windows.tgz",
+            "url": "https://gh-proxy.org/https://github.com/pimalaya/himalaya/releases/download/v2.1.0/himalaya.x86_64-windows.tgz",
             "hash": "61f1a797cbf6ed3502d18986cd1205b18e2ba06b39002af745e62cde1e46cf81"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pimalaya/himalaya/releases/download/v$version/himalaya.x86_64-windows.tgz"
+                "url": "https://gh-proxy.org/https://github.com/pimalaya/himalaya/releases/download/v$version/himalaya.x86_64-windows.tgz"
             }
         }
     }

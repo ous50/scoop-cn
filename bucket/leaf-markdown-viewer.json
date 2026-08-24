@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/RivoLink/leaf/releases/download/1.28.0/leaf-windows-x86_64.exe#/leaf.exe",
+            "url": "https://gh-proxy.org/https://github.com/RivoLink/leaf/releases/download/1.28.0/leaf-windows-x86_64.exe#/leaf.exe",
             "hash": "32db587c6861622fed9d6d8c040de098fce1fa4b29c1a3c719a82edf76e8eef7"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/RivoLink/leaf/releases/download/$version/leaf-windows-x86_64.exe#/leaf.exe"
+                "url": "https://gh-proxy.org/https://github.com/RivoLink/leaf/releases/download/$version/leaf-windows-x86_64.exe#/leaf.exe"
             }
         }
     }

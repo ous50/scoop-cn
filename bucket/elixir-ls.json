@@ -6,7 +6,7 @@
     "suggest": {
         "Elixir language": "elixir"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/elixir-lsp/elixir-ls/releases/download/v0.31.1/elixir-ls-v0.31.1.zip",
+    "url": "https://gh-proxy.org/https://github.com/elixir-lsp/elixir-ls/releases/download/v0.31.1/elixir-ls-v0.31.1.zip",
     "hash": "bac08322ea3698157eb2373bb5b65e38c15df9dd41e1c06f142f874367fa472f",
     "bin": [
         [
@@ -18,7 +18,7 @@
         "github": "https://github.com/elixir-lsp/elixir-ls"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/elixir-lsp/elixir-ls/releases/download/v$version/elixir-ls-v$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/elixir-lsp/elixir-ls/releases/download/v$version/elixir-ls-v$version.zip"
     }
 }
 

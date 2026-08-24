@@ -5,15 +5,15 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_x86_64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_x86_64.tar.gz",
             "hash": "f70b0c9ea1874e81358a1886d478ebee9eb17d4f07e8dcaa779c4250a2aaea70"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_i386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_i386.tar.gz",
             "hash": "cbea0cabd907edb9d6e306d1081e3670c09c39e79ed61faa4a982b06ccbdab65"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_arm64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/ko-build/ko/releases/download/v0.19.1/ko_0.19.1_Windows_arm64.tar.gz",
             "hash": "7fd21854bc3bdab2f71e4927cc8e39c60bdaf99992fd4442bfee0fe84025feed"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ko-build/ko/releases/download/v$version/ko_$version_Windows_x86_64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/ko-build/ko/releases/download/v$version/ko_$version_Windows_x86_64.tar.gz"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ko-build/ko/releases/download/v$version/ko_$version_Windows_i386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/ko-build/ko/releases/download/v$version/ko_$version_Windows_i386.tar.gz"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ko-build/ko/releases/download/v$version/ko_$version_Windows_arm64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/ko-build/ko/releases/download/v$version/ko_$version_Windows_arm64.tar.gz"
             }
         },
         "hash": {

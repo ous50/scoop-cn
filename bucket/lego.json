@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/go-acme/lego/releases/download/v5.4.0/lego_v5.4.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-acme/lego/releases/download/v5.4.0/lego_v5.4.0_windows_amd64.zip",
             "hash": "d8d7a612d5776ee77f4aba219a732e5b2bca1ecd208f3e3aaa21a4b21ca1bd08"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/go-acme/lego/releases/download/v5.4.0/lego_v5.4.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-acme/lego/releases/download/v5.4.0/lego_v5.4.0_windows_386.zip",
             "hash": "d8ad62e3fd391d03d67419549675336f1859a788090c92ac9c0af76ed28ff54b"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/go-acme/lego/releases/download/v5.4.0/lego_v5.4.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/go-acme/lego/releases/download/v5.4.0/lego_v5.4.0_windows_arm64.zip",
             "hash": "7096ecdc5a81703d0bc51101eec2d07d17e5f49aed7b04d633ffa5bfe9e92fde"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/go-acme/lego/releases/download/v$version/lego_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-acme/lego/releases/download/v$version/lego_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/go-acme/lego/releases/download/v$version/lego_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-acme/lego/releases/download/v$version/lego_v$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/go-acme/lego/releases/download/v$version/lego_v$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/go-acme/lego/releases/download/v$version/lego_v$version_windows_arm64.zip"
             }
         },
         "hash": {

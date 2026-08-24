@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.3.2/RClone.Manager_0.3.2_x64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.3.2/RClone.Manager_0.3.2_x64-setup.exe#/dl.7z",
             "hash": "1ad973ea479d9cd97fb19609e5b73bb5ae9ba035252da0932c9473fba44ec4e1"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.3.2/RClone.Manager_0.3.2_arm64-setup.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v0.3.2/RClone.Manager_0.3.2_arm64-setup.exe#/dl.7z",
             "hash": "b3cc3ab2eb86e14c48d06d3c8b37dc18c78545e90f70f48026822f4594ba9a99"
         }
     },
@@ -35,10 +35,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v$version/RClone.Manager_$version_x64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v$version/RClone.Manager_$version_x64-setup.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v$version/RClone.Manager_$version_arm64-setup.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/Zarestia-Dev/rclone-manager/releases/download/v$version/RClone.Manager_$version_arm64-setup.exe#/dl.7z"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/fnproject/cli/releases/download/0.6.63/fn.exe",
+            "url": "https://gh-proxy.org/https://github.com/fnproject/cli/releases/download/0.6.63/fn.exe",
             "hash": "1d6a90f853fc86e56d3be3f1f960ae8fb2c0e888ff61de1b40527f27352b4092"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/fnproject/cli/releases/download/$version/fn.exe"
+                "url": "https://gh-proxy.org/https://github.com/fnproject/cli/releases/download/$version/fn.exe"
             }
         }
     }

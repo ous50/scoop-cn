@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v2.18.0/goreleaser_Windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v2.18.0/goreleaser_Windows_x86_64.zip",
             "hash": "cbd0aeab833806b6c07e2d156c2c9baaffa6e3d1fb870071bf3efc9d9e5b4777"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v2.18.0/goreleaser_Windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v2.18.0/goreleaser_Windows_i386.zip",
             "hash": "68c2e2ceab40952a085817105060e65d71d82c1b372631d071454d06326ead90"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v2.18.0/goreleaser_Windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v2.18.0/goreleaser_Windows_arm64.zip",
             "hash": "43647ce4e0fbc624d39dd095e0ed5bf55a11978ea58a74a91630fb26eea88511"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_arm64.zip"
             }
         },
         "hash": {

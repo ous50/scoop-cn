@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/cli/cli/releases/download/v2.98.0/gh_2.98.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cli/cli/releases/download/v2.98.0/gh_2.98.0_windows_amd64.zip",
             "hash": "c28c7b3b584967a05b74d9eaf7481bff24ddc34930bf2d6e442c148236561eb1"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/cli/cli/releases/download/v2.98.0/gh_2.98.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/cli/cli/releases/download/v2.98.0/gh_2.98.0_windows_386.zip",
             "hash": "41b400eb1e395387d58e78f1a881469e71eed6e6f6eaacc83d25e2fc83fa83a5"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/cli/cli/releases/download/v2.98.0/gh_2.98.0_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cli/cli/releases/download/v2.98.0/gh_2.98.0_windows_arm64.zip",
             "hash": "79e53db4e50b5c9594890a1c4d9dc941f6d19f7c3ca6d1f50982eda624607b9b"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
             }
         },
         "hash": {

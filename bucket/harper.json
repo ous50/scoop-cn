@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://v6.gh-proxy.org/https://github.com/Automattic/harper/releases/download/v2.8.0/harper-ls-x86_64-pc-windows-msvc.zip",
-                "https://v6.gh-proxy.org/https://github.com/Automattic/harper/releases/download/v2.8.0/harper-cli-x86_64-pc-windows-msvc.zip"
+                "https://gh-proxy.org/https://github.com/Automattic/harper/releases/download/v2.8.0/harper-ls-x86_64-pc-windows-msvc.zip",
+                "https://gh-proxy.org/https://github.com/Automattic/harper/releases/download/v2.8.0/harper-cli-x86_64-pc-windows-msvc.zip"
             ],
             "hash": [
                 "4d9f96893e329a3b9577754665701597bee3a92e9b7ea2cc048db2e324c46472",
@@ -26,8 +26,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://v6.gh-proxy.org/https://github.com/Automattic/harper/releases/download/v$version/harper-ls-x86_64-pc-windows-msvc.zip",
-                    "https://v6.gh-proxy.org/https://github.com/Automattic/harper/releases/download/v$version/harper-cli-x86_64-pc-windows-msvc.zip"
+                    "https://gh-proxy.org/https://github.com/Automattic/harper/releases/download/v$version/harper-ls-x86_64-pc-windows-msvc.zip",
+                    "https://gh-proxy.org/https://github.com/Automattic/harper/releases/download/v$version/harper-cli-x86_64-pc-windows-msvc.zip"
                 ]
             }
         }

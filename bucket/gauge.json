@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v1.6.36/gauge-1.6.36-windows.x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v1.6.36/gauge-1.6.36-windows.x86_64.zip",
             "hash": "79b989a6bab94c098e4bdabb85ba47da1ab79d79f81d0c92b0e69496b1b8a6c0"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v1.6.36/gauge-1.6.36-windows.x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v1.6.36/gauge-1.6.36-windows.x86.zip",
             "hash": "0b66f88d1d5834d1fc007d93b7c965061948b05453eebba85cb4e52a7d4425f5"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v$version/gauge-$version-windows.x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v$version/gauge-$version-windows.x86_64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v$version/gauge-$version-windows.x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/getgauge/gauge/releases/download/v$version/gauge-$version-windows.x86.zip"
             }
         }
     }

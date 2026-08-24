@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/dagger/dagger/releases/download/v0.21.8/dagger_v0.21.8_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/dagger/dagger/releases/download/v0.21.8/dagger_v0.21.8_windows_amd64.zip",
             "hash": "7452d17f7f6b01d409fe27b8fd1655162b5b4d2cd531c704f2373e62eba512d5"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/dagger/dagger/releases/download/v$version/dagger_v$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/dagger/dagger/releases/download/v$version/dagger_v$version_windows_amd64.zip",
                 "hash": {
                     "url": "$baseurl/checksums.txt"
                 }

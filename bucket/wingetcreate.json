@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/winget-create/releases/download/v1.12.13.0/wingetcreate.exe",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/winget-create/releases/download/v1.12.13.0/wingetcreate.exe",
             "hash": "24042bd37915805615e6cf969ac57c6439124c3fe85823327f5f3fb24bd9ffea"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/microsoft/winget-create/releases/download/v$version/wingetcreate.exe"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/winget-create/releases/download/v$version/wingetcreate.exe"
             }
         }
     }

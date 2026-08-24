@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v8.18.4/cf8-cli_8.18.4_winx64.zip",
+            "url": "https://gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v8.18.4/cf8-cli_8.18.4_winx64.zip",
             "hash": "d367dacf4f5bd3a82e88ff86e8f3e47edd1648f3b79762cd3f119ab5c1135861"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v8.18.4/cf8-cli_8.18.4_win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v8.18.4/cf8-cli_8.18.4_win32.zip",
             "hash": "eebdf36095dd320c542e178bb97106346956b1895365da4714dd6ee0b57f1ddf"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v$version/cf8-cli_$version_winx64.zip"
+                "url": "https://gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v$version/cf8-cli_$version_winx64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v$version/cf8-cli_$version_win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/cloudfoundry/cli/releases/download/v$version/cf8-cli_$version_win32.zip"
             }
         }
     }

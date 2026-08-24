@@ -4,7 +4,7 @@
     "homepage": "https://laragon.org/",
     "license": "MIT",
     "innosetup": true,
-    "url": "https://v6.gh-proxy.org/https://github.com/leokhoa/laragon/releases/download/8.7.0/laragon-wamp.exe",
+    "url": "https://gh-proxy.org/https://github.com/leokhoa/laragon/releases/download/8.7.0/laragon-wamp.exe",
     "hash": "92e2eb7bd2f0de4c458d9ddf53bb957aed98d21f679c3e35c7eed7bbf03a42a3",
     "shortcuts": [
         [
@@ -22,7 +22,7 @@
         "github": "https://github.com/leokhoa/laragon"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/leokhoa/laragon/releases/download/$version/laragon-wamp.exe"
+        "url": "https://gh-proxy.org/https://github.com/leokhoa/laragon/releases/download/$version/laragon-wamp.exe"
     }
 }
 

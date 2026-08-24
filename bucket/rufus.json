@@ -5,15 +5,15 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe#/rufus.exe",
+            "url": "https://gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe#/rufus.exe",
             "hash": "84c8a437f8af89257524478489e5c85f1edf25f761d299e2bcde46ac0afbe106"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_x86.exe#/rufus.exe",
+            "url": "https://gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_x86.exe#/rufus.exe",
             "hash": "20e1345715aff4aebf016839f721390882201a2b5d00655424c4ca38cb919576"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_arm64.exe#/rufus.exe",
+            "url": "https://gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15_arm64.exe#/rufus.exe",
             "hash": "af01a2136db7391eb8a52de7001fd231f0731cd27e042318dc2743d87fa35c1c"
         }
     },
@@ -39,13 +39,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v$version/rufus-$version.exe#/rufus.exe"
+                "url": "https://gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v$version/rufus-$version.exe#/rufus.exe"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v$version/rufus-$version_x86.exe#/rufus.exe"
+                "url": "https://gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v$version/rufus-$version_x86.exe#/rufus.exe"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v$version/rufus-$version_arm64.exe#/rufus.exe"
+                "url": "https://gh-proxy.org/https://github.com/pbatard/rufus/releases/download/v$version/rufus-$version_arm64.exe#/rufus.exe"
             }
         }
     }

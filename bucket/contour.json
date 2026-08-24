@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/contour-terminal/contour/releases/download/v0.7.0.8982/contour-0.7.0.8982-win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/contour-terminal/contour/releases/download/v0.7.0.8982/contour-0.7.0.8982-win64.zip",
             "hash": "b7d948df6edaef74d76742727396e815403abf2a6a1efbea8638b165a335115e",
             "extract_dir": "Contour-0.7.0.8982-win64/bin"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/contour-terminal/contour/releases/download/v$version/contour-$version-win64.zip",
+                "url": "https://gh-proxy.org/https://github.com/contour-terminal/contour/releases/download/v$version/contour-$version-win64.zip",
                 "extract_dir": "Contour-$version-win64/bin"
             }
         }

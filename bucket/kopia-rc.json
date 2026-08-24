@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/kopia/kopia/releases/download/v0.23.1/kopia-0.23.1-windows-x64.zip",
             "hash": "f0369d9657dbe47a1b8b6ff4e308c5958a4813b405d4e32ae9d81b3f2b3d8251",
             "extract_dir": "kopia-0.23.1-windows-x64"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/kopia/kopia/releases/download/v$version/kopia-$version-windows-x64.zip",
+                "url": "https://gh-proxy.org/https://github.com/kopia/kopia/releases/download/v$version/kopia-$version-windows-x64.zip",
                 "extract_dir": "kopia-$version-windows-x64"
             }
         },

@@ -5,12 +5,12 @@
     "license": "zlib-acknowledgement",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/glfw/glfw/releases/download/3.5.1/glfw-3.5.1.bin.WIN64.zip",
+            "url": "https://gh-proxy.org/https://github.com/glfw/glfw/releases/download/3.5.1/glfw-3.5.1.bin.WIN64.zip",
             "hash": "34c6766043e09ad9c6e88b5636a5f34d1f2857aae828768c5bf2016dc8821a93",
             "extract_dir": "glfw-3.5.1.bin.WIN64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/glfw/glfw/releases/download/3.5.1/glfw-3.5.1.bin.WIN32.zip",
+            "url": "https://gh-proxy.org/https://github.com/glfw/glfw/releases/download/3.5.1/glfw-3.5.1.bin.WIN32.zip",
             "hash": "47ee7ce5307e11f8515a2bb2d6ace6d88ffd6dbcd614b87da21969261f3d0ffe",
             "extract_dir": "glfw-3.5.1.bin.WIN32"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/glfw/glfw/releases/download/$version/glfw-$version.bin.WIN64.zip",
+                "url": "https://gh-proxy.org/https://github.com/glfw/glfw/releases/download/$version/glfw-$version.bin.WIN64.zip",
                 "extract_dir": "glfw-$version.bin.WIN64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/glfw/glfw/releases/download/$version/glfw-$version.bin.WIN32.zip",
+                "url": "https://gh-proxy.org/https://github.com/glfw/glfw/releases/download/$version/glfw-$version.bin.WIN32.zip",
                 "extract_dir": "glfw-$version.bin.WIN32"
             }
         }

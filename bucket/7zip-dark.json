@@ -19,8 +19,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
-                "https://v6.gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v26.02-v0.70.0/7z26.02-v0.70.0-x64.zip#/patch.dl"
+                "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
+                "https://gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v26.02-v0.70.0/7z26.02-v0.70.0-x64.zip#/patch.dl"
             ],
             "hash": [
                 "db407a4f6d4999e5c7bc00ce8a882be94717b56e7fa68140fe3f12605d91643e",
@@ -34,8 +34,8 @@
         },
         "arm64": {
             "url": [
-                "https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602-arm64.exe",
-                "https://v6.gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v26.02-v0.70.0/7z26.02-v0.70.0-arm64.zip#/patch.dl"
+                "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/26.02/7z2602-arm64.exe",
+                "https://gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v26.02-v0.70.0/7z26.02-v0.70.0-arm64.zip#/patch.dl"
             ],
             "hash": [
                 "7c6fde79ed5e11b81c7bb6573b7962d3b6322aa5fce69c33ed19f672b55173ab",
@@ -44,7 +44,7 @@
             "pre_install": [
                 "$7zr = Join-Path $env:TMP '7zr.exe'",
                 "$7zVersion = $version -split '-' | Select-Object -First 1",
-                "Invoke-WebRequest -Uri \"https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/$7zVersion/7zr.exe\" -OutFile $7zr",
+                "Invoke-WebRequest -Uri \"https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/$7zVersion/7zr.exe\" -OutFile $7zr",
                 "$arm_exe = (Get-ChildItem \"$dir\\*-arm64.exe\").FullName",
                 "Invoke-ExternalCommand $7zr @('x', $arm_exe, \"-o$dir\", '-y') | Out-Null",
                 "Invoke-ExternalCommand \"$dir\\7z.exe\" @('x', \"$dir\\patch.dl\", \"-o$dir\", '-y') | Out-Null",
@@ -90,14 +90,14 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/$matchHead/7z$majorVersion$minorVersion-x64.msi",
-                    "https://v6.gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v$version/7z$version-x64.zip#/patch.dl"
+                    "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/$matchHead/7z$majorVersion$minorVersion-x64.msi",
+                    "https://gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v$version/7z$version-x64.zip#/patch.dl"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://v6.gh-proxy.org/https://github.com/ip7z/7zip/releases/download/$matchHead/7z$majorVersion$minorVersion-arm64.exe",
-                    "https://v6.gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v$version/7z$version-arm64.zip#/patch.dl"
+                    "https://gh-proxy.org/https://github.com/ip7z/7zip/releases/download/$matchHead/7z$majorVersion$minorVersion-arm64.exe",
+                    "https://gh-proxy.org/https://github.com/ozone10/7zip-Dark7zip/releases/download/v$version/7z$version-arm64.zip#/patch.dl"
                 ]
             }
         }

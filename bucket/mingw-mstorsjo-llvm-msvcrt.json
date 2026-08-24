@@ -5,12 +5,12 @@
     "license": "GPL-3.0-or-later,ZPL-2.1,Apache-2.0 WITH LLVM-exception,ISC",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/20260616/llvm-mingw-20260616-msvcrt-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/20260616/llvm-mingw-20260616-msvcrt-x86_64.zip",
             "hash": "744809646fdefe24a357399788d68fb07ecc65fa0be71baa2406793ce25c9813",
             "extract_dir": "llvm-mingw-20260616-msvcrt-x86_64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/20260616/llvm-mingw-20260616-msvcrt-i686.zip",
+            "url": "https://gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/20260616/llvm-mingw-20260616-msvcrt-i686.zip",
             "hash": "855eff663267f016973d40024135fa207ab395767d997b586aa47dd3e00c4375",
             "extract_dir": "llvm-mingw-20260616-msvcrt-i686"
         }
@@ -26,11 +26,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/$matchTime/llvm-mingw-$matchTime-msvcrt-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/$matchTime/llvm-mingw-$matchTime-msvcrt-x86_64.zip",
                 "extract_dir": "llvm-mingw-$matchTime-msvcrt-x86_64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/$matchTime/llvm-mingw-$matchTime-msvcrt-i686.zip",
+                "url": "https://gh-proxy.org/https://github.com/mstorsjo/llvm-mingw/releases/download/$matchTime/llvm-mingw-$matchTime-msvcrt-i686.zip",
                 "extract_dir": "llvm-mingw-$matchTime-msvcrt-i686"
             }
         }

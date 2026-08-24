@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-windows-amd64.msi",
+            "url": "https://gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-windows-amd64.msi",
             "hash": "21addcff6698124da6d1cf97e26e100ee17c294cecd1e20be2037d22cc030735"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-windows-arm64.msi",
+            "url": "https://gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v1.10.3/Freelens-1.10.3-windows-arm64.msi",
             "hash": "e69b4bc2d89db7b609be1f9fe14506cb42b25426998fe0ad3ddfd2d7b06eb51f"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v$version/Freelens-$version-windows-amd64.msi"
+                "url": "https://gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v$version/Freelens-$version-windows-amd64.msi"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v$version/Freelens-$version-windows-arm64.msi"
+                "url": "https://gh-proxy.org/https://github.com/freelensapp/freelens/releases/download/v$version/Freelens-$version-windows-arm64.msi"
             }
         },
         "hash": {

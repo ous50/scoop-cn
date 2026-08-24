@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-Windows-x86_64.exe#/hadolint.exe",
+            "url": "https://gh-proxy.org/https://github.com/hadolint/hadolint/releases/download/v2.15.1/hadolint-Windows-x86_64.exe#/hadolint.exe",
             "hash": "01d927294962b5387f9ead4f18679158452be4f17c765ad0bdffe5264b9c7b0a"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/hadolint/hadolint/releases/download/v$version/hadolint-Windows-x86_64.exe#/hadolint.exe"
+                "url": "https://gh-proxy.org/https://github.com/hadolint/hadolint/releases/download/v$version/hadolint-Windows-x86_64.exe#/hadolint.exe"
             }
         }
     }

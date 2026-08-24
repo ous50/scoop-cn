@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/effekseer/Effekseer/releases/download/1807/Effekseer1.80.7Win.zip",
+            "url": "https://gh-proxy.org/https://github.com/effekseer/Effekseer/releases/download/1807/Effekseer1.80.7Win.zip",
             "hash": "6f059b9cce3a79c5bfe3df9c970cfe62fd72acf130083c7b81832d90f8d1335f",
             "extract_dir": "Effekseer1.80.7Win"
         }
@@ -43,7 +43,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/effekseer/Effekseer/releases/download/$cleanVersion/Effekseer$versionWin.zip",
+                "url": "https://gh-proxy.org/https://github.com/effekseer/Effekseer/releases/download/$cleanVersion/Effekseer$versionWin.zip",
                 "extract_dir": "Effekseer$versionWin"
             }
         }

@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/TypesettingTools/Aegisub/releases/download/v3.5.0-beta/aegisub-3.5.0-beta-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/TypesettingTools/Aegisub/releases/download/v3.5.0-beta/aegisub-3.5.0-beta-portable.zip",
             "hash": "171abe39ea3ac59ed8551afc8cdf0bb33726b97a7212697bd4de4931a65f1856"
         }
     },
@@ -54,7 +54,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/TypesettingTools/Aegisub/releases/download/v$version/aegisub-$version-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/TypesettingTools/Aegisub/releases/download/v$version/aegisub-$version-portable.zip"
             }
         }
     }

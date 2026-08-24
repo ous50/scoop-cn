@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/RodZill4/godot-procedural-textures/releases/download/1.7/material_maker_1_7_windows.zip",
+            "url": "https://gh-proxy.org/https://github.com/RodZill4/godot-procedural-textures/releases/download/1.7/material_maker_1_7_windows.zip",
             "hash": "deb4416bc939861d48097a866a8b2bf0363c29ff64874f2e04478658ff900808"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/RodZill4/godot-procedural-textures/releases/download/$version/material_maker_$underscoreVersion_windows.zip"
+                "url": "https://gh-proxy.org/https://github.com/RodZill4/godot-procedural-textures/releases/download/$version/material_maker_$underscoreVersion_windows.zip"
             }
         },
         "extract_dir": "material_maker_$underscoreVersion_windows"

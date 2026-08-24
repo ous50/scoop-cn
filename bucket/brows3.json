@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rgcsekaraa/brows3/releases/download/app-v0.2.44/Brows3_0.2.44_x64-portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/rgcsekaraa/brows3/releases/download/app-v0.2.44/Brows3_0.2.44_x64-portable.zip",
             "hash": "c2a6ed64ffa404a0341078c8b3b93582653730bbc026d71f6d57347250df8285",
             "extract_dir": "src-tauri\\target\\release\\bundle\\portable\\Brows3_0.2.44_x64-portable"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rgcsekaraa/brows3/releases/download/app-v$version/Brows3_$version_x64-portable.zip",
+                "url": "https://gh-proxy.org/https://github.com/rgcsekaraa/brows3/releases/download/app-v$version/Brows3_$version_x64-portable.zip",
                 "extract_dir": "src-tauri\\target\\release\\bundle\\portable\\Brows3_$version_x64-portable"
             }
         }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/staxrip/staxrip/releases/download/v2.52.5/StaxRip-v2.52.5-x64.7z",
+            "url": "https://gh-proxy.org/https://github.com/staxrip/staxrip/releases/download/v2.52.5/StaxRip-v2.52.5-x64.7z",
             "hash": "3ced91af31743d6e6611c700c265066bd85cb6954c251bd3dc218209299dcdd0",
             "extract_dir": "StaxRip-v2.52.5-x64"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/staxrip/staxrip/releases/download/v$version/StaxRip-v$version-x64.7z",
+                "url": "https://gh-proxy.org/https://github.com/staxrip/staxrip/releases/download/v$version/StaxRip-v$version-x64.7z",
                 "extract_dir": "StaxRip-v$version-x64"
             }
         }

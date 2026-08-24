@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v1.31.0/mailpit-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v1.31.0/mailpit-windows-amd64.zip",
             "hash": "39b5f1b9a671a5f1738e3792e8495bef2fec8176b02ee1e22635626c5888c6e3"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v1.31.0/mailpit-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v1.31.0/mailpit-windows-arm64.zip",
             "hash": "af0013c31253befb73dd1974891d37921de6454563d83074d27d443c40f2f0ce"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-arm64.zip"
             }
         }
     }

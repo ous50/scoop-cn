@@ -5,11 +5,11 @@
     "license": "ISC",
     "architecture": {
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v1.1.3/wireproxy_windows_386.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v1.1.3/wireproxy_windows_386.tar.gz",
             "hash": "512bd0b724ef50125f00b6d7e978009caa359066ab7f777ae473f734278f326e"
         },
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v1.1.3/wireproxy_windows_amd64.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v1.1.3/wireproxy_windows_amd64.tar.gz",
             "hash": "bce041ea9fe0f8a3351301dcbe29cdf6a523bb25cf9c62f17ebb5699a8051d0f"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v$version/wireproxy_windows_386.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v$version/wireproxy_windows_386.tar.gz"
             },
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v$version/wireproxy_windows_amd64.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/windtf/wireproxy/releases/download/v$version/wireproxy_windows_amd64.tar.gz"
             }
         },
         "hash": {

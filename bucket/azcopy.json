@@ -8,17 +8,17 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_windows_386_10.32.7.zip#/dl.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_windows_386_10.32.7.zip#/dl.zip",
             "hash": "447300b59f49e9ac211f23b2580dcb839a698c08f421be21a2ebd12f939d157a",
             "extract_dir": "azcopy_windows_386_10.32.7"
         },
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_windows_amd64_10.32.7.zip/#dl.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_windows_amd64_10.32.7.zip/#dl.zip",
             "hash": "7a7e572ea75445acf856cba53e8985374e46ecd3db6324042fc1911c5e27e30a",
             "extract_dir": "azcopy_windows_amd64_10.32.7"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_windows_arm64_10.32.7.zip/#dl.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v10.32.7/azcopy_windows_arm64_10.32.7.zip/#dl.zip",
             "hash": "e8961b448460e3ae5e2e6ceacf8f0fa3a92704eb3b9faae9fa1cf91813b3d55e",
             "extract_dir": "azcopy_windows_arm64_10.32.7"
         }
@@ -30,15 +30,15 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v$version/azcopy_windows_386_$version.zip#/dl.zip",
+                "url": "https://gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v$version/azcopy_windows_386_$version.zip#/dl.zip",
                 "extract_dir": "azcopy_windows_386_$version"
             },
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v$version/azcopy_windows_amd64_$version.zip/#dl.zip",
+                "url": "https://gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v$version/azcopy_windows_amd64_$version.zip/#dl.zip",
                 "extract_dir": "azcopy_windows_amd64_$version"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v$version/azcopy_windows_arm64_$version.zip/#dl.zip",
+                "url": "https://gh-proxy.org/https://github.com/Azure/azure-storage-azcopy/releases/download/v$version/azcopy_windows_arm64_$version.zip/#dl.zip",
                 "extract_dir": "azcopy_windows_arm64_$version"
             }
         }

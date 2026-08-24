@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/7.0.1800.0/NanaZipPreview_7.0.1800.0.msixbundle#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/7.0.1800.0/NanaZipPreview_7.0.1800.0.msixbundle#/dl.7z",
             "hash": "f4642a76dcd39517e03a88dce9bc3beaad0b968c0f38c995c917639343978466"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/7.0.1800.0/NanaZipPreview_7.0.1800.0.msixbundle#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/7.0.1800.0/NanaZipPreview_7.0.1800.0.msixbundle#/dl.7z",
             "hash": "f4642a76dcd39517e03a88dce9bc3beaad0b968c0f38c995c917639343978466"
         }
     },
@@ -38,7 +38,7 @@
         "jsonpath": "$.[?(@.prerelease==true)].tag_name"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/$version/NanaZipPreview_$version.msixbundle#/dl.7z"
+        "url": "https://gh-proxy.org/https://github.com/M2Team/NanaZip/releases/download/$version/NanaZipPreview_$version.msixbundle#/dl.7z"
     }
 }
 

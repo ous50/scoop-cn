@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/leanprover/elan/releases/download/v4.2.3/elan-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/leanprover/elan/releases/download/v4.2.3/elan-x86_64-pc-windows-msvc.zip",
             "hash": "be5e92a2dfdd8176099b2db0b810c27237c9054f1e5db1126f4f2a1134773b25"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/leanprover/elan/releases/download/v$version/elan-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/leanprover/elan/releases/download/v$version/elan-x86_64-pc-windows-msvc.zip"
             }
         }
     }

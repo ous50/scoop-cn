@@ -5,12 +5,12 @@
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/5.6.5/MediaDownloaderQt6-5.6.5.zip",
+            "url": "https://gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/5.6.5/MediaDownloaderQt6-5.6.5.zip",
             "hash": "75bc8bc984f7961f6e8e63b620847bcdc96135e01c042cb61a9a7c7eb8a65eb8",
             "extract_dir": "MediaDownloaderQt6-5.6.5"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/5.6.5/MediaDownloaderQt5-5.6.5.zip",
+            "url": "https://gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/5.6.5/MediaDownloaderQt5-5.6.5.zip",
             "hash": "9b640d2c858c48df807951a3462af5e62f9d89c93a4875eb158a67ec6ac0c632",
             "extract_dir": "MediaDownloaderQt5-5.6.5"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/$version/MediaDownloaderQt6-$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/$version/MediaDownloaderQt6-$version.zip",
                 "extract_dir": "MediaDownloaderQt6-$version"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/$version/MediaDownloaderQt5-$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/mhogomchungu/media-downloader/releases/download/$version/MediaDownloaderQt5-$version.zip",
                 "extract_dir": "MediaDownloaderQt5-$version"
             }
         },

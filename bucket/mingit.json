@@ -16,15 +16,15 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-64-bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-64-bit.zip",
             "hash": "56d7b226b7693196cfc71fef26568f536c4a021ab6c37ff2db4287bed908e96e"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-32-bit.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-32-bit.zip",
             "hash": "2c5c030d18fc6a6437c6d3f85895302e67995507db740afb415648306c6b450d"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/MinGit-2.55.0.5-arm64.zip",
             "hash": "05843f9d6e60306c3ab886799e2c67200caab921571f10512df3493049179ddb"
         }
     },
@@ -40,13 +40,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/$matchTag/MinGit-$version-64-bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/$matchTag/MinGit-$version-64-bit.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/$matchTag/MinGit-$version-32-bit.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/$matchTag/MinGit-$version-32-bit.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/git-for-windows/git/releases/download/$matchTag/MinGit-$version-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/git-for-windows/git/releases/download/$matchTag/MinGit-$version-arm64.zip"
             }
         },
         "hash": {

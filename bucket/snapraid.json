@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v14.9/snapraid-14.9-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v14.9/snapraid-14.9-windows-x64.zip",
             "hash": "84af790cd25c8f2d773386bca7320cb5cf81706f850eb1fda33d4b9ff4e0d692"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v14.9/snapraid-14.9-windows-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v14.9/snapraid-14.9-windows-x86.zip",
             "hash": "7ec39de0cf7cabd09061bfc54848084b4505e77b27556850fc53cb5f23080003"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v$version/snapraid-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v$version/snapraid-$version-windows-x64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v$version/snapraid-$version-windows-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/amadvance/snapraid/releases/download/v$version/snapraid-$version-windows-x86.zip"
             }
         }
     }

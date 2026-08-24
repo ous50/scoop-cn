@@ -6,12 +6,12 @@
     "notes": "If this app doesn't work maybe you need to clean '$dir\\igconfig.json' and reinstall '$dir\\Themes'.",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/9.6.1.807/ImageGlass_9.6.1.807_x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/9.6.1.807/ImageGlass_9.6.1.807_x64.zip",
             "hash": "b0b62dade6238c719c13cfb55a05b4cfaddecff9e4c20af09f923eac2b3344af",
             "extract_dir": "ImageGlass_x64"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/9.6.1.807/ImageGlass_9.6.1.807_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/9.6.1.807/ImageGlass_9.6.1.807_arm64.zip",
             "hash": "9d8c1aecd79f15e4f11634bf7f9e5889b805d2e8c8fcd949803e6603788bc520",
             "extract_dir": "ImageGlass_arm64"
         }
@@ -41,10 +41,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/$version/ImageGlass_$version_x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/$version/ImageGlass_$version_x64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/$version/ImageGlass_$version_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/d2phap/ImageGlass/releases/download/$version/ImageGlass_$version_arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v1.4.2/gosuki-v1.4.2-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v1.4.2/gosuki-v1.4.2-windows-amd64.zip",
             "hash": "21eed1f2c48d775d6cdc3f47d084dd8805a2abcfa52705a7a86c199a81d5c701",
             "bin": [
                 "gosuki.exe",
@@ -13,7 +13,7 @@
             ]
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v1.4.2/gosuki-v1.4.2-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v1.4.2/gosuki-v1.4.2-windows-386.zip",
             "hash": "57c58ee25d375ac89b7722350a8b0e11c8bb4b53f62d2683fc5722de31abaa75",
             "bin": [
                 [
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v$version/gosuki-v$version-windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v$version/gosuki-v$version-windows-amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v$version/gosuki-v$version-windows-386.zip"
+                "url": "https://gh-proxy.org/https://github.com/blob42/gosuki/releases/download/v$version/gosuki-v$version-windows-386.zip"
             }
         },
         "extract_dir": "gosuki-v$version"

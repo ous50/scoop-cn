@@ -5,15 +5,15 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-amd64-v1.19.30.zip",
+            "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-amd64-v1.19.30.zip",
             "hash": "22c09fd67673895ef7cd6b1820563918275c3d316f2462b306208675118db3c0"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-386-v1.19.30.zip",
+            "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-386-v1.19.30.zip",
             "hash": "d2517ef827365248cda370b08a43d088d306bce8de763036ded15bb13c0f54d7"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-arm64-v1.19.30.zip",
+            "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-arm64-v1.19.30.zip",
             "hash": "b37c4b0259e85b020edc4215aa4c86052e21071cf520d4800364b21b4e2fc162"
         }
     },
@@ -29,13 +29,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-amd64-v$version.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-386-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-386-v$version.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-arm64-v$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/MetaCubeX/mihomo/releases/download/v$version/mihomo-windows-arm64-v$version.zip"
             }
         }
     }

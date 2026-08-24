@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/neelabo/NeeView/releases/download/46.3/NeeView46.3.zip",
+            "url": "https://gh-proxy.org/https://github.com/neelabo/NeeView/releases/download/46.3/NeeView46.3.zip",
             "hash": "db690747c06c8e2f4873f58335d47a325b97273e734365fdbd06922d5fe0ba72",
             "extract_dir": "NeeView46.3"
         }
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/neelabo/NeeView/releases/download/$version/NeeView$version.zip",
+                "url": "https://gh-proxy.org/https://github.com/neelabo/NeeView/releases/download/$version/NeeView$version.zip",
                 "extract_dir": "NeeView$version"
             }
         }

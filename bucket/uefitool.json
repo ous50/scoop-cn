@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A75/UEFITool_NE_A75_win64.zip",
+            "url": "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A75/UEFITool_NE_A75_win64.zip",
             "hash": "c10db134e76f31c2e0a15674ee9725ca7091145d3be7157f369bd7515cb24c2c"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A75/UEFITool_NE_A75_win32.zip",
+            "url": "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/A75/UEFITool_NE_A75_win32.zip",
             "hash": "1a87b6b15a4ef3bd0d4ac99d7302924c2ec28e743893d4bc06b4b8015f652edf"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win64.zip"
+                "url": "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win32.zip"
+                "url": "https://gh-proxy.org/https://github.com/LongSoft/UEFITool/releases/download/$version/UEFITool_NE_$version_win32.zip"
             }
         }
     }

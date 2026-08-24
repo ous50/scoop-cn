@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_3.11.1_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_3.11.1_windows_amd64.zip",
             "hash": "bb6cb9ff8939b753f6fcab06fd30a15f5bc61d8382a597871334c007a85ff9d2"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_3.11.1_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_3.11.1_windows_386.zip",
             "hash": "f7571ca47f8501a654860b4df20d12137b8f4de7799d439b621a5b8035747990"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/projectdiscovery/nuclei/releases/latest/download/nuclei_$version_windows_386.zip"
             }
         },
         "hash": {

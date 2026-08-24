@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/peco/peco/releases/download/v0.6.0/peco_0.6.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/peco/peco/releases/download/v0.6.0/peco_0.6.0_windows_amd64.zip",
             "hash": "5bd9aa4bc02338a6ec8ab1ef212c7b2e54c23e2416254c7681f03e9fa6857863"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/peco/peco/releases/download/v$version/peco_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/peco/peco/releases/download/v$version/peco_$version_windows_amd64.zip"
             }
         }
     }

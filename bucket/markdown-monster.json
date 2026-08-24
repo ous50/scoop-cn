@@ -6,7 +6,7 @@
         "identifier": "Proprietary",
         "url": "https://markdownmonster.west-wind.com/purchase.aspx#License"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/CurrentRelease/MarkdownMonsterPortable.zip",
+    "url": "https://gh-proxy.org/https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/CurrentRelease/MarkdownMonsterPortable.zip",
     "hash": "ad379230feb1de54fb1dffab01d0cc9854d8f9c771fab05efc04ccc4c3b885ea",
     "bin": "mmcli.exe",
     "shortcuts": [
@@ -17,11 +17,11 @@
     ],
     "persist": "PortableSettings",
     "checkver": {
-        "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/RickStrahl/MarkdownMonsterReleases/master/CurrentRelease/MarkdownMonster_Version.xml",
+        "url": "https://gh-proxy.org/https://raw.githubusercontent.com/RickStrahl/MarkdownMonsterReleases/master/CurrentRelease/MarkdownMonster_Version.xml",
         "regex": "<Version>([\\d.]+)</Version>"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/CurrentRelease/MarkdownMonsterPortable.zip"
+        "url": "https://gh-proxy.org/https://github.com/RickStrahl/MarkdownMonsterReleases/raw/master/CurrentRelease/MarkdownMonsterPortable.zip"
     }
 }
 

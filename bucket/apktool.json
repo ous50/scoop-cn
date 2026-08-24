@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/iBotPeaches/Apktool/releases/download/v3.0.3/apktool_3.0.3.jar#/apktool.jar",
+    "url": "https://gh-proxy.org/https://github.com/iBotPeaches/Apktool/releases/download/v3.0.3/apktool_3.0.3.jar#/apktool.jar",
     "hash": "dbf930b076c6b9be08d57c449cacefc3bdd6b71ebd59b3066fc0e1f5b14f9423",
     "pre_install": "Set-Content \"$dir\\apktool.cmd\" -Value \"@java -jar \"\"$dir\\apktool.jar\"\" %*\" -Encoding ascii",
     "bin": "apktool.cmd",
@@ -14,7 +14,7 @@
         "github": "https://github.com/iBotPeaches/Apktool"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/iBotPeaches/Apktool/releases/download/v$version/apktool_$version.jar#/apktool.jar"
+        "url": "https://gh-proxy.org/https://github.com/iBotPeaches/Apktool/releases/download/v$version/apktool_$version.jar#/apktool.jar"
     }
 }
 

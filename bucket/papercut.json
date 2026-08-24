@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/7.8.0/PapercutSMTP-win-x64-stable-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/7.8.0/PapercutSMTP-win-x64-stable-Portable.zip",
             "hash": "25da96c07143b11aebb5c0dda8edd978ebec97b3fc59791af8c69e83d39871d4"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/7.8.0/PapercutSMTP-win-x86-stable-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/7.8.0/PapercutSMTP-win-x86-stable-Portable.zip",
             "hash": "334bd687794a5ae011c83486cab03a2961483ec7acc25d4704fd1c63658deb23"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/7.8.0/PapercutSMTP-win-arm64-stable-Portable.zip",
+            "url": "https://gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/7.8.0/PapercutSMTP-win-arm64-stable-Portable.zip",
             "hash": "790cc3074108c40389c4ab4931e987bfc7f7d5ed7673faeb2cdd763afd931e13"
         }
     },
@@ -38,13 +38,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/$version/PapercutSMTP-win-x64-stable-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/$version/PapercutSMTP-win-x64-stable-Portable.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/$version/PapercutSMTP-win-x86-stable-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/$version/PapercutSMTP-win-x86-stable-Portable.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/$version/PapercutSMTP-win-arm64-stable-Portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/ChangemakerStudios/Papercut-SMTP/releases/download/$version/PapercutSMTP-win-arm64-stable-Portable.zip"
             }
         }
     }

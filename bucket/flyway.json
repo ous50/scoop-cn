@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/flyway/flyway/releases/download/flyway-13.3.0/flyway-commandline-13.3.0-windows-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/flyway/flyway/releases/download/flyway-13.3.0/flyway-commandline-13.3.0-windows-x64.zip",
             "hash": "ceb2b4f3e06b91481f24ed1b988f8becbed0bc6af3cde898db0815af7386f4df"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/flyway/flyway/releases/download/flyway-$version/flyway-commandline-$version-windows-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/flyway/flyway/releases/download/flyway-$version/flyway-commandline-$version-windows-x64.zip"
             }
         },
         "extract_dir": "flyway-$version"

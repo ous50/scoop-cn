@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v0.20.0/aztfexport_v0.20.0_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v0.20.0/aztfexport_v0.20.0_windows_amd64.zip",
             "hash": "aa9f8fb6c2a5aa8b32f9d844a15f883bccc5d4d557f66a7d864f2a8ee40667dc"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v0.20.0/aztfexport_v0.20.0_windows_386.zip",
+            "url": "https://gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v0.20.0/aztfexport_v0.20.0_windows_386.zip",
             "hash": "6641c8955e9d1512feb1c640093a0670a91ba063722b715d77c6c3cd5c5b914b"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v$version/aztfexport_v$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v$version/aztfexport_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v$version/aztfexport_v$version_windows_386.zip"
+                "url": "https://gh-proxy.org/https://github.com/Azure/aztfexport/releases/download/v$version/aztfexport_v$version_windows_386.zip"
             }
         },
         "hash": {

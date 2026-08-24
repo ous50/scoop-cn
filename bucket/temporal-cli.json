@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/temporalio/cli/releases/download/v1.8.2/temporal_cli_1.8.2_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/temporalio/cli/releases/download/v1.8.2/temporal_cli_1.8.2_windows_amd64.zip",
             "hash": "72e02498fa7849657c369377f7de69a8709b3d2183b6f2749f6c8bd54a984501"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/temporalio/cli/releases/download/v1.8.2/temporal_cli_1.8.2_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/temporalio/cli/releases/download/v1.8.2/temporal_cli_1.8.2_windows_arm64.zip",
             "hash": "b196e1864861cbc81c6473c9bcce17b9e56b152bf0599e668b4809f646eadf8f"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/temporalio/cli/releases/download/v$version/temporal_cli_$version_windows_amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/temporalio/cli/releases/download/v$version/temporal_cli_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/temporalio/cli/releases/download/v$version/temporal_cli_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/temporalio/cli/releases/download/v$version/temporal_cli_$version_windows_arm64.zip"
             }
         },
         "hash": {

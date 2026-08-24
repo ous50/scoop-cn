@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/n0-computer/sendme/releases/download/v0.36.0/sendme-v0.36.0-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/n0-computer/sendme/releases/download/v0.36.0/sendme-v0.36.0-windows-x86_64.zip",
             "hash": "8d067614985f8a0d7b7aa6d2efeb713f76f94c10a01c940cc0dbc3de6692ccd6"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/n0-computer/sendme/releases/download/v$version/sendme-v$version-windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/n0-computer/sendme/releases/download/v$version/sendme-v$version-windows-x86_64.zip"
             }
         }
     }

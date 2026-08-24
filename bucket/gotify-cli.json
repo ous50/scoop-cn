@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/gotify/cli/releases/download/v2.4.0/gotify-cli-windows-amd64.exe#/gotify-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/gotify/cli/releases/download/v2.4.0/gotify-cli-windows-amd64.exe#/gotify-cli.exe",
             "hash": "42b6c44b04cc98146c7a897a153d70a83cc2cedbcc24dcf264219b32a8a6437c"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/gotify/cli/releases/download/v2.4.0/gotify-cli-windows-386.exe#/gotify-cli.exe",
+            "url": "https://gh-proxy.org/https://github.com/gotify/cli/releases/download/v2.4.0/gotify-cli-windows-386.exe#/gotify-cli.exe",
             "hash": "a485243a5460794da748ba6cde4a5b7d279585ddf760298d1a742d90bbbe657f"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/gotify/cli/releases/download/v$version/gotify-cli-windows-amd64.exe#/gotify-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/gotify/cli/releases/download/v$version/gotify-cli-windows-amd64.exe#/gotify-cli.exe"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/gotify/cli/releases/download/v$version/gotify-cli-windows-386.exe#/gotify-cli.exe"
+                "url": "https://gh-proxy.org/https://github.com/gotify/cli/releases/download/v$version/gotify-cli-windows-386.exe#/gotify-cli.exe"
             }
         }
     }

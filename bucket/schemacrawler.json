@@ -5,7 +5,7 @@
     "license": "EPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v17.12.2/SchemaCrawler-17.12.2.msi",
+            "url": "https://gh-proxy.org/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v17.12.2/SchemaCrawler-17.12.2.msi",
             "hash": "8d932ed77c45c3ae77c83d85df56ecc66be17a19521a2c8ceb038fa07049b160"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v$version/SchemaCrawler-$version.msi",
+                "url": "https://gh-proxy.org/https://github.com/schemacrawler/SchemaCrawler-Installers/releases/download/v$version/SchemaCrawler-$version.msi",
                 "hash": {
                     "url": "$url.SHA256"
                 }

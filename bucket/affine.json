@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-x64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-x64.exe#/dl.7z",
             "hash": "sha512:46b6edea81cbb15a23e9925cda80bed31475dedc69df0405abccbb8d6593d2886f3426ec9225a315739abde8ae463a3063b2b9dfce215eb4a2928646b8f6090f"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-arm64.exe#/dl.7z",
+            "url": "https://gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-arm64.exe#/dl.7z",
             "hash": "sha512:66a71f92acbaa51c13edc85107692da9078175e9541d7828791dd6d875134e44ac3a6693fb1424063484b9ea1e73a2dae9f306cc7b8104be0f05445d88407579"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-x64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-arm64.exe#/dl.7z"
+                "url": "https://gh-proxy.org/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-arm64.exe#/dl.7z"
             }
         },
         "hash": {

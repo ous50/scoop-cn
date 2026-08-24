@@ -6,11 +6,11 @@
     "notes": "_ZO_DATA_DIR is located at '$env:LOCALAPPDATA\\zoxide' by default",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v0.10.0/zoxide-0.10.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v0.10.0/zoxide-0.10.0-x86_64-pc-windows-msvc.zip",
             "hash": "f465ae548f8754c8e7edbc60b45fbf58c92bfe123db83d790252d6810fa5daf1"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v0.10.0/zoxide-0.10.0-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v0.10.0/zoxide-0.10.0-aarch64-pc-windows-msvc.zip",
             "hash": "b0e6eb62b11ebf168d5c65c5d23c635e81848cc4a88ae6b9caee64cf1e35d12b"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh-proxy.org/https://github.com/ajeetdsouza/zoxide/releases/download/v$version/zoxide-$version-aarch64-pc-windows-msvc.zip"
             }
         }
     }

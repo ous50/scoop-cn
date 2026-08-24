@@ -6,7 +6,7 @@
     "suggest": {
         "Python": "python"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/pypa/pipx/releases/download/1.16.7/pipx.pyz",
+    "url": "https://gh-proxy.org/https://github.com/pypa/pipx/releases/download/1.16.7/pipx.pyz",
     "hash": "302633d0061e0ab4269257501cbe1338cde5f00f22f121543706624aada0145e",
     "pre_install": [
         "$cmd = $null",
@@ -24,7 +24,7 @@
         "github": "https://github.com/pypa/pipx"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
+        "url": "https://gh-proxy.org/https://github.com/pypa/pipx/releases/download/$version/pipx.pyz"
     }
 }
 

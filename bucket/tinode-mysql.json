@@ -7,7 +7,7 @@
     "depends": "scoop-cn/mysql",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/tinode/chat/releases/download/v0.25.3/tinode-mysql.windows-amd64.zip",
             "hash": "6865727e9bd8e4dd26077c75604ee8ae8f221634338c8cee6b9d07280ae14c26"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/tinode/chat/releases/download/v$version/tinode-mysql.windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/tinode/chat/releases/download/v$version/tinode-mysql.windows-amd64.zip"
             }
         }
     }

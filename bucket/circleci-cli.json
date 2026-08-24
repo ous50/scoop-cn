@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.48692/circleci-cli_1.0.48692_windows_amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.48692/circleci-cli_1.0.48692_windows_amd64.zip",
             "hash": "557a1542fde9502473eaab2cfa1e077244ecf0b6bf539eb9ede6656a16dee94f",
             "extract_dir": "circleci-cli_1.0.48692_windows_amd64"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.48692/circleci-cli_1.0.48692_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v1.0.48692/circleci-cli_1.0.48692_windows_arm64.zip",
             "hash": "f9f0681677660f32e9addd3053cb9b1e31aaa744ab45311bbcb8e69e5836041e",
             "extract_dir": "circleci-cli_1.0.48692_windows_arm64"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_amd64.zip",
                 "extract_dir": "circleci-cli_$version_windows_amd64"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/CircleCI-Public/circleci-cli/releases/download/v$version/circleci-cli_$version_windows_arm64.zip",
                 "extract_dir": "circleci-cli_$version_windows_arm64"
             }
         },

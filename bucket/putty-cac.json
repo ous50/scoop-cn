@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/0.85/binaries/puttycac-0.85-x64.zip",
+            "url": "https://gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/0.85/binaries/puttycac-0.85-x64.zip",
             "hash": "6d8f5b1d0e5b7ff18ef4acc1fd8f6c9f7d28753d06085cffa10fff9228a4b0d5"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/0.85/binaries/puttycac-0.85-x86.zip",
+            "url": "https://gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/0.85/binaries/puttycac-0.85-x86.zip",
             "hash": "bb629ce904ecc8aaad795505ea04cb4ea38990364657972e88f3b206f2d72012"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/0.85/binaries/puttycac-0.85-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/0.85/binaries/puttycac-0.85-arm64.zip",
             "hash": "78eebd7e4b0671005022fc2db731531664531949f6dec4bdcc01fe43ae012e21"
         }
     },
@@ -55,13 +55,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/$version/binaries/puttycac-$version-x64.zip"
+                "url": "https://gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/$version/binaries/puttycac-$version-x64.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/$version/binaries/puttycac-$version-x86.zip"
+                "url": "https://gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/$version/binaries/puttycac-$version-x86.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/$version/binaries/puttycac-$version-arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/NoMoreFood/putty-cac/raw/$version/binaries/puttycac-$version-arm64.zip"
             }
         },
         "hash": {

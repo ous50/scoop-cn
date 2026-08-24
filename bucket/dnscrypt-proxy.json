@@ -10,12 +10,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.18/dnscrypt-proxy-win64-2.1.18.zip",
+            "url": "https://gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.18/dnscrypt-proxy-win64-2.1.18.zip",
             "hash": "15f0c8f1f40620a54ddfd8752c327dabe1146f84618d68874f79c4f52490b396",
             "extract_dir": "win64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.18/dnscrypt-proxy-win32-2.1.18.zip",
+            "url": "https://gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/2.1.18/dnscrypt-proxy-win32-2.1.18.zip",
             "hash": "60d320f90b31ad976078208802e0d4137555db9bc72126341b4f2014c068e42a",
             "extract_dir": "win32"
         }
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/$version/dnscrypt-proxy-win64-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/$version/dnscrypt-proxy-win64-$version.zip"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/$version/dnscrypt-proxy-win32-$version.zip"
+                "url": "https://gh-proxy.org/https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/$version/dnscrypt-proxy-win32-$version.zip"
             }
         }
     }

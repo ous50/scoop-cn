@@ -17,11 +17,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v2.1.4/win-x64-based-readytorun.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v2.1.4/win-x64-based-readytorun.zip",
             "hash": "2c429b145638224823cd55bf900dc932dcddebda690728665051dcc17901c412"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v2.1.4/win-arm64-based-readytorun.zip",
+            "url": "https://gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v2.1.4/win-arm64-based-readytorun.zip",
             "hash": "44688225ba2a30fa247ebf881953e32a59470158a0395dcd81526fec9bcd08aa"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v$version/win-x64-based-readytorun.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v$version/win-x64-based-readytorun.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v$version/win-arm64-based-readytorun.zip"
+                "url": "https://gh-proxy.org/https://github.com/microsoft/garnet/releases/download/v$version/win-arm64-based-readytorun.zip"
             }
         }
     }

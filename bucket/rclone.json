@@ -5,17 +5,17 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-amd64.zip",
             "hash": "203581f0a7baeae873f2347483a798c79e2eaf5c384a4e9d866aa374f1c89ac0",
             "extract_dir": "rclone-v1.75.0-windows-amd64"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-386.zip",
+            "url": "https://gh-proxy.org/https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-386.zip",
             "hash": "dee1882a2a4277e42bd8b572b8e0e6676a491e3ec0e238ea16dc0e0e619cdc84",
             "extract_dir": "rclone-v1.75.0-windows-386"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-arm64.zip",
             "hash": "bcf628fa6bb3b6ae9fdf105d04acafb40ec77841f686dc6dd7d126dde04c5f6a",
             "extract_dir": "rclone-v1.75.0-windows-arm64"
         }
@@ -59,15 +59,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rclone/rclone/releases/download/v$version/rclone-v$version-windows-amd64.zip",
+                "url": "https://gh-proxy.org/https://github.com/rclone/rclone/releases/download/v$version/rclone-v$version-windows-amd64.zip",
                 "extract_dir": "rclone-v$version-windows-amd64"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rclone/rclone/releases/download/v$version/rclone-v$version-windows-386.zip",
+                "url": "https://gh-proxy.org/https://github.com/rclone/rclone/releases/download/v$version/rclone-v$version-windows-386.zip",
                 "extract_dir": "rclone-v$version-windows-386"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/rclone/rclone/releases/download/v$version/rclone-v$version-windows-arm64.zip",
+                "url": "https://gh-proxy.org/https://github.com/rclone/rclone/releases/download/v$version/rclone-v$version-windows-arm64.zip",
                 "extract_dir": "rclone-v$version-windows-arm64"
             }
         },

@@ -6,7 +6,7 @@
     "suggest": {
         "vcredist": "scoop-cn/vcredist2022"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/Syncplay/syncplay/releases/download/v1.7.6/Syncplay_1.7.6_Portable.zip",
+    "url": "https://gh-proxy.org/https://github.com/Syncplay/syncplay/releases/download/v1.7.6/Syncplay_1.7.6_Portable.zip",
     "hash": "b2e5d22dda78d6d1892ea9836fc642302dd7de9e29f6ded8af286a64d959de7c",
     "bin": "Syncplay.exe",
     "shortcuts": [
@@ -20,7 +20,7 @@
         "github": "https://github.com/Syncplay/syncplay"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/Syncplay/syncplay/releases/download/v$version/Syncplay_$version_Portable.zip"
+        "url": "https://gh-proxy.org/https://github.com/Syncplay/syncplay/releases/download/v$version/Syncplay_$version_Portable.zip"
     }
 }
 

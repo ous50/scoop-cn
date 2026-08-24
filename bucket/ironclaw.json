@@ -5,7 +5,7 @@
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/nearai/ironclaw/releases/download/ironclaw-v1.3.0/ironclaw-x86_64-pc-windows-msvc.tar.gz",
+            "url": "https://gh-proxy.org/https://github.com/nearai/ironclaw/releases/download/ironclaw-v1.3.0/ironclaw-x86_64-pc-windows-msvc.tar.gz",
             "hash": "513087a3aa7e8603dce3230317a105802a4cec8db6dfe0a41a386cf3446719aa",
             "extract_dir": "ironclaw-x86_64-pc-windows-msvc"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/nearai/ironclaw/releases/download/ironclaw-v$version/ironclaw-x86_64-pc-windows-msvc.tar.gz"
+                "url": "https://gh-proxy.org/https://github.com/nearai/ironclaw/releases/download/ironclaw-v$version/ironclaw-x86_64-pc-windows-msvc.tar.gz"
             }
         },
         "hash": {

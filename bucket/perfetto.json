@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/google/perfetto/releases/download/v57.2/windows-amd64.zip",
+            "url": "https://gh-proxy.org/https://github.com/google/perfetto/releases/download/v57.2/windows-amd64.zip",
             "hash": "0d47a31f9058cae5442baeab1ffce3f3f75e176f4f7cd8fedb1a29a51955975e",
             "extract_dir": "windows-amd64"
         }
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/google/perfetto/releases/download/v$version/windows-amd64.zip"
+                "url": "https://gh-proxy.org/https://github.com/google/perfetto/releases/download/v$version/windows-amd64.zip"
             }
         }
     }

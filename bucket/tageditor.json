@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v3.9.11/tageditor-3.9.11-x86_64-w64-mingw32.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v3.9.11/tageditor-3.9.11-x86_64-w64-mingw32.exe.zip",
             "hash": "f1a7f33561bda19e833b1eb3b5cfcdae83fe1f37c6806623f86f20cc3038b090"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v3.9.11/tageditor-3.9.11-aarch64-w64-mingw32.exe.zip",
+            "url": "https://gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v3.9.11/tageditor-3.9.11-aarch64-w64-mingw32.exe.zip",
             "hash": "3a8310d02890f966f1a44de8223cc866cd987473ba199ddd850a8a65e1bb7020"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v$version/tageditor-$version-x86_64-w64-mingw32.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v$version/tageditor-$version-x86_64-w64-mingw32.exe.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v$version/tageditor-$version-aarch64-w64-mingw32.exe.zip"
+                "url": "https://gh-proxy.org/https://github.com/Martchus/tageditor/releases/download/v$version/tageditor-$version-aarch64-w64-mingw32.exe.zip"
             }
         }
     }

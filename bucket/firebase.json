@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/firebase/firebase-tools/releases/download/v15.28.1/firebase-tools-win.exe#/firebase.exe",
+            "url": "https://gh-proxy.org/https://github.com/firebase/firebase-tools/releases/download/v15.28.1/firebase-tools-win.exe#/firebase.exe",
             "hash": "863865b5cfdf7f1e63c8bf0e436f1baf08002a4a9dc80066a2207c60072a7054"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
+                "url": "https://gh-proxy.org/https://github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
             }
         }
     }

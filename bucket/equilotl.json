@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/Equicord/Equilotl/releases/download/v2.2.6/Equilotl.exe",
+            "url": "https://gh-proxy.org/https://github.com/Equicord/Equilotl/releases/download/v2.2.6/Equilotl.exe",
             "hash": "b4196dba3e7d2e3662fda38bdd99160880c702a6d08b4c17b6d9505432294104"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/Equicord/Equilotl/releases/download/v$version/Equilotl.exe"
+                "url": "https://gh-proxy.org/https://github.com/Equicord/Equilotl/releases/download/v$version/Equilotl.exe"
             }
         }
     }

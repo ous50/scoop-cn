@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/ogulcancelik/herdr/releases/download/preview-2026-08-19-b5c4a0176e91/herdr-windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/ogulcancelik/herdr/releases/download/preview-2026-08-19-b5c4a0176e91/herdr-windows-x86_64.zip",
             "hash": "01c8bc9f22be0ad447ceb8f4ed8ae18871b31694ccfd6b504b26ee31f0c6e25e"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/ogulcancelik/herdr/releases/download/preview-$version/herdr-windows-x86_64.zip",
+                "url": "https://gh-proxy.org/https://github.com/ogulcancelik/herdr/releases/download/preview-$version/herdr-windows-x86_64.zip",
                 "hash": {
                     "url": "https://herdr.dev/preview.json",
                     "jsonpath": "$.assets.windows-x86_64.sha256"

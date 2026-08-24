@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/facebook/buck2/releases/download/2026-08-22/buck2-x86_64-pc-windows-msvc.exe.zst#/buck2.exe.zst",
+            "url": "https://gh-proxy.org/https://github.com/facebook/buck2/releases/download/2026-08-22/buck2-x86_64-pc-windows-msvc.exe.zst#/buck2.exe.zst",
             "hash": "e279487a99332a089f4215a78a9530ff01ce6431059211f0f0e208009d63dd1b"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/facebook/buck2/releases/download/2026-08-22/buck2-aarch64-pc-windows-msvc.exe.zst#/buck2.exe.zst",
+            "url": "https://gh-proxy.org/https://github.com/facebook/buck2/releases/download/2026-08-22/buck2-aarch64-pc-windows-msvc.exe.zst#/buck2.exe.zst",
             "hash": "f13de0bb039af8c90c9fc571e40567971f64ae019b2c1c8ed01f5eec1011b023"
         }
     },
@@ -25,10 +25,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/facebook/buck2/releases/download/$version/buck2-x86_64-pc-windows-msvc.exe.zst#/buck2.exe.zst"
+                "url": "https://gh-proxy.org/https://github.com/facebook/buck2/releases/download/$version/buck2-x86_64-pc-windows-msvc.exe.zst#/buck2.exe.zst"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/facebook/buck2/releases/download/$version/buck2-aarch64-pc-windows-msvc.exe.zst#/buck2.exe.zst"
+                "url": "https://gh-proxy.org/https://github.com/facebook/buck2/releases/download/$version/buck2-aarch64-pc-windows-msvc.exe.zst#/buck2.exe.zst"
             }
         }
     }

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v6.17.6/ddns-go_6.17.6_windows_i386.zip",
+            "url": "https://gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v6.17.6/ddns-go_6.17.6_windows_i386.zip",
             "hash": "c080955f4eba674396d568192f7d9ec971b2ab606ee9e332a1ba668357ee9361"
         },
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v6.17.6/ddns-go_6.17.6_windows_x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v6.17.6/ddns-go_6.17.6_windows_x86_64.zip",
             "hash": "9d33056f2efff0bbe51987a40c4aa67e1ed2186f8da8e9f7a8236817603f92ff"
         },
         "arm64": {
-            "url": "https://v6.gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v6.17.6/ddns-go_6.17.6_windows_arm64.zip",
+            "url": "https://gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v6.17.6/ddns-go_6.17.6_windows_arm64.zip",
             "hash": "828496d736c73c53969c106edfccd5a6b8ea07fb87a588c7989f805679ecf66c"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_i386.zip"
+                "url": "https://gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_i386.zip"
             },
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://v6.gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_arm64.zip"
+                "url": "https://gh-proxy.org/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_arm64.zip"
             }
         },
         "hash": {

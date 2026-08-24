@@ -6,7 +6,7 @@
     "notes": "To set up dotter, check instructions on 'https://github.com/SuperCuber/dotter/wiki/Setup-and-Configuration'",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/SuperCuber/dotter/releases/download/v0.13.5/dotter-windows-x64-msvc.exe#/dotter.exe",
+            "url": "https://gh-proxy.org/https://github.com/SuperCuber/dotter/releases/download/v0.13.5/dotter-windows-x64-msvc.exe#/dotter.exe",
             "hash": "db2008898f2b81972a86f77f340f2ef44c4b3dffd01c61bba52d0bd804510c37"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/SuperCuber/dotter/releases/download/v$version/dotter-windows-x64-msvc.exe#/dotter.exe"
+                "url": "https://gh-proxy.org/https://github.com/SuperCuber/dotter/releases/download/v$version/dotter-windows-x64-msvc.exe#/dotter.exe"
             }
         }
     }

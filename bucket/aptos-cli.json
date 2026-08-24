@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/aptos-labs/aptos-core/releases/download/aptos-cli-v9.5.0/aptos-cli-9.5.0-Windows-x86_64.zip",
+            "url": "https://gh-proxy.org/https://github.com/aptos-labs/aptos-core/releases/download/aptos-cli-v9.5.0/aptos-cli-9.5.0-Windows-x86_64.zip",
             "hash": "38c4b24eec64c83cce5d25ad02ea1883897cb8a10519079eb5c134d270c840e1"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/aptos-labs/aptos-core/releases/download/aptos-cli-v$version/aptos-cli-$version-Windows-x86_64.zip"
+                "url": "https://gh-proxy.org/https://github.com/aptos-labs/aptos-core/releases/download/aptos-cli-v$version/aptos-cli-$version-Windows-x86_64.zip"
             }
         }
     }

@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/gdl-org/builds/releases/download/2026.08.24/gallery-dl_windows.exe#/gallery-dl.exe",
+            "url": "https://gh-proxy.org/https://github.com/gdl-org/builds/releases/download/2026.08.24/gallery-dl_windows.exe#/gallery-dl.exe",
             "hash": "6c33dc44210bcd075dcad0520ab18522c65b6a6489daedae203d5747bfa663b5"
         },
         "32bit": {
-            "url": "https://v6.gh-proxy.org/https://github.com/gdl-org/builds/releases/download/2026.08.24/gallery-dl_windows_x86.exe#/gallery-dl.exe",
+            "url": "https://gh-proxy.org/https://github.com/gdl-org/builds/releases/download/2026.08.24/gallery-dl_windows_x86.exe#/gallery-dl.exe",
             "hash": "7aa37912e73f31e12b2dc36e0b01127b883d9b03b6dae0e4aa61bdaf81f22283"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/gdl-org/builds/releases/download/$version/gallery-dl_windows.exe#/gallery-dl.exe"
+                "url": "https://gh-proxy.org/https://github.com/gdl-org/builds/releases/download/$version/gallery-dl_windows.exe#/gallery-dl.exe"
             },
             "32bit": {
-                "url": "https://v6.gh-proxy.org/https://github.com/gdl-org/builds/releases/download/$version/gallery-dl_windows_x86.exe#/gallery-dl.exe"
+                "url": "https://gh-proxy.org/https://github.com/gdl-org/builds/releases/download/$version/gallery-dl_windows_x86.exe#/gallery-dl.exe"
             }
         }
     }

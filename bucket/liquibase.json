@@ -6,7 +6,7 @@
     "suggest": {
         "JRE": "scoop-cn/openjdk"
     },
-    "url": "https://v6.gh-proxy.org/https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-5.0.4.zip",
+    "url": "https://gh-proxy.org/https://github.com/liquibase/liquibase/releases/download/v5.0.4/liquibase-5.0.4.zip",
     "hash": "047535ad3076f47774fe53a2d19550363e0f414d6df87f7f6bdd38fbdad3b12a",
     "bin": "liquibase.bat",
     "persist": "lib-other",
@@ -14,7 +14,7 @@
         "github": "https://github.com/liquibase/liquibase"
     },
     "autoupdate": {
-        "url": "https://v6.gh-proxy.org/https://github.com/liquibase/liquibase/releases/download/v$version/liquibase-$version.zip"
+        "url": "https://gh-proxy.org/https://github.com/liquibase/liquibase/releases/download/v$version/liquibase-$version.zip"
     }
 }
 
