@@ -1,5 +1,5 @@
 {
-    "version": "2026.08.11723",
+    "version": "2026.09.11904",
     "description": "Edit Windows images or the live install directly. Integrate updates and drivers, script unattended setup, build ISOs.",
     "homepage": "https://www.ntlite.com/",
     "license": "",
@@ -7,7 +7,7 @@
     "architecture": {
         "64bit": {
             "url": "https://downloads.ntlite.com/files/NTLite_setup_x64.exe#/setup.exe",
-            "hash": "ccb27bca6b0bc118e36f502406a2cd06874b19f5458dcaef8fb87ca16f4133df"
+            "hash": "8acb8e696c8123e4cb1859f7a76c8b2adab2bf744570b7f46a867a3a0c9e0974"
         }
     },
     "installer": {
