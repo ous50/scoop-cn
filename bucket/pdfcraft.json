@@ -6,11 +6,13 @@
     "architecture": {
         "64bit": {
             "url": "https://gh-proxy.org/https://github.com/storytold/pdfcraft/releases/download/v0.2.1/printcraft-0.2.1-windows-x64-portable.zip",
-            "hash": "7ed1aa951eb336637763e3bd1f15b8fba483a9ca58d7b2b2d2ee2ab69be52872"
+            "hash": "7ed1aa951eb336637763e3bd1f15b8fba483a9ca58d7b2b2d2ee2ab69be52872",
+            "extract_dir": "printcraft-0.2.1-windows-x64-portable"
         },
         "32bit": {
             "url": "https://gh-proxy.org/https://github.com/storytold/pdfcraft/releases/download/v0.2.1/printcraft-0.2.1-windows-x86-portable.zip",
-            "hash": "b5eed12ce10aabe537eafb802727db027fa6e161f76c4ef448781791343ccde5"
+            "hash": "b5eed12ce10aabe537eafb802727db027fa6e161f76c4ef448781791343ccde5",
+            "extract_dir": "printcraft-0.2.1-windows-x86-portable"
         }
     },
     "bin": [
@@ -34,29 +36,23 @@
     "shortcuts": [
         [
             "printcraft.exe",
-            "PDFCraft"
-        ],
-        [
-            "printcraft-cli.exe",
-            "pdfcraft-cli"
+            "Scoop Apps\\PDFCraft"
         ],
         [
             "printcraft.exe",
-            "PrintCraft"
-        ],
-        [
-            "printcraft-cli.exe",
-            "printcraft-cli"
+            "Scoop Apps\\PrintCraft"
         ]
     ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/storytold/pdfcraft/releases/download/v$version/printcraft-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/storytold/pdfcraft/releases/download/v$version/printcraft-$version-windows-x64-portable.zip",
+                "extract_dir": "printcraft-$version-windows-x64-portable"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/storytold/pdfcraft/releases/download/v$version/printcraft-$version-windows-x86-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/storytold/pdfcraft/releases/download/v$version/printcraft-$version-windows-x86-portable.zip",
+                "extract_dir": "printcraft-$version-windows-x86-portable"
             }
         }
     }

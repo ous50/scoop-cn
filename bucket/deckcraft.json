@@ -6,11 +6,13 @@
     "architecture": {
         "64bit": {
             "url": "https://gh-proxy.org/https://github.com/storytold/deckcraft/releases/download/v0.1.0/deckcraft-0.1.0-windows-x64-portable.zip",
-            "hash": "8f45a80c39a531c8095803b7f5ac310bd801c9f70e9971287daaa51fe4d2e3e7"
+            "hash": "8f45a80c39a531c8095803b7f5ac310bd801c9f70e9971287daaa51fe4d2e3e7",
+            "extract_dir": "deckcraft-0.1.0-windows-x64-portable"
         },
         "32bit": {
             "url": "https://gh-proxy.org/https://github.com/storytold/deckcraft/releases/download/v0.1.0/deckcraft-0.1.0-windows-x86-portable.zip",
-            "hash": "f38e0fe0ebb84072c8cf3710e77ea55220c1d878292f3e1558f063ab7f85ed1f"
+            "hash": "f38e0fe0ebb84072c8cf3710e77ea55220c1d878292f3e1558f063ab7f85ed1f",
+            "extract_dir": "deckcraft-0.1.0-windows-x86-portable"
         }
     },
     "bin": [
@@ -26,21 +28,24 @@
     "shortcuts": [
         [
             "deckcraft.exe",
-            "DeckCraft"
+            "Scoop Apps\\DeckCraft"
         ],
         [
-            "deckcraft-cli.exe",
-            "deckcraft-cli"
+            "deckcraft.exe",
+            "Scoop Apps\\PowerPoint-AirCraft",
+            ""
         ]
     ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.org/https://github.com/storytold/deckcraft/releases/download/v$version/deckcraft-$version-windows-x64-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/storytold/deckcraft/releases/download/v$version/deckcraft-$version-windows-x64-portable.zip",
+                "extract_dir": "deckcraft-$version-windows-x64-portable"
             },
             "32bit": {
-                "url": "https://gh-proxy.org/https://github.com/storytold/deckcraft/releases/download/v$version/deckcraft-$version-windows-x86-portable.zip"
+                "url": "https://gh-proxy.org/https://github.com/storytold/deckcraft/releases/download/v$version/deckcraft-$version-windows-x86-portable.zip",
+                "extract_dir": "deckcraft-$version-windows-x86-portable"
             }
         }
     }
