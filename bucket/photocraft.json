@@ -1,0 +1,56 @@
+{
+    "version": "0.3.0",
+    "description": "An open-source, clean-room reimplementation of Adobe Photoshop built in pure Rust",
+    "homepage": "https://github.com/storytold/photocraft",
+    "license": "MIT|Apache 2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://gh-proxy.org/https://github.com/storytold/photocraft/releases/download/v0.3.0/photocraft-0.3.0-windows-x64-portable.zip",
+            "hash": "9997f7df3a6f0717b46bb0f503b3d920c3beedeb9e9c4e1ff2ef3b8671acd47e"
+        },
+        "32bit": {
+            "url": "https://gh-proxy.org/https://github.com/storytold/photocraft/releases/download/v0.3.0/photocraft-0.3.0-windows-x86-portable.zip",
+            "hash": "8a4e8aabb7537806729bba4dad53518c3b9c43d22fdb0e65a9bab5db7e9b9a75"
+        },
+        "arm64": {
+            "url": "https://gh-proxy.org/https://github.com/storytold/photocraft/releases/download/v0.3.0/photocraft-0.3.0-windows-arm64-portable.zip",
+            "hash": "48778db8360577807f9ff875c80dfec007ba5d07a848d1b72af4653cd20ad28e"
+        }
+    },
+    "bin": [
+        [
+            "photocraft.exe",
+            "PhotoCraft"
+        ],
+        [
+            "photocraft-cli.exe",
+            "photocraft-cli"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "photocraft.exe",
+            "PhotoCraft"
+        ],
+        [
+            "photocraft-cli.exe",
+            "photocraft-cli"
+        ]
+    ],
+    "persist": "PhotoCraftData",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gh-proxy.org/https://github.com/storytold/photocraft/releases/download/v$version/photocraft-$version-windows-x64-portable.zip"
+            },
+            "32bit": {
+                "url": "https://gh-proxy.org/https://github.com/storytold/photocraft/releases/download/v$version/photocraft-$version-windows-x86-portable.zip"
+            },
+            "arm64": {
+                "url": "https://gh-proxy.org/https://github.com/storytold/photocraft/releases/download/v$version/photocraft-$version-windows-arm64-portable.zip"
+            }
+        }
+    }
+}
+
