@@ -1,5 +1,5 @@
 {
-    "version": "1.19.10",
+    "version": "1.19.11",
     "description": "Typora plugin. feature enhancement tool | Typora 插件，功能增强工具",
     "homepage": "https://github.com/obgnail/typora_plugin",
     "license": {
@@ -12,11 +12,9 @@
         "& \"$(scoop prefix typora)\\resources\\plugin\\bin\\install_windows.ps1\""
     ],
     "depends": "scoop-cn/typora",
-    "url": "https://gh-proxy.org/https://github.com/obgnail/typora_plugin/releases/download/1.19.10/typora-plugin@v1.19.10.zip",
-    "hash": "95e3c3a1e5eefcc19d98b34b3e45414a590d16b2907acda44e4ded2144fedba5",
-    "post_install": [
-    "Copy-Item \"$dir\\plugin\" \"$(scoop prefix typora)\\resources\" -Recurse -Force -ErrorAction 'SilentlyContinue'"
-    ],
+    "url": "https://gh-proxy.org/https://github.com/obgnail/typora_plugin/releases/download/1.19.11/typora-plugin@v1.19.11.zip",
+    "hash": "d016be137545c3bf1c5b475ed886f2e10d44cbc0c3764701cd5fed8c625b17da",
+    "post_install": "Copy-Item \"$dir\\plugin\" \"$(scoop prefix typora)\\resources\" -Recurse -Force -ErrorAction 'SilentlyContinue'",
     "uninstaller": {
         "script": [
             "Remove-Item \"$(scoop prefix typora)\\resources\\plugin\", \"$(scoop prefix typora)\\resources\\window.html\" -Force -Recurse",
