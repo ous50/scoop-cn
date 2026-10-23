@@ -1,18 +1,18 @@
 {
-    "version": "0.12.0",
+    "version": "0.13.0",
     "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
     "homepage": "https://github.com/storytold/lightcraft",
     "license": "MIT|Apache 2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/storytold/lightcraft/releases/download/v0.12.0/lightcraft-0.12.0-windows-x64-portable.zip",
-            "hash": "576191eeb08f3dd776408ee88e465a8bc6ef112e5a4831880d26abc9477a1457",
-            "extract_dir": "lightcraft-0.12.0-windows-x64-portable"
+            "url": "https://gh-proxy.org/https://github.com/storytold/lightcraft/releases/download/v0.13.0/lightcraft-0.13.0-windows-x64-portable.zip",
+            "hash": "92f9d3c43ef2e7a493912518bf8c8691da0bb417768e00f599b2378e5c043c2c",
+            "extract_dir": "lightcraft-0.13.0-windows-x64-portable"
         },
         "32bit": {
-            "url": "https://gh-proxy.org/https://github.com/storytold/lightcraft/releases/download/v0.12.0/lightcraft-0.12.0-windows-x86-portable.zip",
-            "hash": "4a16a7af3d0658bcd468682d83170c926b477bd82c5be93fc53ef5c63f7506c1",
-            "extract_dir": "lightcraft-0.12.0-windows-x86-portable"
+            "url": "https://gh-proxy.org/https://github.com/storytold/lightcraft/releases/download/v0.13.0/lightcraft-0.13.0-windows-x86-portable.zip",
+            "hash": "08c1805b7f2bcee4e03b5f29dc74d90737b3db5677f6de7267601a42e270998b",
+            "extract_dir": "lightcraft-0.13.0-windows-x86-portable"
         }
     },
     "bin": [
