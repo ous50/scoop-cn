@@ -5,9 +5,8 @@
     "license": "MIT",
     "suggest": {
         "JDK": [
-            "scoop-cn/openjdk21",
-            "scoop-cn/oraclejdk-lts",
-            "scoop-cn/temurin21-jre"
+            "scoop-cn/temurin25-jdk",
+            "scoop-cn/temurin-lts-jre"
         ],
         "Python": "python",
         "QPDF": "qpdf",
