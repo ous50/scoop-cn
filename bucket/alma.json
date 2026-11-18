@@ -1,5 +1,5 @@
 {
-    "version": "0.4.789",
+    "version": "0.4.811",
     "description": "A powerful harness of its own, and the best herdr GUI.",
     "homepage": "https://alma.now",
     "license": "Proprietary",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.org/https://github.com/yetone/alma-releases/releases/download/v0.4.789/alma-0.4.789-win-x64.exe#/dl.7z",
-            "hash": "sha512:bc62de5895af12a85bece06050619df1bdbc9b45d4ba0e856b432f40483accdaf4af41d855a90f68333dcf86ab5701348d9049581375d9faf8ec438603c9864a",
+            "url": "https://gh-proxy.org/https://github.com/yetone/alma-releases/releases/download/v0.4.811/alma-0.4.811-win-x64.exe#/dl.7z",
+            "hash": "sha512:7c9a2f51c3a4e1e4b10729e2aaf9672be4fc3e693aa74d9aa88b0fd8d8493fd01b55f8436a61988ad863fa88af2715b1c367136d18b84424e2adadcbbb1f5dfb",
             "installer": {
                 "script": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\" -Force -Recurse"
             }
