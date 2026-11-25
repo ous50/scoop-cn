@@ -16,14 +16,14 @@
     "pre_uninstall": "if (Test-Path \"$dir\\log.txt\") { Copy-Item \"$dir\\log.txt\" \"$persist_dir\\\" }",
     "bin": [
         [
-            "Telegram.exe",
-            "64Gram"
+            "64gram.exe",
+            "Telegram"
         ]
     ],
     "shortcuts": [
         [
-            "Telegram.exe",
-            "64Gram"
+            "64gram.exe",
+            "Telegram"
         ]
     ],
     "persist": "tdata",
